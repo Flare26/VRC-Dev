@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 4962362007445750276}
   - component: {fileID: 2932141114812882761}
   - component: {fileID: 5452635016416366634}
+  - component: {fileID: 7980938821097439812}
   m_Layer: 13
   m_Name: BlueCanU
   m_TagString: Untagged
@@ -121,6 +122,19 @@ MonoBehaviour:
   currentlyHeldBy: {fileID: 0}
   pickupable: 1
   proximity: 2
+--- !u!114 &7980938821097439812
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6712213647497083349}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1783056023, guid: 661092b4961be7145bfbe56e1e62337b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AllowCollisionOwnershipTransfer: 1
 --- !u!1001 &4168184254715998850
 PrefabInstance:
   m_ObjectHideFlags: 0

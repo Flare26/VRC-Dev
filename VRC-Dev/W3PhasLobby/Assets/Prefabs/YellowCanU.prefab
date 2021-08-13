@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 253409209147335065}
   - component: {fileID: 7571445667608125214}
   - component: {fileID: 5924016952705034810}
+  - component: {fileID: 822116948291230764}
   m_Layer: 13
   m_Name: YellowCanU
   m_TagString: Untagged
@@ -121,6 +122,19 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.08373892, y: 0.24851, z: 0.11276151}
   m_Center: {x: 0.40943438, y: -0.7639472, z: -7.94}
+--- !u!114 &822116948291230764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 379953383337199904}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1783056023, guid: 661092b4961be7145bfbe56e1e62337b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AllowCollisionOwnershipTransfer: 1
 --- !u!1001 &8049464569227902800
 PrefabInstance:
   m_ObjectHideFlags: 0
