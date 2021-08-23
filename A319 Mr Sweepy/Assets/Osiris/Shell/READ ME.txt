@@ -1,0 +1,9 @@
+For easiest use. 
+Drag and drop the prefab into your scene with your model and add a rigidbody to your hips. 
+Have all the constraints turned on and gravity turned off. 
+Then simply drag and drop your hips into the empty slot on the fixed joint. 
+Obviously, there's other ways too but that's the easiest. 
+Enjoy!
+
+
+Discord: https://discord.gg/xvvUQvqsJY
