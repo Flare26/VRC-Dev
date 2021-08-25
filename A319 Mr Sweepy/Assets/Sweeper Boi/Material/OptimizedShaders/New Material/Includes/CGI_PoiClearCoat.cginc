@@ -269,7 +269,7 @@ float3 getClearcoatIndirectSpecular(float metallic, float roughness, float3 refl
 		
 		spec = indirectSpecular;
 		#if defined(LIGHTMAP_ON)
-			float specMultiplier = max(0, lerp(1, pow(length(lightmap), float(0.2)), float(0)));
+			float specMultiplier = max(0, lerp(1, pow(length(lightmap), float(0)), float(0)));
 			spec *= specMultiplier;
 		#endif
 	#endif

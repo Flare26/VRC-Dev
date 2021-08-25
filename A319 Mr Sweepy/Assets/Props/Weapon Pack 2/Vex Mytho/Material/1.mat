@@ -586,9 +586,9 @@ Material:
     - _AudioLinkTextureVisualization: 0
     - _BRDFAnisotropy: 0
     - _BRDFForceFallback: 0
-    - _BRDFGlossiness: 0
+    - _BRDFGlossiness: 1
     - _BRDFInvertGlossiness: 0
-    - _BRDFMetallic: 0
+    - _BRDFMetallic: 1
     - _BRDFMetallicGlossMapToolTip: 0
     - _BRDFMetallicGlossMapUV: 0
     - _BRDFMetallicMapToolTip: 0
@@ -994,7 +994,7 @@ Material:
     - _EmissiveScroll_WidthAnimated: 0
     - _EnableAudioLink: 0
     - _EnableAudioLinkDebug: 0
-    - _EnableBRDF: 0
+    - _EnableBRDF: 1
     - _EnableBlur: 0
     - _EnableBlurAnimated: 0
     - _EnableBulge: 0
@@ -1029,7 +1029,7 @@ Material:
     - _EnableIridescenceAnimated: 0
     - _EnableLighting: 1
     - _EnableLightingAnimated: 0
-    - _EnableMetallic: 1
+    - _EnableMetallic: 0
     - _EnableMetallicAnimated: 0
     - _EnableMirrorOptions: 0
     - _EnableMirrorOptionsAnimated: 0
@@ -2129,7 +2129,7 @@ Material:
     - m_start_blending: 0
     - m_start_blinkingEmissionOptions: 0
     - m_start_blinkingEmissionOptions1: 0
-    - m_start_brdf: 0
+    - m_start_brdf: 1
     - m_start_clearCoat: 0
     - m_start_crossfade: 0
     - m_start_debugOptions: 0

@@ -61,13 +61,13 @@ v2f vert(appdata v)
 	
 	outlineMask = poiMax(tex2Dlod(_OutlineMask, float4(TRANSFORM_TEX(uvArray[float(0)], _OutlineMask) + _Time.x * float4(0,0,0,0), 0, 0)).rgb);
 	
-	if (float(0) == 2)
+	if (float(2) == 2)
 	{
 		outlineMask *= v.color.r;
 	}
 	
 	
-	if (float(0) != 1)
+	if (float(2) != 1)
 	{
 		o.normal = UnityObjectToWorldNormal(v.normal);
 	}
@@ -90,10 +90,10 @@ v2f vert(appdata v)
 	
 	if (float(1))
 	{
-		distanceOffset *= min(distance(_WorldSpaceCameraPos, mul(unity_ObjectToWorld, localPos).xyz), float(9999));
+		distanceOffset *= min(distance(_WorldSpaceCameraPos, mul(unity_ObjectToWorld, localPos).xyz), float(1));
 	}
 	
-	float3 offset = o.normal * (float(0.1) * float(0) / 100) * outlineMask * distanceOffset;
+	float3 offset = o.normal * (float(3) * float(0) / 100) * outlineMask * distanceOffset;
 	
 	
 	if (float(0) == 2)

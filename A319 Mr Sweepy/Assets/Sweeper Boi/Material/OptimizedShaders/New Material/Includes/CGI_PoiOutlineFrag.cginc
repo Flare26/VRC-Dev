@@ -61,12 +61,12 @@ float4 frag(v2f i, uint facing: SV_IsFrontFace): COLOR
 	col.a *= float4(0,0,0,1).a;
 	
 	
-	if (float(1) == 1)
+	if (float(0) == 1)
 	{
 		applyDithering(col);
 	}
 	
-	clip(col.a - float(0.5));
+	clip(col.a - float(0));
 	
 	#ifdef POI_MIRROR
 		applyMirrorRenderFrag();

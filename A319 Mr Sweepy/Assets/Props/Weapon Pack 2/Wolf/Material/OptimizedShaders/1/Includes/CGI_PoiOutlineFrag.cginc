@@ -47,7 +47,7 @@ float4 frag(v2f i, uint facing: SV_IsFrontFace): COLOR
 	fixed4 col = mainTexture;
 	float alphaMultiplier = smoothstep(float4(0,0,0,0).x, float4(0,0,0,0).y, distance(getCameraPosition(), i.worldPos));
 	float OutlineMask = tex2D(_OutlineMask, TRANSFORM_TEX(poiMesh.uv[float(0)], _OutlineMask) + _Time.x * float4(0,0,0,0)).r;
-	clip(OutlineMask * float(0.1) - 0.001);
+	clip(OutlineMask * float(3) - 0.001);
 	
 	col = col * 0.00000000001 + tex2D(_OutlineTexture, TRANSFORM_TEX(poiMesh.uv[float(0)], _OutlineTexture) + _Time.x * float4(0,0,0,0));
 	col.a *= albedo.a;
@@ -58,7 +58,7 @@ float4 frag(v2f i, uint facing: SV_IsFrontFace): COLOR
 	#endif
 	
 	poiCam.screenUV = calcScreenUVs(i.grabPos);
-	col.a *= float4(0,0,0,1).a;
+	col.a *= float4(1,1,1,1).a;
 	
 	
 	if (float(0) == 1)
@@ -84,7 +84,7 @@ float4 frag(v2f i, uint facing: SV_IsFrontFace): COLOR
 	{
 		col.rgb = lerp(col.rgb, poiLight.color, float(0));
 	}
-	col.rgb *= float4(0,0,0,1).rgb;
+	col.rgb *= float4(1,1,1,1).rgb;
 	
 	if (float(0) == 1)
 	{
@@ -95,9 +95,9 @@ float4 frag(v2f i, uint facing: SV_IsFrontFace): COLOR
 
 	// Hue shift
 	
-	if (float(0))
+	if (float(1))
 	{
-		finalColor.rgb = hueShift(finalColor.rgb, float(0) + float(0) * _Time.x);
+		finalColor.rgb = hueShift(finalColor.rgb, float(0.39) + float(3) * _Time.x);
 	}
 
 	#ifdef POI_LIGHTING
@@ -107,7 +107,7 @@ float4 frag(v2f i, uint facing: SV_IsFrontFace): COLOR
 			finalColor.rgb *= calculateFinalLighting(finalColor.rgb, finalColor);
 		}
 	#endif
-	finalColor.rgb += (col.rgb * float(0));
+	finalColor.rgb += (col.rgb * float(7.1));
 }
 else
 {

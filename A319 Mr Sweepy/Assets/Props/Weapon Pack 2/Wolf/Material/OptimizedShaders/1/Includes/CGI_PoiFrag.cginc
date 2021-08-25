@@ -375,7 +375,7 @@ float4 frag(v2f i, uint facing: SV_IsFrontFace): SV_Target
 	**********************************************************************/
 	#ifdef FORWARD_BASE_PASS
 		
-		if (float(0) == 0)
+		if (float(1) == 0)
 		{
 			UNITY_APPLY_FOG(i.fogCoord, finalColor);
 		}

@@ -190,10 +190,10 @@ float4 frag(v2f i, uint facing: SV_IsFrontFace): SV_Target
 	Handle a few alpha options
 	**********************************************************************/
 	
-	if (float(1) == 1)
+	if (float(0) == 1)
 	{
 		
-		if (float(1) == 0)
+		if (float(0) == 0)
 		{
 			applyDithering(albedo);
 		}
@@ -202,15 +202,15 @@ float4 frag(v2f i, uint facing: SV_IsFrontFace): SV_Target
 	albedo.a = max(float(0), albedo.a);
 	
 	
-	if (float(1) == 0)
+	if (float(0) == 0)
 	{
 		albedo.a = 1;
 	}
 	
 	
-	if (float(1) >= 1)
+	if (float(0) >= 1)
 	{
-		clip(albedo.a - float(0.5));
+		clip(albedo.a - float(0));
 	}
 	
 	
@@ -227,7 +227,7 @@ float4 frag(v2f i, uint facing: SV_IsFrontFace): SV_Target
 		finalLighting = calculateFinalLighting(albedo.rgb, finalColor);
 		finalLighting = max(finalLighting *= float(1), 0);
 
-		if (!float(0))
+		if (!float(1))
 		{
 			finalLighting = saturate(finalLighting);
 		}
@@ -253,10 +253,10 @@ float4 frag(v2f i, uint facing: SV_IsFrontFace): SV_Target
 	#endif
 	
 	
-	if (float(1) == 1)
+	if (float(0) == 1)
 	{
 		
-		if (float(1) == 1)
+		if (float(0) == 1)
 		{
 			applyDithering(finalColor);
 		}
@@ -382,14 +382,14 @@ float4 frag(v2f i, uint facing: SV_IsFrontFace): SV_Target
 	#endif
 	
 	#ifdef FORWARD_ADD_PASS
-		if (float(1) > 0)
+		if (float(0) > 0)
 		{
 			finalColor.rgb *= finalColor.a;
 		}
 	#endif
 	
 	
-	if (float(1) == 0)
+	if (float(0) == 0)
 	{
 		finalColor.a = 1;
 	}

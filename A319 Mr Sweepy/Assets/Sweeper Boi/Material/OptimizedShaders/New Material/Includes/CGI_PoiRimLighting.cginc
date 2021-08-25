@@ -58,9 +58,9 @@ void applyRimLighting(inout float4 albedo, inout float3 rimLightEmission)
         viewDotNormal = 1 - viewDotNormal;
     }
     float rimStrength = float(0);
-    float rimBrighten = float(0);
+    float rimBrighten = float(1);
 
-    float rimWidth = lerp( - .05, 1, float(0.8));
+    float rimWidth = lerp( - .05, 1, float(0.285));
     #ifdef POI_AUDIOLINK
         
         if (poiMods.audioLinkTextureExists)
@@ -87,11 +87,11 @@ void applyRimLighting(inout float4 albedo, inout float3 rimLightEmission)
     
     if (float(0))
     {
-        rimColor.rgb = hueShift(rimColor.rgb, float(0) + _Time.x * float(0));
+        rimColor.rgb = hueShift(rimColor.rgb, float(0) + _Time.x * float(6));
     }
     
-    rimWidth = max(lerp(rimWidth, rimWidth * lerp(0, 1, poiLight.lightMap - float(0.5)) * float(0.5), float(0)), 0);
-    rim = 1 - smoothstep(min(float(0.25), rimWidth), rimWidth, viewDotNormal);
+    rimWidth = max(lerp(rimWidth, rimWidth * lerp(0, 1, poiLight.lightMap - float(0.44)) * float(0.5), float(0)), 0);
+    rim = 1 - smoothstep(min(float(0.171), rimWidth), rimWidth, viewDotNormal);
     rim *= float4(1,1,1,1).a * rimColor.a * rimMask;
     rimLightEmission = rim * lerp(albedo, rimColor, float(0)) * rimStrength;
     albedo.rgb = lerp(albedo.rgb, lerp(albedo.rgb, rimColor, float(0)) + lerp(albedo.rgb, rimColor, float(0)) * rimBrighten, rim);

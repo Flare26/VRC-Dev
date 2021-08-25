@@ -92,7 +92,7 @@
         
         
         // Scale
-        float2 st = frac(poiMesh.uv[0] + float4(0,0,0,0).xy * _Time.x) * float(300);
+        float2 st = frac(poiMesh.uv[0] + float4(0,0,0,0).xy * _Time.x) * float(200);
         
         // Tile the space
         float2 i_st = floor(st);
@@ -127,7 +127,7 @@
         
         float size = float(0.3);
         
-        if(float(0))
+        if(float(1))
         {
             size = remapClamped(randomFromPoint, 0, 1, float4(0.1,0.5,0,1).x, float4(0.1,0.5,0,1).y);
         }
@@ -239,7 +239,7 @@
             float glitterMask = 1;
         #endif
         
-        glitterMask *= lerp(1, poiLight.rampedLightMap, float(0));
+        glitterMask *= lerp(1, poiLight.rampedLightMap, float(0.84));
         
         #ifdef POI_BLACKLIGHT
             if (_BlackLightMaskGlitter != 4)
@@ -248,7 +248,7 @@
             }
         #endif
         
-        if(float(0))
+        if(float(1))
         {
             glitterColor *= RandomColorFromPoint(random2(randoPoint.x + randoPoint.y));
         }
@@ -262,12 +262,12 @@
         
         if(float(0) == 1)
         {
-            albedo.rgb = lerp(albedo.rgb, finalGlitter * glitterColor * float(3), finalGlitter * glitterTexture.a * glitterMask);
-            glitterEmission = finalGlitter * glitterColor * max(0, (float(3) - 1) * glitterTexture.a) * glitterMask;
+            albedo.rgb = lerp(albedo.rgb, finalGlitter * glitterColor * float(5), finalGlitter * glitterTexture.a * glitterMask);
+            glitterEmission = finalGlitter * glitterColor * max(0, (float(5) - 1) * glitterTexture.a) * glitterMask;
         }
         else
         {
-            glitterEmission = finalGlitter * glitterColor * float(3) * glitterTexture.a * glitterMask;
+            glitterEmission = finalGlitter * glitterColor * float(5) * glitterTexture.a * glitterMask;
         }
     }
     

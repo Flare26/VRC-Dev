@@ -215,9 +215,9 @@
             metallicGlossMap.a = 1 - metallicGlossMap.a;
         }
         
-        float metallic = metallicGlossMap.r * float(0);
+        float metallic = metallicGlossMap.r * float(1);
         float reflectance = metallicGlossMap.g * float(0.5);
-        float roughness = max(1 - (float(0) * metallicGlossMap.a), getGeometricSpecularAA(poiMesh.normals[1]));
+        float roughness = max(1 - (float(1) * metallicGlossMap.a), getGeometricSpecularAA(poiMesh.normals[1]));
         finalColor.rgb *= lerp(1, 1 - metallic, float(1));
         
         float3 reflViewDir = getAnisotropicReflectionVector(poiCam.viewDir, poiMesh.binormal, poiMesh.tangent.xyz, poiMesh.normals[1], roughness, float(0));

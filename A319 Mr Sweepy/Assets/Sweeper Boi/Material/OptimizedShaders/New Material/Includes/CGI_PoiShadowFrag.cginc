@@ -46,7 +46,7 @@ half4 fragShadowCaster(
         
         
         //Possible Bug with clip
-        float clipValue = clamp(float(0.5) + float(0), - .001, 1.001);
+        float clipValue = clamp(float(0) + float(0), - .001, 1.001);
         
         poiMesh.vertexColor = saturate(i.vertexColor);
         poiMesh.worldPos = i.worldPos;
@@ -85,13 +85,13 @@ half4 fragShadowCaster(
             alpha.a = saturate(alpha.a);
             
             
-            if (float(1) == 0)
+            if (float(0) == 0)
             {
                 alpha.a = 1;
             }
             
             
-            if (float(1) == 1)
+            if (float(0) == 1)
             {
                 applyShadowDithering(alpha.a, calcScreenUVs(i.grabPos).xy);
             }
@@ -101,7 +101,7 @@ half4 fragShadowCaster(
                 calculateDissolve(alpha, fakeEmission);
             #endif
             
-            if (float(1) == 1)
+            if (float(0) == 1)
             {
                 clip(alpha.a - 0.001);
             }
@@ -114,7 +114,7 @@ half4 fragShadowCaster(
             #endif
             
             
-            if(float(1) >= 1)
+            if(float(0) >= 1)
             {
                 applySpawnInShadow(uv[0], i.localPos);
                 
@@ -124,13 +124,13 @@ half4 fragShadowCaster(
             }
             */
             
-            if (float(1) == 1)
+            if (float(0) == 1)
             {
                 clip(alpha.a - clipValue);
             }
             
             
-            if (float(1) > 1)
+            if (float(0) > 1)
             {
                 float dither = tex3D(_DitherMaskLOD, float3(i.pos.xy * .25, alpha.a * 0.9375)).a;
                 clip(dither - 0.01);

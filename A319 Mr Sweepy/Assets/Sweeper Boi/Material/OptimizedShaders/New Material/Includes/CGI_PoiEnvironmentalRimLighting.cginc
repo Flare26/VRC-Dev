@@ -14,8 +14,8 @@
     
     float3 calculateEnvironmentalRimLighting(in float4 albedo)
     {
-        float enviroRimAlpha = saturate(1 - smoothstep(min(float(0), float(0.45)), float(0.45), poiCam.viewDotNormal));
-        float(0.7) *= 1.7 - 0.7 * float(0.7);
+        float enviroRimAlpha = saturate(1 - smoothstep(min(float(0.046), float(0.726)), float(0.726), poiCam.viewDotNormal));
+        float(0.727) *= 1.7 - 0.7 * float(0.727);
         
         float3 enviroRimColor = 0;
         float interpolator = unity_SpecCube0_BoxMin.w;
@@ -23,18 +23,18 @@
         if (interpolator < 0.99999)
         {
             //Probe 1
-            float4 reflectionData0 = UNITY_SAMPLE_TEXCUBE_LOD(unity_SpecCube0, poiMesh.normals[1], float(0.7) * UNITY_SPECCUBE_LOD_STEPS);
+            float4 reflectionData0 = UNITY_SAMPLE_TEXCUBE_LOD(unity_SpecCube0, poiMesh.normals[1], float(0.727) * UNITY_SPECCUBE_LOD_STEPS);
             float3 reflectionColor0 = DecodeHDR(reflectionData0, unity_SpecCube0_HDR);
             
             //Probe 2
-            float4 reflectionData1 = UNITY_SAMPLE_TEXCUBE_SAMPLER_LOD(unity_SpecCube1, unity_SpecCube0, poiMesh.normals[1], float(0.7) * UNITY_SPECCUBE_LOD_STEPS);
+            float4 reflectionData1 = UNITY_SAMPLE_TEXCUBE_SAMPLER_LOD(unity_SpecCube1, unity_SpecCube0, poiMesh.normals[1], float(0.727) * UNITY_SPECCUBE_LOD_STEPS);
             float3 reflectionColor1 = DecodeHDR(reflectionData1, unity_SpecCube1_HDR);
             
             enviroRimColor = lerp(reflectionColor1, reflectionColor0, interpolator);
         }
         else
         {
-            float4 reflectionData = UNITY_SAMPLE_TEXCUBE_LOD(unity_SpecCube0, poiMesh.normals[1], float(0.7) * UNITY_SPECCUBE_LOD_STEPS);
+            float4 reflectionData = UNITY_SAMPLE_TEXCUBE_LOD(unity_SpecCube0, poiMesh.normals[1], float(0.727) * UNITY_SPECCUBE_LOD_STEPS);
             enviroRimColor = DecodeHDR(reflectionData, unity_SpecCube0_HDR);
         }
         #if defined(PROP_RIMENVIROMASK) || !defined(OPTIMIZER_ENABLED)

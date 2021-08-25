@@ -184,7 +184,7 @@
             
             spec = indirectSpecular;
             #if defined(LIGHTMAP_ON)
-                float specMultiplier = max(0, lerp(1, pow(length(lightmap), float(0.2)), float(0)));
+                float specMultiplier = max(0, lerp(1, pow(length(lightmap), float(0)), float(0)));
                 spec *= specMultiplier;
             #endif
         #endif
@@ -215,9 +215,9 @@
             metallicGlossMap.a = 1 - metallicGlossMap.a;
         }
         
-        float metallic = metallicGlossMap.r * float(0);
-        float reflectance = metallicGlossMap.g * float(0.5);
-        float roughness = max(1 - (float(0) * metallicGlossMap.a), getGeometricSpecularAA(poiMesh.normals[1]));
+        float metallic = metallicGlossMap.r * float(0.122);
+        float reflectance = metallicGlossMap.g * float(0.42);
+        float roughness = max(1 - (float(0.534) * metallicGlossMap.a), getGeometricSpecularAA(poiMesh.normals[1]));
         finalColor.rgb *= lerp(1, 1 - metallic, float(1));
         
         float3 reflViewDir = getAnisotropicReflectionVector(poiCam.viewDir, poiMesh.binormal, poiMesh.tangent.xyz, poiMesh.normals[1], roughness, float(0));
@@ -246,7 +246,7 @@
         #endif
         
         float3 indirectSpecular = getIndirectSpecular(metallic, roughness, reflViewDir, poiMesh.worldPos, /*directDiffuse*/ finalColor.rgb, poiMesh.normals[1]) * lerp(fresnel, f0, roughness);
-        float3 specular = indirectSpecular * float(1) * metallicTintMask.a * metallicTintMask.rgb * poiLight.occlusion + (directSpecular + vDirectSpecular) * float(1) * spcularTintMask.a * spcularTintMask.rgb;
+        float3 specular = indirectSpecular * float(1) * metallicTintMask.a * metallicTintMask.rgb * poiLight.occlusion + (directSpecular + vDirectSpecular) * float(0) * spcularTintMask.a * spcularTintMask.rgb;
         finalColor.rgb += specular;
     }
     

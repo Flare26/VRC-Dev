@@ -685,7 +685,7 @@ void calculateBasePassLightMaps()
         }
         
         // DJL stuff
-        if (float(4) == 2) // Wrapped
+        if (float(1) == 2) // Wrapped
 
         {
             float wrap = float(0);
@@ -763,16 +763,16 @@ void calculateBasePassLightMaps()
                 detailShadow = lerp(1, POI2D_SAMPLER_PAN(_LightingDetailShadows, _MainTex, poiMesh.uv[float(0)], float4(0,0,0,0)), float(1)).r;
             }
             
-            if (float(1) == 0)
+            if (float(0) == 0)
             {
                 return lightColor * attenuationDotNL * detailShadow; // Realistic
             }
-            else if (float(1) == 1) // Toon
+            else if (float(0) == 1) // Toon
 
             {
                 return lerp(lightColor * attenuation, lightColor * float(0.5) * attenuation, smoothstep(float(0), float(0.5), dotNL)) * detailShadow;
             }
-            else //if(float(1) == 2) // Wrapped
+            else //if(float(0) == 2) // Wrapped
 
             {
                 float uv = saturate(RTWrapFunc(-dotNL, float(0), float(0))) * detailShadow;
@@ -844,12 +844,12 @@ void calculateBasePassLightMaps()
                     detailShadow = lerp(1, POI2D_SAMPLER_PAN(_LightingDetailShadows, _MainTex, poiMesh.uv[float(0)], float4(0,0,0,0)), float(1)).r;
                 }
                 
-                if (float(1) == 0) // Realistic
+                if (float(0) == 0) // Realistic
 
                 {
                     finalLighting = poiLight.color * poiLight.attenuation * max(0, poiLight.nDotL) * detailShadow * poiLight.additiveShadow;
                 }
-                else if (float(1) == 1) // Toon
+                else if (float(0) == 1) // Toon
 
                 {
                     #if defined(POINT) || defined(SPOT)
@@ -858,7 +858,7 @@ void calculateBasePassLightMaps()
                         finalLighting = lerp(poiLight.color * max(poiLight.attenuation, float(0.5)), poiLight.color * float(0.5), smoothstep(float(0), float(0.5), 1 - (.5 * poiLight.nDotL + .5))) * detailShadow;
                     #endif
                 }
-                else //if(float(1) == 2) // Wrapped
+                else //if(float(0) == 2) // Wrapped
 
                 {
                     float uv = saturate(RTWrapFunc(poiLight.nDotL, float(0), float(0))) * detailShadow;
@@ -886,7 +886,7 @@ void calculateBasePassLightMaps()
                     }
                 #endif
                 
-                switch(float(4))
+                switch(float(1))
                 {
                     case 0: // Toon Lighting
                     case 2: // or wrapped

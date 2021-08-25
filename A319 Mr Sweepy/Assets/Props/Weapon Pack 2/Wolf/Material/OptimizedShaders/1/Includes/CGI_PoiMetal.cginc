@@ -35,7 +35,7 @@
     
     void calculateMetallicness()
     {
-        metalicMap = POI2D_SAMPLER_PAN(_MetallicMask, _MainTex, poiMesh.uv[float(0)], float4(0,0,0,0)) * float(0.519);
+        metalicMap = POI2D_SAMPLER_PAN(_MetallicMask, _MainTex, poiMesh.uv[float(0)], float4(0,0,0,0)) * float(0.579);
     }
     
     void ApplyMetallics(inout float4 finalColor, in float4 albedo)
@@ -101,7 +101,7 @@
     void ApplyMetallicsFake(inout float4 finalColor, in float4 albedo)
     {
         #ifdef FORWARD_BASE_PASS
-            metalicMap = POI2D_SAMPLER_PAN(_MetallicMask, _MainTex, poiMesh.uv[float(0)], float4(0,0,0,0)) * float(0.519);
+            metalicMap = POI2D_SAMPLER_PAN(_MetallicMask, _MainTex, poiMesh.uv[float(0)], float4(0,0,0,0)) * float(0.579);
             float smoothnessMap = (POI2D_SAMPLER_PAN(_SmoothnessMask, _MainTex, poiMesh.uv[float(0)], float4(0,0,0,0)));
             
             #ifdef POI_BLACKLIGHT

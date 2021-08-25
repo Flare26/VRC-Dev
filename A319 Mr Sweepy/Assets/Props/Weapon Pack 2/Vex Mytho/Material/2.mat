@@ -13,7 +13,7 @@ Material:
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 2000
+  m_CustomRenderQueue: 2010
   stringTagMap:
     OptimizedShaderFolder: 2
     OriginalShader: ".poiyomi/\u2022 Poiyomi Toon \u2022"
@@ -586,14 +586,14 @@ Material:
     - _AudioLinkTextureVisualization: 0
     - _BRDFAnisotropy: 0
     - _BRDFForceFallback: 0
-    - _BRDFGlossiness: 0
+    - _BRDFGlossiness: 1
     - _BRDFInvertGlossiness: 0
-    - _BRDFMetallic: 0
+    - _BRDFMetallic: 1
     - _BRDFMetallicGlossMapToolTip: 0
     - _BRDFMetallicGlossMapUV: 0
     - _BRDFMetallicMapToolTip: 0
     - _BRDFMetallicMapUV: 0
-    - _BRDFReflectance: 0.5
+    - _BRDFReflectance: 1
     - _BRDFReflectionsEnabled: 1
     - _BRDFSpecularEnabled: 1
     - _BRDFSpecularMapToolTip: 0
@@ -994,7 +994,7 @@ Material:
     - _EmissiveScroll_WidthAnimated: 0
     - _EnableAudioLink: 0
     - _EnableAudioLinkDebug: 0
-    - _EnableBRDF: 0
+    - _EnableBRDF: 1
     - _EnableBlur: 0
     - _EnableBlurAnimated: 0
     - _EnableBulge: 0
@@ -1029,7 +1029,7 @@ Material:
     - _EnableIridescenceAnimated: 0
     - _EnableLighting: 1
     - _EnableLightingAnimated: 0
-    - _EnableMetallic: 1
+    - _EnableMetallic: 0
     - _EnableMetallicAnimated: 0
     - _EnableMirrorOptions: 0
     - _EnableMirrorOptionsAnimated: 0
@@ -1125,9 +1125,9 @@ Material:
     - _GlitterAngleRangeAnimated: 0
     - _GlitterBias: 0.8
     - _GlitterBiasAnimated: 0
-    - _GlitterBlendType: 0
+    - _GlitterBlendType: 1
     - _GlitterBlendTypeAnimated: 0
-    - _GlitterBrightness: 3
+    - _GlitterBrightness: 10
     - _GlitterBrightnessAnimated: 0
     - _GlitterCenterSize: 0.08
     - _GlitterColorAnimated: 0
@@ -1135,13 +1135,13 @@ Material:
     - _GlitterColorMapPanAnimated: 0
     - _GlitterColorMapUV: 0
     - _GlitterColorMapUVAnimated: 0
-    - _GlitterContrast: 130
+    - _GlitterContrast: 1000
     - _GlitterContrastAnimated: 0
-    - _GlitterEnable: 0
+    - _GlitterEnable: 1
     - _GlitterEnableAnimated: 0
-    - _GlitterFrequency: 300
+    - _GlitterFrequency: 200
     - _GlitterFrequencyAnimated: 0
-    - _GlitterHideInShadow: 0.4
+    - _GlitterHideInShadow: 1
     - _GlitterHueShift: 0
     - _GlitterHueShiftEnabled: 0
     - _GlitterHueShiftSpeed: 0
@@ -1162,10 +1162,10 @@ Material:
     - _GlitterRandomColorsAnimated: 0
     - _GlitterRandomRotation: 0
     - _GlitterRandomSize: 0
-    - _GlitterShape: 0
-    - _GlitterSize: 1
+    - _GlitterShape: 1
+    - _GlitterSize: 0.312
     - _GlitterSizeAnimated: 0
-    - _GlitterSpeed: 10
+    - _GlitterSpeed: 1
     - _GlitterSpeedAnimated: 0
     - _GlitterTextureRotation: 0
     - _GlitterUseSurfaceColor: 0
@@ -2129,7 +2129,7 @@ Material:
     - m_start_blending: 0
     - m_start_blinkingEmissionOptions: 0
     - m_start_blinkingEmissionOptions1: 0
-    - m_start_brdf: 0
+    - m_start_brdf: 1
     - m_start_clearCoat: 0
     - m_start_crossfade: 0
     - m_start_debugOptions: 0
