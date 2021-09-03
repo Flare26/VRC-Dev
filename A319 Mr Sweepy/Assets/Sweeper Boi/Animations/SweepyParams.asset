@@ -49,3 +49,15 @@ MonoBehaviour:
     valueType: 0
     saved: 1
     defaultValue: 0
+  - name: ToggleCape
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: ToggleLament
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+  - name: ToggleGjal
+    valueType: 0
+    saved: 1
+    defaultValue: 0

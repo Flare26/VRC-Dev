@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: New Material
-  m_Shader: {fileID: 4800000, guid: 0ceab9e0c3d71dd489c42ef65bea9322, type: 3}
+  m_Shader: {fileID: 4800000, guid: 8ea998c779f540a4aa86902665d142bc, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
@@ -541,7 +541,7 @@ Material:
     - _AnisoUseTangentMap1: 0
     - _AnisoUseTangentMap1Animated: 0
     - _AnisoUseTangentMapAnimated: 0
-    - _AttenuationMultiplier: 0
+    - _AttenuationMultiplier: 1
     - _AttenuationMultiplierAnimated: 0
     - _AudioLinkAddEmission1Band: 0
     - _AudioLinkAddEmissionBand: 0
@@ -589,16 +589,16 @@ Material:
     - _AudioLinkTextureVisualization: 0
     - _BRDFAnisotropy: 0
     - _BRDFForceFallback: 0
-    - _BRDFGlossiness: 0.534
+    - _BRDFGlossiness: 0.382
     - _BRDFInvertGlossiness: 0
-    - _BRDFMetallic: 0.122
+    - _BRDFMetallic: 1
     - _BRDFMetallicGlossMapToolTip: 0
     - _BRDFMetallicGlossMapUV: 0
     - _BRDFMetallicMapToolTip: 0
     - _BRDFMetallicMapUV: 0
-    - _BRDFReflectance: 0.42
+    - _BRDFReflectance: 0.5
     - _BRDFReflectionsEnabled: 1
-    - _BRDFSpecularEnabled: 0
+    - _BRDFSpecularEnabled: 1
     - _BRDFSpecularMapToolTip: 0
     - _BRDFSpecularMapUV: 0
     - _BackFaceColorAnimated: 0
@@ -796,7 +796,7 @@ Material:
     - _DepthMaskAnimated: 0
     - _DetailBrightness: 1
     - _DetailBrightnessAnimated: 0
-    - _DetailEnabled: 0
+    - _DetailEnabled: 1
     - _DetailMaskAnimated: 0
     - _DetailMaskPanAnimated: 0
     - _DetailMaskUV: 0
@@ -1040,7 +1040,7 @@ Material:
     - _EnableMirrorTextureAnimated: 0
     - _EnableRandom: 0
     - _EnableRandomAnimated: 0
-    - _EnableRimLighting: 1
+    - _EnableRimLighting: 0
     - _EnableRimLightingAnimated: 0
     - _EnableSSS: 0
     - _EnableSSSAnimated: 0
@@ -1248,13 +1248,13 @@ Material:
     - _LightingAdditiveType: 2
     - _LightingAdditiveTypeAnimated: 0
     - _LightingDetailShadowsAnimated: 0
-    - _LightingDetailShadowsEnabled: 0
+    - _LightingDetailShadowsEnabled: 1
     - _LightingDetailShadowsPanAnimated: 0
     - _LightingDetailShadowsUV: 0
     - _LightingDetailShadowsUVAnimated: 0
     - _LightingDetailStrength: 1
     - _LightingDetailStrengthAnimated: 0
-    - _LightingDirectColorMode: 0
+    - _LightingDirectColorMode: 1
     - _LightingEnableAO: 0
     - _LightingEnableHSL: 0
     - _LightingEndColorAnimated: 0
@@ -1280,7 +1280,7 @@ Material:
     - _LightingNumRamps: 1
     - _LightingNumRampsAnimated: 0
     - _LightingOnlyUnityShadows: 0
-    - _LightingRampType: 0
+    - _LightingRampType: 1
     - _LightingShadowHue: 0.5
     - _LightingShadowLightness: 0.5
     - _LightingShadowMaskAnimated: 0
@@ -1301,8 +1301,8 @@ Material:
     - _LightingTypeAnimated: 0
     - _LightingUncapped: 1
     - _LightingUncappedAnimated: 0
-    - _LightingWrappedNormalization: 0
-    - _LightingWrappedWrap: 0.29
+    - _LightingWrappedNormalization: 1
+    - _LightingWrappedWrap: 0.39
     - _LineColorAnimated: 0
     - _LineWidth: 0.1
     - _LineWidthAnimated: 0
@@ -1960,8 +1960,8 @@ Material:
     - footer_youtube: 0
     - m_ParallaxMap: 0
     - m_Patreon: 0
-    - m_PostProcessing: 1
-    - m_Special_Effects: 1
+    - m_PostProcessing: 0
+    - m_Special_Effects: 0
     - m_end_Alpha: 0
     - m_end_BlackLight: 0
     - m_end_Blur: 0
@@ -2068,10 +2068,10 @@ Material:
     - m_end_subsurface: 0
     - m_end_vertexManipulation: 0
     - m_end_voronoiRandom: 0
-    - m_lightingOptions: 1
-    - m_mainOptions: 1
+    - m_lightingOptions: 0
+    - m_mainOptions: 0
     - m_outlineOptions: 0
-    - m_renderingOptions: 1
+    - m_renderingOptions: 0
     - m_start_Alpha: 0
     - m_start_BlackLight: 0
     - m_start_Blur: 0
@@ -2099,9 +2099,9 @@ Material:
     - m_start_GrabPass: 0
     - m_start_Hologram: 0
     - m_start_Iridescence: 0
-    - m_start_Lighting: 1
+    - m_start_Lighting: 0
     - m_start_MainHueShift: 0
-    - m_start_MainVertexColors: 1
+    - m_start_MainVertexColors: 0
     - m_start_Matcap2: 0
     - m_start_Metallic: 0
     - m_start_OutlineStencil: 0
@@ -2117,22 +2117,22 @@ Material:
     - m_start_TextInstanceTime: 0
     - m_start_TextPosition: 0
     - m_start_TouchGlow: 0
-    - m_start_TouchOptions: 0
+    - m_start_TouchOptions: 1
     - m_start_VertexGlitch: 0
     - m_start_Video: 0
     - m_start_VideoDebug: 0
     - m_start_VideoSettings: 0
     - m_start_Voronoi: 0
-    - m_start_ambientOcclusion: 1
+    - m_start_ambientOcclusion: 0
     - m_start_angularFade: 0
     - m_start_audioLink: 0
     - m_start_audioLinkDebug: 0
     - m_start_backFace: 0
-    - m_start_bakedLighting: 1
+    - m_start_bakedLighting: 0
     - m_start_blending: 0
     - m_start_blinkingEmissionOptions: 0
     - m_start_blinkingEmissionOptions1: 0
-    - m_start_brdf: 1
+    - m_start_brdf: 0
     - m_start_clearCoat: 0
     - m_start_crossfade: 0
     - m_start_debugOptions: 0
@@ -2152,10 +2152,10 @@ Material:
     - m_start_glitterRandom: 0
     - m_start_glowInDarkEmissionOptions: 1
     - m_start_glowInDarkEmissionOptions1: 0
-    - m_start_lightingAdvanced: 1
+    - m_start_lightingAdvanced: 0
     - m_start_lightingBeta: 0
     - m_start_lightingHSL: 0
-    - m_start_lightingModifiers: 1
+    - m_start_lightingModifiers: 0
     - m_start_manualFlipbookControl: 0
     - m_start_matcap: 0
     - m_start_matcap2HueShift: 0
@@ -2169,7 +2169,7 @@ Material:
     - m_start_pointToPoint: 0
     - m_start_reflectionRim: 0
     - m_start_rimHueShift: 0
-    - m_start_rimLightOptions: 1
+    - m_start_rimLightOptions: 0
     - m_start_rimWidthNoise: 0
     - m_start_scrollingEmissionOptions: 0
     - m_start_scrollingEmissionOptions1: 0

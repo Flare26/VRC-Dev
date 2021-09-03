@@ -320,7 +320,7 @@ float3 calculateSpecular(in float4 albedo)
     
     #ifdef POI_LIGHTING
         
-        if (float(2) == 0 && float(0) == 1)
+        if (float(2) == 0 && float(1) == 1)
         {
             attenuation = poiLight.rampedLightMap;
         }

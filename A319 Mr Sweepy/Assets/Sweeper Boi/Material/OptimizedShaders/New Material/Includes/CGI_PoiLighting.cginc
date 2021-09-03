@@ -135,7 +135,7 @@ float3 GreenWrapSHOpt(float fW) // optimised and normalized https://blog.selfsha
 float3 ShadeSH9_wrapped(float3 normal, float wrap)
 {
     float3 x0, x1, x2;
-    float3 conv = lerp(GreenWrapSH(wrap), GreenWrapSHOpt(wrap), float(0)); // Should try optimizing this...
+    float3 conv = lerp(GreenWrapSH(wrap), GreenWrapSHOpt(wrap), float(1)); // Should try optimizing this...
     conv *= float3(1, 1.5, 4); // Undo pre-applied cosine convolution by using the inverse
     
     // Constant (L0)
@@ -244,7 +244,7 @@ UnityLight CreateLight(float3 normal, fixed detailShadowMap)
 {
     UnityLight light;
     light.dir = poiLight.direction;
-    light.color = saturate(_LightColor0.rgb * lerp(1, poiLight.attenuation, float(0)) * detailShadowMap);
+    light.color = saturate(_LightColor0.rgb * lerp(1, poiLight.attenuation, float(1)) * detailShadowMap);
     light.ndotl = DotClamped(normal, poiLight.direction);
     return light;
 }
@@ -255,7 +255,7 @@ float FadeShadows(float attenuation)
         // UNITY_LIGHT_ATTENUATION doesn't fade shadows for us.
         
         #if ADDITIONAL_MASKED_DIRECTIONAL_SHADOWS
-            attenuation = lerp(1, poiLight.attenuation, float(0));
+            attenuation = lerp(1, poiLight.attenuation, float(1));
         #endif
         
         float viewZ = dot(_WorldSpaceCameraPos - poiMesh.worldPos, UNITY_MATRIX_V[2].xyz);
@@ -273,7 +273,7 @@ float FadeShadows(float attenuation)
 void ApplySubtractiveLighting(inout UnityIndirect indirectLight)
 {
     #if SUBTRACTIVE_LIGHTING
-        poiLight.attenuation = FadeShadows(lerp(1, poiLight.attenuation, float(0)));
+        poiLight.attenuation = FadeShadows(lerp(1, poiLight.attenuation, float(1)));
         
         float ndotl = saturate(dot(i.normal, _WorldSpaceLightPos0.xyz));
         float3 shadowedLightEstimate = ndotl * (1 - poiLight.attenuation) * _LightColor0.rgb;
@@ -518,14 +518,14 @@ void calculateBasePassLightMaps()
         #endif
         
         float bw_lightColor = dot(lightColor, grayscale_vector);
-        float bw_directLighting = (((poiLight.nDotL * 0.5 + 0.5) * bw_lightColor * lerp(1, poiLight.attenuation, float(0))) + dot(ShadeSH9Normal(poiMesh.normals[1]), grayscale_vector));
+        float bw_directLighting = (((poiLight.nDotL * 0.5 + 0.5) * bw_lightColor * lerp(1, poiLight.attenuation, float(1))) + dot(ShadeSH9Normal(poiMesh.normals[1]), grayscale_vector));
         float bw_bottomIndirectLighting = dot(ShadeSH9Minus, grayscale_vector);
         float bw_topIndirectLighting = dot(ShadeSH9Plus, grayscale_vector);
         float lightDifference = ((bw_topIndirectLighting + bw_lightColor) - bw_bottomIndirectLighting);
         
         fixed detailShadow = 1;
         
-        if (float(0))
+        if (float(1))
         {
             detailShadow = lerp(1, POI2D_SAMPLER_PAN(_LightingDetailShadows, _MainTex, poiMesh.uv[float(0)], float4(0,0,0,0)), float(1)).r;
         }
@@ -564,7 +564,7 @@ void calculateBasePassLightMaps()
         
 
         
-        if (float(0) == 0)
+        if (float(1) == 0)
         {
             float3 magic = max(BetterSH9(normalize(unity_SHAr + unity_SHAg + unity_SHAb)), 0);
             float3 normalLight = _LightColor0.rgb + BetterSH9(float4(0, 0, 0, 1));
@@ -637,7 +637,7 @@ void calculateBasePassLightMaps()
         /*
         * Create Gradiant Maps
         */
-        switch(float(0))
+        switch(float(1))
         {
             case 0: // Ramp Texture
 
@@ -688,10 +688,10 @@ void calculateBasePassLightMaps()
         if (float(2) == 2) // Wrapped
 
         {
-            float wrap = float(0.29);
+            float wrap = float(0.39);
             
-            float3 directcolor = (_LightColor0.rgb) * saturate(RTWrapFunc(poiLight.nDotL, wrap, float(0)));
-            float directatten = lerp(1, poiLight.attenuation, float(0));
+            float3 directcolor = (_LightColor0.rgb) * saturate(RTWrapFunc(poiLight.nDotL, wrap, float(1)));
+            float directatten = lerp(1, poiLight.attenuation, float(1));
             
             uint normalsindex = float(1) > 0 ? 1: 0;
             // if (float(1) == 1)
@@ -720,12 +720,12 @@ void calculateBasePassLightMaps()
                     
                     poiLight.rampedLightMap = 1;
                     
-                    if (float(0) == 0) // Ramp Texture
+                    if (float(1) == 0) // Ramp Texture
 
                     {
                         poiLight.rampedLightMap = lerp(1, UNITY_SAMPLE_TEX2D(_ToonRamp, poiLight.lightMap + float(0.51)).rgb, shadowStrength.r);
                     }
-                    else if (float(0) == 1) // Math Gradient
+                    else if (float(1) == 1) // Math Gradient
 
                     {
                         poiLight.rampedLightMap = lerp(float4(1,1,1,1) * lerp(poiLight.indirectLighting, 1, float(0)), float3(1, 1, 1), saturate(1 - smoothstep(float(0) - .000001, float(0.5), 1 - poiLight.lightMap)));
@@ -747,7 +747,7 @@ void calculateBasePassLightMaps()
         void applyShadowTexture(inout float4 albedo)
         {
             
-            if (_UseShadowTexture && float(0) == 1)
+            if (_UseShadowTexture && float(1) == 1)
             {
                 albedo.rgb = lerp(albedo.rgb, POI2D_SAMPLER_PAN(_LightingShadowTexture, _MainTex, poiMesh.uv[_LightingShadowTextureUV], _LightingShadowTexturePan) * float4(1,1,1,1), (1 - poiLight.rampedLightMap) * shadowStrength);
             }
@@ -758,7 +758,7 @@ void calculateBasePassLightMaps()
         {
             fixed detailShadow = 1;
             
-            if (float(0))
+            if (float(1))
             {
                 detailShadow = lerp(1, POI2D_SAMPLER_PAN(_LightingDetailShadows, _MainTex, poiMesh.uv[float(0)], float4(0,0,0,0)), float(1)).r;
             }
@@ -775,10 +775,10 @@ void calculateBasePassLightMaps()
             else //if(float(2) == 2) // Wrapped
 
             {
-                float uv = saturate(RTWrapFunc(-dotNL, float(0.29), float(0))) * detailShadow;
+                float uv = saturate(RTWrapFunc(-dotNL, float(0.39), float(1))) * detailShadow;
                 
                 poiLight.rampedLightMap = 1;
-                if (float(0) == 1) // Math Gradient
+                if (float(1) == 1) // Math Gradient
                 poiLight.rampedLightMap = lerp(float4(1,1,1,1), float3(1, 1, 1), saturate(1 - smoothstep(float(0) - .000001, float(0.5), 1 - uv)));
                 // TODO: ramp texture or full shade/tint map for atlasing
                 
@@ -789,7 +789,7 @@ void calculateBasePassLightMaps()
         void applyShadeMaps(inout float4 albedo)
         {
             
-            if (float(0) == 2)
+            if (float(1) == 2)
             {
                 float3 baseColor = albedo.rgb;
                 
@@ -839,7 +839,7 @@ void calculateBasePassLightMaps()
             #ifdef FORWARD_ADD_PASS
                 fixed detailShadow = 1;
                 
-                if (float(0))
+                if (float(1))
                 {
                     detailShadow = lerp(1, POI2D_SAMPLER_PAN(_LightingDetailShadows, _MainTex, poiMesh.uv[float(0)], float4(0,0,0,0)), float(1)).r;
                 }
@@ -861,11 +861,11 @@ void calculateBasePassLightMaps()
                 else //if(float(2) == 2) // Wrapped
 
                 {
-                    float uv = saturate(RTWrapFunc(poiLight.nDotL, float(0.29), float(0))) * detailShadow;
+                    float uv = saturate(RTWrapFunc(poiLight.nDotL, float(0.39), float(1))) * detailShadow;
                     
                     poiLight.rampedLightMap = 1;
                     
-                    if (float(0) == 1) // Math Gradient
+                    if (float(1) == 1) // Math Gradient
                     poiLight.rampedLightMap = lerp(float4(1,1,1,1), float3(1, 1, 1), saturate(1 - smoothstep(float(0) - .000001, float(0.5), 1 - uv)));
                     // TODO: ramp texture or full shade/tint map for atlasing
                     //poiLight.rampedLightMap = lerp(1, UNITY_SAMPLE_TEX2D(_ToonRamp, float2(uv + float(0.51), 1)), shadowStrength.r);
@@ -920,7 +920,7 @@ void calculateBasePassLightMaps()
                     {
                         fixed detailShadow = 1;
                         
-                        if (float(0))
+                        if (float(1))
                         {
                             detailShadow = lerp(1, POI2D_SAMPLER_PAN(_LightingDetailShadows, _MainTex, poiMesh.uv[float(0)], float4(0,0,0,0)), float(1)).r;
                         }

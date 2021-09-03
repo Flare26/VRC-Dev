@@ -33,11 +33,31 @@ MonoBehaviour:
     subMenu: {fileID: 0}
     subParameters: []
     labels: []
-  - name: Sword
+  - name: Glitter Sword
     icon: {fileID: 0}
     type: 102
     parameter:
       name: ToggleSword
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Lament
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: ToggleLament
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Gjallarhorn
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: ToggleGjal
     value: 1
     style: 0
     subMenu: {fileID: 0}

@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: 2
-  m_Shader: {fileID: 4800000, guid: ee22aede5ad5e0846ba522558385b818, type: 3}
+  m_Shader: {fileID: 4800000, guid: 4ee950d52a57eae4dadaed958a61418f, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -588,7 +588,7 @@ Material:
     - _BRDFForceFallback: 0
     - _BRDFGlossiness: 1
     - _BRDFInvertGlossiness: 0
-    - _BRDFMetallic: 1
+    - _BRDFMetallic: 0.8
     - _BRDFMetallicGlossMapToolTip: 0
     - _BRDFMetallicGlossMapUV: 0
     - _BRDFMetallicMapToolTip: 0

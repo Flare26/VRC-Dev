@@ -138,7 +138,7 @@
             float D = D_GGX_Anisotropic(ndh, halfVector, tangent, bitangent, at, ab);
             float3 directSpecularAniso = max(0, (D * V) * F);
             
-            return lerp(directSpecularNonAniso, directSpecularAniso, saturate(abs(float(0) * 100))) * 3; // * 100 to prevent blending, blend because otherwise tangents are fucked on lightmapped object
+            return lerp(directSpecularNonAniso, directSpecularAniso, saturate(abs(float(-1) * 100))) * 3; // * 100 to prevent blending, blend because otherwise tangents are fucked on lightmapped object
         #else
             return 0;
         #endif
@@ -220,7 +220,7 @@
         float roughness = max(1 - (float(1) * metallicGlossMap.a), getGeometricSpecularAA(poiMesh.normals[1]));
         finalColor.rgb *= lerp(1, 1 - metallic, float(1));
         
-        float3 reflViewDir = getAnisotropicReflectionVector(poiCam.viewDir, poiMesh.binormal, poiMesh.tangent.xyz, poiMesh.normals[1], roughness, float(0));
+        float3 reflViewDir = getAnisotropicReflectionVector(poiCam.viewDir, poiMesh.binormal, poiMesh.tangent.xyz, poiMesh.normals[1], roughness, float(-1));
         float3 reflLightDir = reflect(poiLight.direction, poiMesh.normals[1]);
         
         #if defined(FORWARD_BASE_PASS) || defined(POI_META_PASS)
@@ -233,14 +233,14 @@
         
         float3 f0 = 0.16 * reflectance * reflectance * (1.0 - metallic) + finalColorBeforeLighting.rgb * metallic;
         float3 fresnel = lerp(F_Schlick(poiLight.nDotV, f0), f0, metallic); //Kill fresnel on metallics, it looks bad.
-        float3 directSpecular = getDirectSpecular(roughness, saturate(poiLight.nDotH), max(poiLight.nDotV, 0.000001), attenuation, saturate(poiLight.lDotH), f0, poiLight.halfDir, poiMesh.tangent.xyz, poiMesh.binormal, float(0)) * poiLight.attenuation * attenuation * poiLight.color;
+        float3 directSpecular = getDirectSpecular(roughness, saturate(poiLight.nDotH), max(poiLight.nDotV, 0.000001), attenuation, saturate(poiLight.lDotH), f0, poiLight.halfDir, poiMesh.tangent.xyz, poiMesh.binormal, float(-1)) * poiLight.attenuation * attenuation * poiLight.color;
         directSpecular = min(directSpecular, poiLight.color);
         
         float3 vDirectSpecular = 0;
         #ifdef VERTEXLIGHT_ON
             for (int index = 0; index < 4; index ++)
             {
-                float3 v0directSpecular = getDirectSpecular(roughness, saturate(poiLight.vDotNH[index]), max(poiLight.nDotV, 0.000001), attenuation, saturate(poiLight.lDotH), f0, poiLight.vHalfDir[index], poiMesh.tangent, poiMesh.binormal, float(0)) * poiLight.attenuation * poiLight.vAttenuationDotNL[index] * poiLight.vColor[index];
+                float3 v0directSpecular = getDirectSpecular(roughness, saturate(poiLight.vDotNH[index]), max(poiLight.nDotV, 0.000001), attenuation, saturate(poiLight.lDotH), f0, poiLight.vHalfDir[index], poiMesh.tangent, poiMesh.binormal, float(-1)) * poiLight.attenuation * poiLight.vAttenuationDotNL[index] * poiLight.vColor[index];
                 vDirectSpecular += min(v0directSpecular, poiLight.vColor[index]);
             }
         #endif

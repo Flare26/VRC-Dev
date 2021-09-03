@@ -215,7 +215,7 @@
             metallicGlossMap.a = 1 - metallicGlossMap.a;
         }
         
-        float metallic = metallicGlossMap.r * float(1);
+        float metallic = metallicGlossMap.r * float(0.716);
         float reflectance = metallicGlossMap.g * float(1);
         float roughness = max(1 - (float(0.439) * metallicGlossMap.a), getGeometricSpecularAA(poiMesh.normals[1]));
         finalColor.rgb *= lerp(1, 1 - metallic, float(1));

@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: New Material
-  m_Shader: {fileID: 4800000, guid: ebe06ae1000ad1f43b78f7bcc81eb0ba, type: 3}
+  m_Shader: {fileID: 4800000, guid: 8ea998c779f540a4aa86902665d142bc, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -584,7 +584,7 @@ Material:
     - _AudioLinkRimEmissionBand: 0
     - _AudioLinkRimWidthBand: 0
     - _AudioLinkTextureVisualization: 0
-    - _BRDFAnisotropy: 0
+    - _BRDFAnisotropy: -1
     - _BRDFForceFallback: 0
     - _BRDFGlossiness: 1
     - _BRDFInvertGlossiness: 0
@@ -1171,7 +1171,7 @@ Material:
     - _GlitterUseSurfaceColor: 0
     - _GlitterUseSurfaceColorAnimated: 0
     - _GlossMapScale: 1
-    - _Glossiness: 0.5
+    - _Glossiness: 0.611
     - _GlossyReflections: 1
     - _GrabBlurDistance: 0
     - _GrabBlurDistanceAnimated: 0

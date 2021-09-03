@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Light
   m_Shader: {fileID: 4800000, guid: e54c3d293e1e75a4a8425ceacd55316a, type: 3}
-  m_ShaderKeywords: VIGNETTE_MASKED _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+  m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -899,7 +899,7 @@ Material:
     - _DstBlendAnimated: 0
     - _Emission1CenterOutAddAudioLinkwidth: 1
     - _Emission1CenterOutAudioLinkWidth: 1
-    - _EmissionBaseColorAsMap: 0
+    - _EmissionBaseColorAsMap: 1
     - _EmissionBaseColorAsMap1: 0
     - _EmissionBaseColorAsMap1Animated: 0
     - _EmissionBaseColorAsMapAnimated: 0
@@ -962,7 +962,7 @@ Material:
     - _EmissionScrollingUseCurveAnimated: 0
     - _EmissionScrollingVertexColor: 0
     - _EmissionScrollingVertexColor1: 0
-    - _EmissionStrength: 0
+    - _EmissionStrength: 5
     - _EmissionStrength1: 0
     - _EmissionStrength1Animated: 0
     - _EmissionStrengthAnimated: 0
@@ -1007,7 +1007,7 @@ Material:
     - _EnableDistortion: 0
     - _EnableDistortionAnimated: 0
     - _EnableDistortionAudioLink: 0
-    - _EnableEmission: 0
+    - _EnableEmission: 1
     - _EnableEmission1: 0
     - _EnableEmission1Animated: 0
     - _EnableEmission1CenterOutAudioLink: 0
@@ -1958,7 +1958,7 @@ Material:
     - m_ParallaxMap: 0
     - m_Patreon: 0
     - m_PostProcessing: 0
-    - m_Special_Effects: 0
+    - m_Special_Effects: 1
     - m_end_Alpha: 0
     - m_end_BlackLight: 0
     - m_end_Blur: 0
@@ -2141,7 +2141,7 @@ Material:
     - m_start_distanceFade: 0
     - m_start_distortionFlow: 0
     - m_start_emission1Options: 0
-    - m_start_emissionOptions: 0
+    - m_start_emissionOptions: 1
     - m_start_flipBook: 0
     - m_start_flipbookHueShift: 0
     - m_start_glitter: 0
@@ -2231,7 +2231,7 @@ Material:
     - _ClearCoatTint: {r: 1, g: 1, b: 1, a: 1}
     - _ClearcoatMapPan: {r: 0, g: 0, b: 0, a: 0}
     - _ClippingMaskPan: {r: 0, g: 0, b: 0, a: 0}
-    - _Color: {r: 1, g: 0.64280593, b: 0, a: 1}
+    - _Color: {r: 1, g: 0.32891944, b: 0, a: 1}
     - _DecalColor: {r: 1, g: 1, b: 1, a: 1}
     - _DecalColor1: {r: 1, g: 1, b: 1, a: 1}
     - _DecalColor2: {r: 1, g: 1, b: 1, a: 1}
@@ -2269,7 +2269,7 @@ Material:
     - _DistortionStrengthAudioLink: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionCenterOutAddAudioLink: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionCenterOutAddAudioLink1: {r: 0, g: 0, b: 0, a: 0}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor1: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionMap1Pan: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionMapPan: {r: 0, g: 0, b: 0, a: 0}

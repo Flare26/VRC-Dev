@@ -13,14 +13,14 @@ MonoBehaviour:
   m_Name: SweepyMenu
   m_EditorClassIdentifier: 
   controls:
-  - name: ToggleRGB
+  - name: Drip
     icon: {fileID: 0}
-    type: 102
+    type: 103
     parameter:
-      name: ToggleRGB
+      name: 
     value: 1
     style: 0
-    subMenu: {fileID: 0}
+    subMenu: {fileID: 11400000, guid: 9787fd1d7d2b12742b059a0854c5cfce, type: 2}
     subParameters: []
     labels: []
   - name: Weapons
@@ -31,6 +31,16 @@ MonoBehaviour:
     value: 1
     style: 0
     subMenu: {fileID: 11400000, guid: 5679df76583ac72429c69b42e6cb081b, type: 2}
+    subParameters: []
+    labels: []
+  - name: ToggleRGB
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: ToggleRGB
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
     subParameters: []
     labels: []
   - name: Emission Hue
