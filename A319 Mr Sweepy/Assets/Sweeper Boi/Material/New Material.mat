@@ -21,6 +21,8 @@ Material:
     _EmissionHueShiftAnimated: 1
     _EmissionHueShiftSpeedAnimated: 1
     _EmissionStrengthAnimated: 1
+    _EmissiveBlink_MaxAnimated: 1
+    _EmissiveBlink_MinAnimated: 1
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
@@ -906,7 +908,7 @@ Material:
     - _EmissionBaseColorAsMap1: 0
     - _EmissionBaseColorAsMap1Animated: 0
     - _EmissionBaseColorAsMapAnimated: 0
-    - _EmissionBlinkingEnabled: 0
+    - _EmissionBlinkingEnabled: 1
     - _EmissionBlinkingEnabled1: 0
     - _EmissionBlinkingEnabledAnimated: 0
     - _EmissionBlinkingOffset: 0
@@ -969,15 +971,15 @@ Material:
     - _EmissionStrength1: 0
     - _EmissionStrength1Animated: 0
     - _EmissionStrengthAnimated: 0
-    - _EmissiveBlink_Max: 1
+    - _EmissiveBlink_Max: 0.9
     - _EmissiveBlink_Max1: 1
     - _EmissiveBlink_Max1Animated: 0
     - _EmissiveBlink_MaxAnimated: 0
-    - _EmissiveBlink_Min: 0
+    - _EmissiveBlink_Min: 0.1
     - _EmissiveBlink_Min1: 0
     - _EmissiveBlink_Min1Animated: 0
     - _EmissiveBlink_MinAnimated: 0
-    - _EmissiveBlink_Velocity: 4
+    - _EmissiveBlink_Velocity: 3
     - _EmissiveBlink_Velocity1: 4
     - _EmissiveBlink_Velocity1Animated: 0
     - _EmissiveBlink_VelocityAnimated: 0
@@ -1112,7 +1114,7 @@ Material:
     - _GITDEMaxLight1: 1
     - _GITDEMaxLight1Animated: 0
     - _GITDEMaxLightAnimated: 0
-    - _GITDEMinEmissionMultiplier: 1
+    - _GITDEMinEmissionMultiplier: 0.5
     - _GITDEMinEmissionMultiplier1: 1
     - _GITDEMinEmissionMultiplier1Animated: 0
     - _GITDEMinEmissionMultiplierAnimated: 0
@@ -1120,7 +1122,7 @@ Material:
     - _GITDEMinLight1: 0
     - _GITDEMinLight1Animated: 0
     - _GITDEMinLightAnimated: 0
-    - _GITDEWorldOrMesh: 0
+    - _GITDEWorldOrMesh: 1
     - _GITDEWorldOrMesh1: 0
     - _GITDEWorldOrMesh1Animated: 0
     - _GITDEWorldOrMeshAnimated: 0
@@ -1961,7 +1963,7 @@ Material:
     - m_ParallaxMap: 0
     - m_Patreon: 0
     - m_PostProcessing: 0
-    - m_Special_Effects: 0
+    - m_Special_Effects: 1
     - m_end_Alpha: 0
     - m_end_BlackLight: 0
     - m_end_Blur: 0
@@ -2130,7 +2132,7 @@ Material:
     - m_start_backFace: 0
     - m_start_bakedLighting: 0
     - m_start_blending: 0
-    - m_start_blinkingEmissionOptions: 0
+    - m_start_blinkingEmissionOptions: 1
     - m_start_blinkingEmissionOptions1: 0
     - m_start_brdf: 0
     - m_start_clearCoat: 0

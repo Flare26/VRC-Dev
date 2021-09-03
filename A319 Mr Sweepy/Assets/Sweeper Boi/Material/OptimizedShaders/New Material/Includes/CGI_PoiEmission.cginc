@@ -115,7 +115,7 @@ float calculateGlowInTheDark(in float minLight, in float maxLight, in float minE
     if (enabled)
     {
         #ifdef POI_LIGHTING
-            float3 lightValue = float(0) ? poiLight.finalLighting.rgb: poiLight.directLighting.rgb;
+            float3 lightValue = float(1) ? poiLight.finalLighting.rgb: poiLight.directLighting.rgb;
             float gitdeAlpha = (clamp(poiMax(lightValue), minLight, maxLight) - minLight) / (maxLight - minLight);
             glowInTheDarkMultiplier = lerp(minEmissionMultiplier, maxEmissionMultiplier, gitdeAlpha);
         #endif
@@ -168,7 +168,7 @@ float3 calculateEmissionNew(in float3 baseColor, inout float4 finalColor)
         }
     #endif
     
-    float glowInTheDarkMultiplier0 = calculateGlowInTheDark(float(0), float(1), float(1), float(1), float(1));
+    float glowInTheDarkMultiplier0 = calculateGlowInTheDark(float(0), float(1), float(0.5), float(1), float(1));
     
     #if defined(PROP_EMISSIONMAP) || !defined(OPTIMIZER_ENABLED)
         
@@ -208,9 +208,9 @@ float3 calculateEmissionNew(in float3 baseColor, inout float4 finalColor)
     }
     
     
-    if (float(0))
+    if (float(1))
     {
-        emissionStrength0 *= calculateBlinkingEmission(float(0), float(1), float(4), float(0));
+        emissionStrength0 *= calculateBlinkingEmission(_EmissiveBlink_Min, _EmissiveBlink_Max, float(3), float(0));
     }
     
     emissionColor0 = hueShift(emissionColor0, frac(_EmissionHueShift + _EmissionHueShiftSpeed * _Time.x) * float(1));
