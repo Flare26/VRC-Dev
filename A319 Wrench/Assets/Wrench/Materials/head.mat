@@ -8,20 +8,17 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: head
-  m_Shader: {fileID: 4800000, guid: 5deded98ec231c44fac484ca193dfa54, type: 3}
-  m_ShaderKeywords: 
+  m_Shader: {fileID: 4800000, guid: 917b37092bae034459c28c00a3a19b54, type: 3}
+  m_ShaderKeywords: VIGNETTE_MASKED _EMISSION _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 2010
+  m_CustomRenderQueue: -1
   stringTagMap:
-    OptimizedShaderFolder: head
-    OriginalShader: ".poiyomi/\u2022 Poiyomi Toon \u2022"
-    RenderType: Opaque
     _EmissionColorAnimated: 1
     _EmissionHueShiftAnimated: 1
     _EmissionHueShiftEnabledAnimated: 1
-    _EmissionReplaceAnimated: 1
+    _EmissionHueShiftSpeedAnimated: 1
     _EmissionStrengthAnimated: 1
   disabledShaderPasses: []
   m_SavedProperties:
@@ -650,14 +647,14 @@ Material:
     - _EmissionMapUV: 0
     - _EmissionMask1UV: 0
     - _EmissionMaskUV: 0
-    - _EmissionReplace: 1
+    - _EmissionReplace: 0
     - _EmissionScrollingOffset: 0
     - _EmissionScrollingOffset1: 0
     - _EmissionScrollingUseCurve: 0
     - _EmissionScrollingUseCurve1: 0
     - _EmissionScrollingVertexColor: 0
     - _EmissionScrollingVertexColor1: 0
-    - _EmissionStrength: 1
+    - _EmissionStrength: 5
     - _EmissionStrength1: 0
     - _EmissiveBlink_Max: 1
     - _EmissiveBlink_Max1: 1
@@ -687,7 +684,7 @@ Material:
     - _EnableEmissionStrengthAudioLink: 0
     - _EnableEnvironmentalRim: 0
     - _EnableFlipbook: 0
-    - _EnableGITDEmission: 0
+    - _EnableGITDEmission: 1
     - _EnableGITDEmission1: 0
     - _EnableLighting: 1
     - _EnableMetallic: 0
@@ -720,13 +717,13 @@ Material:
     - _ForceOpaque: 0
     - _ForgotToLockMaterial: 1
     - _GIEmissionMultiplier: 1
-    - _GITDEMaxEmissionMultiplier: 0
+    - _GITDEMaxEmissionMultiplier: 1
     - _GITDEMaxEmissionMultiplier1: 0
     - _GITDEMaxLight: 1
     - _GITDEMaxLight1: 1
-    - _GITDEMinEmissionMultiplier: 1
+    - _GITDEMinEmissionMultiplier: 0.5
     - _GITDEMinEmissionMultiplier1: 1
-    - _GITDEMinLight: 0
+    - _GITDEMinLight: 0.5
     - _GITDEMinLight1: 0
     - _GITDEWorldOrMesh: 0
     - _GITDEWorldOrMesh1: 0
@@ -955,7 +952,7 @@ Material:
     - _ScrollingEmission: 0
     - _ScrollingEmission1: 0
     - _ShadeColor_Step: 0
-    - _ShaderOptimizerEnabled: 1
+    - _ShaderOptimizerEnabled: 0
     - _ShadowMix: 0
     - _ShadowMixThreshold: 0.5
     - _ShadowMixWidthMod: 0.5
@@ -1162,7 +1159,7 @@ Material:
     - m_end_vertexManipulation: 0
     - m_end_voronoiRandom: 0
     - m_lightingOptions: 1
-    - m_mainOptions: 0
+    - m_mainOptions: 1
     - m_outlineOptions: 0
     - m_renderingOptions: 0
     - m_start_Alpha: 0
