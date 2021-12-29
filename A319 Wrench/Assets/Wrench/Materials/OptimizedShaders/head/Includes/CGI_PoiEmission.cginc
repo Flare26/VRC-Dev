@@ -168,7 +168,7 @@ float3 calculateEmissionNew(in float3 baseColor, inout float4 finalColor)
         }
     #endif
     
-    float glowInTheDarkMultiplier0 = calculateGlowInTheDark(float(0), float(1), float(1), float(0), float(0));
+    float glowInTheDarkMultiplier0 = calculateGlowInTheDark(float(0.5), float(1), float(0.5), float(1), float(1));
     
     #if defined(PROP_EMISSIONMAP) || !defined(OPTIMIZER_ENABLED)
         
@@ -213,7 +213,7 @@ float3 calculateEmissionNew(in float3 baseColor, inout float4 finalColor)
         emissionStrength0 *= calculateBlinkingEmission(float(0), float(1), float(4), float(0));
     }
     
-    emissionColor0 = hueShift(emissionColor0, frac(_EmissionHueShift + float(3) * _Time.x) * _EmissionHueShiftEnabled);
+    emissionColor0 = hueShift(emissionColor0, frac(_EmissionHueShift + _EmissionHueShiftSpeed * _Time.x) * _EmissionHueShiftEnabled);
     
     #if defined(PROP_EMISSIONMASK) || !defined(OPTIMIZER_ENABLED)
         float emissionMask0 = UNITY_SAMPLE_TEX2D_SAMPLER(_EmissionMask, _MainTex, TRANSFORM_TEX(poiMesh.uv[float(0)], _EmissionMask) + _Time.x * float4(0,0,0,0)).r;
@@ -333,7 +333,7 @@ float3 calculateEmissionNew(in float3 baseColor, inout float4 finalColor)
             }
         #endif
     #endif
-    finalColor.rgb = lerp(finalColor.rgb, saturate(emissionColor0 + emissionColor1), saturate(emissionStrength0 + emissionStrength1) * _EmissionReplace * poiMax(emission0 + emission1));
+    finalColor.rgb = lerp(finalColor.rgb, saturate(emissionColor0 + emissionColor1), saturate(emissionStrength0 + emissionStrength1) * float(0) * poiMax(emission0 + emission1));
 
     return emission0 + emission1;
 }

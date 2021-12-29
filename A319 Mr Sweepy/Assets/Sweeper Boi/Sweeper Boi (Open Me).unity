@@ -287,7 +287,7 @@ MonoBehaviour:
   blueprintId: avtr_4d11638e-7089-4b11-816d-05d28593d4cb
   contentType: 0
   assetBundleUnityVersion: 
-  fallbackStatus: 0
+  fallbackStatus: 1
 --- !u!114 &83273386
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -527,19 +527,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 83273383}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &83273389
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 83273384}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 229740497, guid: 4ecd63eff847044b68db9453ce219299, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  contentType: 0
 --- !u!1 &170076733
 GameObject:
   m_ObjectHideFlags: 0
