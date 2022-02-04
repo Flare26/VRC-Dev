@@ -8,8 +8,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: New Material
-  m_Shader: {fileID: 4800000, guid: 8ea998c779f540a4aa86902665d142bc, type: 3}
-  m_ShaderKeywords: 
+  m_Shader: {fileID: 4800000, guid: 917b37092bae034459c28c00a3a19b54, type: 3}
+  m_ShaderKeywords: VIGNETTE_CLASSIC VIGNETTE_MASKED _EMISSION _SPECGLOSSMAP
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
@@ -52,7 +52,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BRDFFallback:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 8900000, guid: 1f79f71b84fc2844bb81e9ae4f5bc384, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BRDFMetallicGlossMap:
@@ -355,6 +355,14 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _PathingColorMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PathingMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _RGBMask:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -585,11 +593,20 @@ Material:
     - _AudioLinkFlipbookFrameBand: 0
     - _AudioLinkFlipbookScaleBand: 0
     - _AudioLinkHelp: 0
+    - _AudioLinkPathEmissionAddBandB: 0
+    - _AudioLinkPathEmissionAddBandG: 0
+    - _AudioLinkPathEmissionAddBandR: 0
+    - _AudioLinkPathTimeOffsetBandB: 0
+    - _AudioLinkPathTimeOffsetBandG: 0
+    - _AudioLinkPathTimeOffsetBandR: 0
+    - _AudioLinkPathWidthOffsetBandB: 0
+    - _AudioLinkPathWidthOffsetBandG: 0
+    - _AudioLinkPathWidthOffsetBandR: 0
     - _AudioLinkRimBrightnessBand: 0
     - _AudioLinkRimEmissionBand: 0
     - _AudioLinkRimWidthBand: 0
     - _AudioLinkTextureVisualization: 0
-    - _BRDFAnisotropy: 0
+    - _BRDFAnisotropy: 0.74
     - _BRDFForceFallback: 0
     - _BRDFGlossiness: 0.382
     - _BRDFInvertGlossiness: 0
@@ -598,8 +615,9 @@ Material:
     - _BRDFMetallicGlossMapUV: 0
     - _BRDFMetallicMapToolTip: 0
     - _BRDFMetallicMapUV: 0
+    - _BRDFMetallicSpecIgnoresBaseColor: 0
     - _BRDFReflectance: 0.5
-    - _BRDFReflectionsEnabled: 1
+    - _BRDFReflectionsEnabled: 0
     - _BRDFSpecularEnabled: 1
     - _BRDFSpecularMapToolTip: 0
     - _BRDFSpecularMapUV: 0
@@ -798,7 +816,7 @@ Material:
     - _DepthMaskAnimated: 0
     - _DetailBrightness: 1
     - _DetailBrightnessAnimated: 0
-    - _DetailEnabled: 1
+    - _DetailEnabled: 0
     - _DetailMaskAnimated: 0
     - _DetailMaskPanAnimated: 0
     - _DetailMaskUV: 0
@@ -1040,6 +1058,7 @@ Material:
     - _EnableMirrorOptionsAnimated: 0
     - _EnableMirrorTexture: 0
     - _EnableMirrorTextureAnimated: 0
+    - _EnablePathing: 0
     - _EnableRandom: 0
     - _EnableRandomAnimated: 0
     - _EnableRimLighting: 0
@@ -1049,7 +1068,7 @@ Material:
     - _EnableScifiSpawnIn: 0
     - _EnableScifiSpawnInAnimated: 0
     - _EnableSpecular: 1
-    - _EnableSpecular1: 1
+    - _EnableSpecular1: 0
     - _EnableSpecular1Animated: 0
     - _EnableSpecularAnimated: 0
     - _EnableTouchGlow: 0
@@ -1114,7 +1133,7 @@ Material:
     - _GITDEMaxLight1: 1
     - _GITDEMaxLight1Animated: 0
     - _GITDEMaxLightAnimated: 0
-    - _GITDEMinEmissionMultiplier: 0.5
+    - _GITDEMinEmissionMultiplier: 0.422
     - _GITDEMinEmissionMultiplier1: 1
     - _GITDEMinEmissionMultiplier1Animated: 0
     - _GITDEMinEmissionMultiplierAnimated: 0
@@ -1544,6 +1563,11 @@ Material:
     - _ParallaxStrengthAnimated: 0
     - _ParallaxUV: 0
     - _ParallaxUVAnimated: 0
+    - _PathTypeB: 0
+    - _PathTypeG: 0
+    - _PathTypeR: 0
+    - _PathingColorMapUV: 0
+    - _PathingMapUV: 0
     - _PatreonHelpBox: 0
     - _RGBAlpha_UV: 0
     - _RGBBlendMultiplicative: 0
@@ -1651,7 +1675,7 @@ Material:
     - _ScrollingEmission1Animated: 0
     - _ScrollingEmissionAnimated: 0
     - _ShadeColor_Step: 0
-    - _ShaderOptimizerEnabled: 1
+    - _ShaderOptimizerEnabled: 0
     - _ShadowMix: 0
     - _ShadowMixAnimated: 0
     - _ShadowMixThreshold: 0.44
@@ -1668,7 +1692,7 @@ Material:
     - _ShadowStrengthAnimated: 0
     - _Smoothness: 0.427
     - _SmoothnessAnimated: 0
-    - _SmoothnessFrom: 1
+    - _SmoothnessFrom: 0
     - _SmoothnessFrom1: 1
     - _SmoothnessFrom1Animated: 0
     - _SmoothnessFromAnimated: 0
@@ -1770,7 +1794,7 @@ Material:
     - _SpecularNormal1: 1
     - _SpecularNormal1Animated: 0
     - _SpecularNormalAnimated: 0
-    - _SpecularSmoothness: 0.63
+    - _SpecularSmoothness: 0.85
     - _SpecularSmoothness1: 0.75
     - _SpecularSmoothness1Animated: 0
     - _SpecularSmoothnessAnimated: 0
@@ -1786,8 +1810,8 @@ Material:
     - _SpecularToonStart1: 0.95
     - _SpecularToonStart1Animated: 0
     - _SpecularToonStartAnimated: 0
-    - _SpecularType: 1
-    - _SpecularType1: 1
+    - _SpecularType: 3
+    - _SpecularType1: 3
     - _SpecularType1Animated: 0
     - _SpecularTypeAnimated: 0
     - _SrcBlend: 1
@@ -1963,7 +1987,7 @@ Material:
     - m_ParallaxMap: 0
     - m_Patreon: 0
     - m_PostProcessing: 0
-    - m_Special_Effects: 0
+    - m_Special_Effects: 1
     - m_end_Alpha: 0
     - m_end_BlackLight: 0
     - m_end_Blur: 0
@@ -1997,6 +2021,7 @@ Material:
     - m_end_Matcap2: 0
     - m_end_Metallic: 0
     - m_end_OutlineStencil: 0
+    - m_end_PathAudioLink: 0
     - m_end_RGBMask: 0
     - m_end_Refraction: 0
     - m_end_RimAudioLink: 0
@@ -2058,6 +2083,7 @@ Material:
     - m_end_parallaxAdvanced: 0
     - m_end_parallaxHeightmap: 0
     - m_end_parallaxInternal: 0
+    - m_end_pathing: 0
     - m_end_pointToPoint: 0
     - m_end_reflectionRim: 0
     - m_end_rimHueShift: 0
@@ -2107,6 +2133,7 @@ Material:
     - m_start_Matcap2: 0
     - m_start_Metallic: 0
     - m_start_OutlineStencil: 0
+    - m_start_PathAudioLink: 0
     - m_start_RGBMask: 0
     - m_start_Refraction: 0
     - m_start_RimAudioLink: 0
@@ -2134,7 +2161,7 @@ Material:
     - m_start_blending: 0
     - m_start_blinkingEmissionOptions: 1
     - m_start_blinkingEmissionOptions1: 0
-    - m_start_brdf: 0
+    - m_start_brdf: 1
     - m_start_clearCoat: 0
     - m_start_crossfade: 0
     - m_start_debugOptions: 0
@@ -2162,12 +2189,13 @@ Material:
     - m_start_matcap: 0
     - m_start_matcap2HueShift: 0
     - m_start_matcapHueShift: 0
-    - m_start_mirrorOptions: 1
+    - m_start_mirrorOptions: 0
     - m_start_outlineAdvanced: 0
     - m_start_panosphereOptions: 0
     - m_start_parallaxAdvanced: 0
     - m_start_parallaxHeightmap: 0
     - m_start_parallaxInternal: 0
+    - m_start_pathing: 0
     - m_start_pointToPoint: 0
     - m_start_reflectionRim: 0
     - m_start_rimHueShift: 0
@@ -2218,6 +2246,15 @@ Material:
     - _AudioLinkFlipbookEmission: {r: 0, g: 0, b: 0, a: 0}
     - _AudioLinkFlipbookFrame: {r: 0, g: 0, b: 0, a: 0}
     - _AudioLinkFlipbookScale: {r: 0, g: 0, b: 0, a: 0}
+    - _AudioLinkPathEmissionAddB: {r: 0, g: 0, b: 0, a: 0}
+    - _AudioLinkPathEmissionAddG: {r: 0, g: 0, b: 0, a: 0}
+    - _AudioLinkPathEmissionAddR: {r: 0, g: 0, b: 0, a: 0}
+    - _AudioLinkPathTimeOffsetB: {r: 0, g: 0, b: 0, a: 1}
+    - _AudioLinkPathTimeOffsetG: {r: 0, g: 0, b: 0, a: 1}
+    - _AudioLinkPathTimeOffsetR: {r: 0, g: 0, b: 0, a: 1}
+    - _AudioLinkPathWidthOffsetB: {r: 0, g: 0, b: 0, a: 0}
+    - _AudioLinkPathWidthOffsetG: {r: 0, g: 0, b: 0, a: 0}
+    - _AudioLinkPathWidthOffsetR: {r: 0, g: 0, b: 0, a: 0}
     - _AudioLinkRimBrightnessAdd: {r: 0, g: 0, b: 0, a: 0}
     - _AudioLinkRimEmissionAdd: {r: 0, g: 0, b: 0, a: 0}
     - _AudioLinkRimWidthAdd: {r: 0, g: 0, b: 0, a: 0}
@@ -2333,6 +2370,18 @@ Material:
     - _ParallaxInternalMinColor: {r: 1, g: 1, b: 1, a: 1}
     - _ParallaxInternalPanDepthSpeed: {r: 0, g: 0, b: 0, a: 0}
     - _ParallaxInternalPanSpeed: {r: 0, g: 0, b: 0, a: 0}
+    - _PathColorB: {r: 1, g: 1, b: 1, a: 1}
+    - _PathColorG: {r: 1, g: 1, b: 1, a: 1}
+    - _PathColorR: {r: 1, g: 1, b: 1, a: 1}
+    - _PathEmissionStrength: {r: 0, g: 0, b: 0, a: 1}
+    - _PathOffset: {r: 0, g: 0, b: 0, a: 1}
+    - _PathSegments: {r: 0, g: 0, b: 0, a: 1}
+    - _PathSoftness: {r: 1, g: 1, b: 1, a: 1}
+    - _PathSpeed: {r: 1, g: 1, b: 1, a: 1}
+    - _PathTime: {r: -999, g: -999, b: -999, a: 1}
+    - _PathWidth: {r: 0.03, g: 0.03, b: 0.03, a: 1}
+    - _PathingColorMapPan: {r: 0, g: 0, b: 0, a: 0}
+    - _PathingMapPan: {r: 0, g: 0, b: 0, a: 0}
     - _RGBAlphaPanning: {r: 0, g: 0, b: 0, a: 0}
     - _RGBBluePanning: {r: 0, g: 0, b: 0, a: 0}
     - _RGBGreenPanning: {r: 0, g: 0, b: 0, a: 0}
