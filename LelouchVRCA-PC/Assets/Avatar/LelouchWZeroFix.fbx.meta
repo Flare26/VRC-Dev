@@ -1,260 +1,764 @@
 fileFormatVersion: 2
 guid: 98dcf70d2ed4a914c88686d8f12692db
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: Armature
-    100002: BackHair1
-    100004: BackHair2
-    100006: BackHair3
-    100008: Body
-    100010: Chest
-    100012: Collar
-    100014: Eye_L
-    100016: Eye_R
-    100018: FrontHair1
-    100020: FrontHair2
-    100022: FrontHaira
-    100024: FrontHairb
-    100026: FrontHairc
-    100028: FrontHaird
-    100030: GeassEyes
-    100032: Head
-    100034: HigherNeHair_L
-    100036: HigherNeHair_R
-    100038: Hips
-    100040: IndexFinger1_L
-    100042: IndexFinger1_R
-    100044: IndexFinger2_L
-    100046: IndexFinger2_R
-    100048: IndexFinger3_L
-    100050: IndexFinger3_R
-    100052: Left ankle
-    100054: Left arm
-    100056: Left elbow
-    100058: Left knee
-    100060: Left leg
-    100062: Left shoulder
-    100064: Left toe
-    100066: Left wrist
-    100068: LeftEye
-    100070: //RootNode
-    100072: LittleFinger1_L
-    100074: LittleFinger1_R
-    100076: LittleFinger2_L
-    100078: LittleFinger2_R
-    100080: LittleFinger3_L
-    100082: LittleFinger3_R
-    100084: LowerClothes_L
-    100086: LowerClothes_R
-    100088: LowerSideHair_L
-    100090: LowerSideHair_R
-    100092: MiddleFinger1_L
-    100094: MiddleFinger1_R
-    100096: MiddleFinger2_L
-    100098: MiddleFinger2_R
-    100100: MiddleFinger3_L
-    100102: MiddleFinger3_R
-    100104: Neck
-    100106: Pupil
-    100108: Right ankle
-    100110: Right arm
-    100112: Right elbow
-    100114: Right knee
-    100116: Right leg
-    100118: Right shoulder
-    100120: Right toe
-    100122: Right wrist
-    100124: RightEye
-    100126: RingFinger1_L
-    100128: RingFinger1_R
-    100130: RingFinger2_L
-    100132: RingFinger2_R
-    100134: RingFinger3_L
-    100136: RingFinger3_R
-    100138: Schooluniform
-    100140: SideHair_L
-    100142: SideHair_R
-    100144: "Sleeve\u2605_L"
-    100146: "Sleeve\u2605_R"
-    100148: Spine
-    100150: SwallowTail_0_0
-    100152: SwallowTail_0_1
-    100154: SwallowTail_0_2
-    100156: SwallowTail_0_3
-    100158: SwallowTail_0_4
-    100160: SwallowTail_0_5
-    100162: SwallowTail_0_6
-    100164: SwallowTail_0_7
-    100166: SwallowTail_1_0
-    100168: SwallowTail_1_1
-    100170: SwallowTail_1_2
-    100172: SwallowTail_1_3
-    100174: SwallowTail_1_4
-    100176: SwallowTail_1_5
-    100178: SwallowTail_1_6
-    100180: SwallowTail_1_7
-    100182: SwallowTail_2_1
-    100184: SwallowTail_2_2
-    100186: SwallowTail_2_3
-    100188: SwallowTail_2_4
-    100190: SwallowTail_2_5
-    100192: SwallowTail_2_6
-    100194: SwallowTail_3_2
-    100196: SwallowTail_3_3
-    100198: SwallowTail_3_4
-    100200: SwallowTail_3_5
-    100202: Tears_L
-    100204: Tears_R
-    100206: Thumb0_L
-    100208: Thumb0_R
-    100210: Thumb1_L
-    100212: Thumb1_R
-    100214: Thumb2_L
-    100216: Thumb2_R
-    100218: zArmTwist_L
-    100220: zArmTwist_R
-    100222: zero
-    100224: ZeroCostume
-    100226: zHandTwist_L
-    100228: zHandTwist_R
-    400000: Armature
-    400002: BackHair1
-    400004: BackHair2
-    400006: BackHair3
-    400008: Body
-    400010: Chest
-    400012: Collar
-    400014: Eye_L
-    400016: Eye_R
-    400018: FrontHair1
-    400020: FrontHair2
-    400022: FrontHaira
-    400024: FrontHairb
-    400026: FrontHairc
-    400028: FrontHaird
-    400030: GeassEyes
-    400032: Head
-    400034: HigherNeHair_L
-    400036: HigherNeHair_R
-    400038: Hips
-    400040: IndexFinger1_L
-    400042: IndexFinger1_R
-    400044: IndexFinger2_L
-    400046: IndexFinger2_R
-    400048: IndexFinger3_L
-    400050: IndexFinger3_R
-    400052: Left ankle
-    400054: Left arm
-    400056: Left elbow
-    400058: Left knee
-    400060: Left leg
-    400062: Left shoulder
-    400064: Left toe
-    400066: Left wrist
-    400068: LeftEye
-    400070: //RootNode
-    400072: LittleFinger1_L
-    400074: LittleFinger1_R
-    400076: LittleFinger2_L
-    400078: LittleFinger2_R
-    400080: LittleFinger3_L
-    400082: LittleFinger3_R
-    400084: LowerClothes_L
-    400086: LowerClothes_R
-    400088: LowerSideHair_L
-    400090: LowerSideHair_R
-    400092: MiddleFinger1_L
-    400094: MiddleFinger1_R
-    400096: MiddleFinger2_L
-    400098: MiddleFinger2_R
-    400100: MiddleFinger3_L
-    400102: MiddleFinger3_R
-    400104: Neck
-    400106: Pupil
-    400108: Right ankle
-    400110: Right arm
-    400112: Right elbow
-    400114: Right knee
-    400116: Right leg
-    400118: Right shoulder
-    400120: Right toe
-    400122: Right wrist
-    400124: RightEye
-    400126: RingFinger1_L
-    400128: RingFinger1_R
-    400130: RingFinger2_L
-    400132: RingFinger2_R
-    400134: RingFinger3_L
-    400136: RingFinger3_R
-    400138: Schooluniform
-    400140: SideHair_L
-    400142: SideHair_R
-    400144: "Sleeve\u2605_L"
-    400146: "Sleeve\u2605_R"
-    400148: Spine
-    400150: SwallowTail_0_0
-    400152: SwallowTail_0_1
-    400154: SwallowTail_0_2
-    400156: SwallowTail_0_3
-    400158: SwallowTail_0_4
-    400160: SwallowTail_0_5
-    400162: SwallowTail_0_6
-    400164: SwallowTail_0_7
-    400166: SwallowTail_1_0
-    400168: SwallowTail_1_1
-    400170: SwallowTail_1_2
-    400172: SwallowTail_1_3
-    400174: SwallowTail_1_4
-    400176: SwallowTail_1_5
-    400178: SwallowTail_1_6
-    400180: SwallowTail_1_7
-    400182: SwallowTail_2_1
-    400184: SwallowTail_2_2
-    400186: SwallowTail_2_3
-    400188: SwallowTail_2_4
-    400190: SwallowTail_2_5
-    400192: SwallowTail_2_6
-    400194: SwallowTail_3_2
-    400196: SwallowTail_3_3
-    400198: SwallowTail_3_4
-    400200: SwallowTail_3_5
-    400202: Tears_L
-    400204: Tears_R
-    400206: Thumb0_L
-    400208: Thumb0_R
-    400210: Thumb1_L
-    400212: Thumb1_R
-    400214: Thumb2_L
-    400216: Thumb2_R
-    400218: zArmTwist_L
-    400220: zArmTwist_R
-    400222: zero
-    400224: ZeroCostume
-    400226: zHandTwist_L
-    400228: zHandTwist_R
-    2100000: material_atlas_58649_1
-    2100002: material_atlas_46000_1
-    2100004: Leg.001
-    2100006: 00
-    2100008: 01
-    2100010: Pupil
-    2100012: material_atlas_75324_1
-    2100014: Hair_ShadowNothing
-    4300000: GeassEyes
-    4300002: ZeroCostume
-    4300004: Schooluniform
-    4300006: zero
-    4300008: Pupil
-    4300010: Body
-    9500000: //RootNode
-    13700000: Body
-    13700002: GeassEyes
-    13700004: Pupil
-    13700006: Schooluniform
-    13700008: zero
-    13700010: ZeroCostume
-    2186277476908879412: ImportLogs
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Armature
+  - first:
+      1: 100002
+    second: BackHair1
+  - first:
+      1: 100004
+    second: BackHair2
+  - first:
+      1: 100006
+    second: BackHair3
+  - first:
+      1: 100008
+    second: Body
+  - first:
+      1: 100010
+    second: Chest
+  - first:
+      1: 100012
+    second: Collar
+  - first:
+      1: 100014
+    second: Eye_L
+  - first:
+      1: 100016
+    second: Eye_R
+  - first:
+      1: 100018
+    second: FrontHair1
+  - first:
+      1: 100020
+    second: FrontHair2
+  - first:
+      1: 100022
+    second: FrontHaira
+  - first:
+      1: 100024
+    second: FrontHairb
+  - first:
+      1: 100026
+    second: FrontHairc
+  - first:
+      1: 100028
+    second: FrontHaird
+  - first:
+      1: 100030
+    second: GeassEyes
+  - first:
+      1: 100032
+    second: Head
+  - first:
+      1: 100034
+    second: HigherNeHair_L
+  - first:
+      1: 100036
+    second: HigherNeHair_R
+  - first:
+      1: 100038
+    second: Hips
+  - first:
+      1: 100040
+    second: IndexFinger1_L
+  - first:
+      1: 100042
+    second: IndexFinger1_R
+  - first:
+      1: 100044
+    second: IndexFinger2_L
+  - first:
+      1: 100046
+    second: IndexFinger2_R
+  - first:
+      1: 100048
+    second: IndexFinger3_L
+  - first:
+      1: 100050
+    second: IndexFinger3_R
+  - first:
+      1: 100052
+    second: Left ankle
+  - first:
+      1: 100054
+    second: Left arm
+  - first:
+      1: 100056
+    second: Left elbow
+  - first:
+      1: 100058
+    second: Left knee
+  - first:
+      1: 100060
+    second: Left leg
+  - first:
+      1: 100062
+    second: Left shoulder
+  - first:
+      1: 100064
+    second: Left toe
+  - first:
+      1: 100066
+    second: Left wrist
+  - first:
+      1: 100068
+    second: LeftEye
+  - first:
+      1: 100070
+    second: //RootNode
+  - first:
+      1: 100072
+    second: LittleFinger1_L
+  - first:
+      1: 100074
+    second: LittleFinger1_R
+  - first:
+      1: 100076
+    second: LittleFinger2_L
+  - first:
+      1: 100078
+    second: LittleFinger2_R
+  - first:
+      1: 100080
+    second: LittleFinger3_L
+  - first:
+      1: 100082
+    second: LittleFinger3_R
+  - first:
+      1: 100084
+    second: LowerClothes_L
+  - first:
+      1: 100086
+    second: LowerClothes_R
+  - first:
+      1: 100088
+    second: LowerSideHair_L
+  - first:
+      1: 100090
+    second: LowerSideHair_R
+  - first:
+      1: 100092
+    second: MiddleFinger1_L
+  - first:
+      1: 100094
+    second: MiddleFinger1_R
+  - first:
+      1: 100096
+    second: MiddleFinger2_L
+  - first:
+      1: 100098
+    second: MiddleFinger2_R
+  - first:
+      1: 100100
+    second: MiddleFinger3_L
+  - first:
+      1: 100102
+    second: MiddleFinger3_R
+  - first:
+      1: 100104
+    second: Neck
+  - first:
+      1: 100106
+    second: Pupil
+  - first:
+      1: 100108
+    second: Right ankle
+  - first:
+      1: 100110
+    second: Right arm
+  - first:
+      1: 100112
+    second: Right elbow
+  - first:
+      1: 100114
+    second: Right knee
+  - first:
+      1: 100116
+    second: Right leg
+  - first:
+      1: 100118
+    second: Right shoulder
+  - first:
+      1: 100120
+    second: Right toe
+  - first:
+      1: 100122
+    second: Right wrist
+  - first:
+      1: 100124
+    second: RightEye
+  - first:
+      1: 100126
+    second: RingFinger1_L
+  - first:
+      1: 100128
+    second: RingFinger1_R
+  - first:
+      1: 100130
+    second: RingFinger2_L
+  - first:
+      1: 100132
+    second: RingFinger2_R
+  - first:
+      1: 100134
+    second: RingFinger3_L
+  - first:
+      1: 100136
+    second: RingFinger3_R
+  - first:
+      1: 100138
+    second: Schooluniform
+  - first:
+      1: 100140
+    second: SideHair_L
+  - first:
+      1: 100142
+    second: SideHair_R
+  - first:
+      1: 100144
+    second: "Sleeve\u2605_L"
+  - first:
+      1: 100146
+    second: "Sleeve\u2605_R"
+  - first:
+      1: 100148
+    second: Spine
+  - first:
+      1: 100150
+    second: SwallowTail_0_0
+  - first:
+      1: 100152
+    second: SwallowTail_0_1
+  - first:
+      1: 100154
+    second: SwallowTail_0_2
+  - first:
+      1: 100156
+    second: SwallowTail_0_3
+  - first:
+      1: 100158
+    second: SwallowTail_0_4
+  - first:
+      1: 100160
+    second: SwallowTail_0_5
+  - first:
+      1: 100162
+    second: SwallowTail_0_6
+  - first:
+      1: 100164
+    second: SwallowTail_0_7
+  - first:
+      1: 100166
+    second: SwallowTail_1_0
+  - first:
+      1: 100168
+    second: SwallowTail_1_1
+  - first:
+      1: 100170
+    second: SwallowTail_1_2
+  - first:
+      1: 100172
+    second: SwallowTail_1_3
+  - first:
+      1: 100174
+    second: SwallowTail_1_4
+  - first:
+      1: 100176
+    second: SwallowTail_1_5
+  - first:
+      1: 100178
+    second: SwallowTail_1_6
+  - first:
+      1: 100180
+    second: SwallowTail_1_7
+  - first:
+      1: 100182
+    second: SwallowTail_2_1
+  - first:
+      1: 100184
+    second: SwallowTail_2_2
+  - first:
+      1: 100186
+    second: SwallowTail_2_3
+  - first:
+      1: 100188
+    second: SwallowTail_2_4
+  - first:
+      1: 100190
+    second: SwallowTail_2_5
+  - first:
+      1: 100192
+    second: SwallowTail_2_6
+  - first:
+      1: 100194
+    second: SwallowTail_3_2
+  - first:
+      1: 100196
+    second: SwallowTail_3_3
+  - first:
+      1: 100198
+    second: SwallowTail_3_4
+  - first:
+      1: 100200
+    second: SwallowTail_3_5
+  - first:
+      1: 100202
+    second: Tears_L
+  - first:
+      1: 100204
+    second: Tears_R
+  - first:
+      1: 100206
+    second: Thumb0_L
+  - first:
+      1: 100208
+    second: Thumb0_R
+  - first:
+      1: 100210
+    second: Thumb1_L
+  - first:
+      1: 100212
+    second: Thumb1_R
+  - first:
+      1: 100214
+    second: Thumb2_L
+  - first:
+      1: 100216
+    second: Thumb2_R
+  - first:
+      1: 100218
+    second: zArmTwist_L
+  - first:
+      1: 100220
+    second: zArmTwist_R
+  - first:
+      1: 100222
+    second: zero
+  - first:
+      1: 100224
+    second: ZeroCostume
+  - first:
+      1: 100226
+    second: zHandTwist_L
+  - first:
+      1: 100228
+    second: zHandTwist_R
+  - first:
+      4: 400000
+    second: Armature
+  - first:
+      4: 400002
+    second: BackHair1
+  - first:
+      4: 400004
+    second: BackHair2
+  - first:
+      4: 400006
+    second: BackHair3
+  - first:
+      4: 400008
+    second: Body
+  - first:
+      4: 400010
+    second: Chest
+  - first:
+      4: 400012
+    second: Collar
+  - first:
+      4: 400014
+    second: Eye_L
+  - first:
+      4: 400016
+    second: Eye_R
+  - first:
+      4: 400018
+    second: FrontHair1
+  - first:
+      4: 400020
+    second: FrontHair2
+  - first:
+      4: 400022
+    second: FrontHaira
+  - first:
+      4: 400024
+    second: FrontHairb
+  - first:
+      4: 400026
+    second: FrontHairc
+  - first:
+      4: 400028
+    second: FrontHaird
+  - first:
+      4: 400030
+    second: GeassEyes
+  - first:
+      4: 400032
+    second: Head
+  - first:
+      4: 400034
+    second: HigherNeHair_L
+  - first:
+      4: 400036
+    second: HigherNeHair_R
+  - first:
+      4: 400038
+    second: Hips
+  - first:
+      4: 400040
+    second: IndexFinger1_L
+  - first:
+      4: 400042
+    second: IndexFinger1_R
+  - first:
+      4: 400044
+    second: IndexFinger2_L
+  - first:
+      4: 400046
+    second: IndexFinger2_R
+  - first:
+      4: 400048
+    second: IndexFinger3_L
+  - first:
+      4: 400050
+    second: IndexFinger3_R
+  - first:
+      4: 400052
+    second: Left ankle
+  - first:
+      4: 400054
+    second: Left arm
+  - first:
+      4: 400056
+    second: Left elbow
+  - first:
+      4: 400058
+    second: Left knee
+  - first:
+      4: 400060
+    second: Left leg
+  - first:
+      4: 400062
+    second: Left shoulder
+  - first:
+      4: 400064
+    second: Left toe
+  - first:
+      4: 400066
+    second: Left wrist
+  - first:
+      4: 400068
+    second: LeftEye
+  - first:
+      4: 400070
+    second: //RootNode
+  - first:
+      4: 400072
+    second: LittleFinger1_L
+  - first:
+      4: 400074
+    second: LittleFinger1_R
+  - first:
+      4: 400076
+    second: LittleFinger2_L
+  - first:
+      4: 400078
+    second: LittleFinger2_R
+  - first:
+      4: 400080
+    second: LittleFinger3_L
+  - first:
+      4: 400082
+    second: LittleFinger3_R
+  - first:
+      4: 400084
+    second: LowerClothes_L
+  - first:
+      4: 400086
+    second: LowerClothes_R
+  - first:
+      4: 400088
+    second: LowerSideHair_L
+  - first:
+      4: 400090
+    second: LowerSideHair_R
+  - first:
+      4: 400092
+    second: MiddleFinger1_L
+  - first:
+      4: 400094
+    second: MiddleFinger1_R
+  - first:
+      4: 400096
+    second: MiddleFinger2_L
+  - first:
+      4: 400098
+    second: MiddleFinger2_R
+  - first:
+      4: 400100
+    second: MiddleFinger3_L
+  - first:
+      4: 400102
+    second: MiddleFinger3_R
+  - first:
+      4: 400104
+    second: Neck
+  - first:
+      4: 400106
+    second: Pupil
+  - first:
+      4: 400108
+    second: Right ankle
+  - first:
+      4: 400110
+    second: Right arm
+  - first:
+      4: 400112
+    second: Right elbow
+  - first:
+      4: 400114
+    second: Right knee
+  - first:
+      4: 400116
+    second: Right leg
+  - first:
+      4: 400118
+    second: Right shoulder
+  - first:
+      4: 400120
+    second: Right toe
+  - first:
+      4: 400122
+    second: Right wrist
+  - first:
+      4: 400124
+    second: RightEye
+  - first:
+      4: 400126
+    second: RingFinger1_L
+  - first:
+      4: 400128
+    second: RingFinger1_R
+  - first:
+      4: 400130
+    second: RingFinger2_L
+  - first:
+      4: 400132
+    second: RingFinger2_R
+  - first:
+      4: 400134
+    second: RingFinger3_L
+  - first:
+      4: 400136
+    second: RingFinger3_R
+  - first:
+      4: 400138
+    second: Schooluniform
+  - first:
+      4: 400140
+    second: SideHair_L
+  - first:
+      4: 400142
+    second: SideHair_R
+  - first:
+      4: 400144
+    second: "Sleeve\u2605_L"
+  - first:
+      4: 400146
+    second: "Sleeve\u2605_R"
+  - first:
+      4: 400148
+    second: Spine
+  - first:
+      4: 400150
+    second: SwallowTail_0_0
+  - first:
+      4: 400152
+    second: SwallowTail_0_1
+  - first:
+      4: 400154
+    second: SwallowTail_0_2
+  - first:
+      4: 400156
+    second: SwallowTail_0_3
+  - first:
+      4: 400158
+    second: SwallowTail_0_4
+  - first:
+      4: 400160
+    second: SwallowTail_0_5
+  - first:
+      4: 400162
+    second: SwallowTail_0_6
+  - first:
+      4: 400164
+    second: SwallowTail_0_7
+  - first:
+      4: 400166
+    second: SwallowTail_1_0
+  - first:
+      4: 400168
+    second: SwallowTail_1_1
+  - first:
+      4: 400170
+    second: SwallowTail_1_2
+  - first:
+      4: 400172
+    second: SwallowTail_1_3
+  - first:
+      4: 400174
+    second: SwallowTail_1_4
+  - first:
+      4: 400176
+    second: SwallowTail_1_5
+  - first:
+      4: 400178
+    second: SwallowTail_1_6
+  - first:
+      4: 400180
+    second: SwallowTail_1_7
+  - first:
+      4: 400182
+    second: SwallowTail_2_1
+  - first:
+      4: 400184
+    second: SwallowTail_2_2
+  - first:
+      4: 400186
+    second: SwallowTail_2_3
+  - first:
+      4: 400188
+    second: SwallowTail_2_4
+  - first:
+      4: 400190
+    second: SwallowTail_2_5
+  - first:
+      4: 400192
+    second: SwallowTail_2_6
+  - first:
+      4: 400194
+    second: SwallowTail_3_2
+  - first:
+      4: 400196
+    second: SwallowTail_3_3
+  - first:
+      4: 400198
+    second: SwallowTail_3_4
+  - first:
+      4: 400200
+    second: SwallowTail_3_5
+  - first:
+      4: 400202
+    second: Tears_L
+  - first:
+      4: 400204
+    second: Tears_R
+  - first:
+      4: 400206
+    second: Thumb0_L
+  - first:
+      4: 400208
+    second: Thumb0_R
+  - first:
+      4: 400210
+    second: Thumb1_L
+  - first:
+      4: 400212
+    second: Thumb1_R
+  - first:
+      4: 400214
+    second: Thumb2_L
+  - first:
+      4: 400216
+    second: Thumb2_R
+  - first:
+      4: 400218
+    second: zArmTwist_L
+  - first:
+      4: 400220
+    second: zArmTwist_R
+  - first:
+      4: 400222
+    second: zero
+  - first:
+      4: 400224
+    second: ZeroCostume
+  - first:
+      4: 400226
+    second: zHandTwist_L
+  - first:
+      4: 400228
+    second: zHandTwist_R
+  - first:
+      21: 2100000
+    second: material_atlas_58649_1
+  - first:
+      21: 2100002
+    second: material_atlas_46000_1
+  - first:
+      21: 2100004
+    second: Leg.001
+  - first:
+      21: 2100006
+    second: 00
+  - first:
+      21: 2100008
+    second: 01
+  - first:
+      21: 2100010
+    second: Pupil
+  - first:
+      21: 2100012
+    second: material_atlas_75324_1
+  - first:
+      21: 2100014
+    second: Hair_ShadowNothing
+  - first:
+      43: 4300000
+    second: GeassEyes
+  - first:
+      43: 4300002
+    second: ZeroCostume
+  - first:
+      43: 4300004
+    second: Schooluniform
+  - first:
+      43: 4300006
+    second: zero
+  - first:
+      43: 4300008
+    second: Pupil
+  - first:
+      43: 4300010
+    second: Body
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Body
+  - first:
+      137: 13700002
+    second: GeassEyes
+  - first:
+      137: 13700004
+    second: Pupil
+  - first:
+      137: 13700006
+    second: Schooluniform
+  - first:
+      137: 13700008
+    second: zero
+  - first:
+      137: 13700010
+    second: ZeroCostume
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -297,7 +801,7 @@ ModelImporter:
       name: material_atlas_75324_1
     second: {fileID: 2100000, guid: 85bb9e2100fe1b041b4a772cbae6f76a, type: 2}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 1
     materialSearch: 0
     materialLocation: 0
@@ -327,28 +831,31 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 0
+    meshCompression: 3
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    fileIdsGeneration: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    preserveHierarchy: 0
+    preserveHierarchy: 1
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 1
+    useFileScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -357,10 +864,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human:
     - boneName: Hips
       humanName: Hips
@@ -1369,13 +1876,16 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 3
   humanoidOversampling: 1
+  avatarSetup: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

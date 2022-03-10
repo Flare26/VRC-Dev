@@ -8,8 +8,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: New Material
-  m_Shader: {fileID: 4800000, guid: 917b37092bae034459c28c00a3a19b54, type: 3}
-  m_ShaderKeywords: VIGNETTE_CLASSIC VIGNETTE_MASKED _EMISSION _SPECGLOSSMAP
+  m_Shader: {fileID: 4800000, guid: c64080365d7a54a46a842d083cb8e9c5, type: 3}
+  m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
@@ -606,11 +606,11 @@ Material:
     - _AudioLinkRimEmissionBand: 0
     - _AudioLinkRimWidthBand: 0
     - _AudioLinkTextureVisualization: 0
-    - _BRDFAnisotropy: 0.74
+    - _BRDFAnisotropy: -0.3
     - _BRDFForceFallback: 0
-    - _BRDFGlossiness: 0.382
+    - _BRDFGlossiness: 0.803
     - _BRDFInvertGlossiness: 0
-    - _BRDFMetallic: 1
+    - _BRDFMetallic: 0.572
     - _BRDFMetallicGlossMapToolTip: 0
     - _BRDFMetallicGlossMapUV: 0
     - _BRDFMetallicMapToolTip: 0
@@ -1067,7 +1067,7 @@ Material:
     - _EnableSSSAnimated: 0
     - _EnableScifiSpawnIn: 0
     - _EnableScifiSpawnInAnimated: 0
-    - _EnableSpecular: 1
+    - _EnableSpecular: 0
     - _EnableSpecular1: 0
     - _EnableSpecular1Animated: 0
     - _EnableSpecularAnimated: 0
@@ -1284,14 +1284,14 @@ Material:
     - _LightingGradientStart: 0
     - _LightingGradientStartAnimated: 0
     - _LightingHSLIntensity: 1
-    - _LightingIgnoreAmbientColor: 0
+    - _LightingIgnoreAmbientColor: 1
     - _LightingIndirectColorMode: 1
     - _LightingIndirectContribution: 0.2
     - _LightingIndirectContributionAnimated: 0
     - _LightingMinLightBrightness: 0
     - _LightingMinLightBrightnessAnimated: 0
     - _LightingMinShadowBrightnessRatio: 0
-    - _LightingMode: 2
+    - _LightingMode: 1
     - _LightingMonochromatic: 0
     - _LightingMonochromaticAnimated: 0
     - _LightingNoIndirectMultiplier: 0.5
@@ -1315,14 +1315,14 @@ Material:
     - _LightingShadowStrength2Animated: 0
     - _LightingStandardControlsToon: 0
     - _LightingStandardControlsToonAnimated: 0
-    - _LightingStandardSmoothness: 0
+    - _LightingStandardSmoothness: 1
     - _LightingStandardSmoothnessAnimated: 0
     - _LightingStartColorAnimated: 0
     - _LightingType: 0
     - _LightingTypeAnimated: 0
     - _LightingUncapped: 1
     - _LightingUncappedAnimated: 0
-    - _LightingWrappedNormalization: 1
+    - _LightingWrappedNormalization: 0
     - _LightingWrappedWrap: 0.39
     - _LineColorAnimated: 0
     - _LineWidth: 0.1
@@ -1675,7 +1675,7 @@ Material:
     - _ScrollingEmission1Animated: 0
     - _ScrollingEmissionAnimated: 0
     - _ShadeColor_Step: 0
-    - _ShaderOptimizerEnabled: 0
+    - _ShaderOptimizerEnabled: 1
     - _ShadowMix: 0
     - _ShadowMixAnimated: 0
     - _ShadowMixThreshold: 0.44
@@ -1987,7 +1987,7 @@ Material:
     - m_ParallaxMap: 0
     - m_Patreon: 0
     - m_PostProcessing: 0
-    - m_Special_Effects: 1
+    - m_Special_Effects: 0
     - m_end_Alpha: 0
     - m_end_BlackLight: 0
     - m_end_Blur: 0
@@ -2173,7 +2173,7 @@ Material:
     - m_start_distanceFade: 0
     - m_start_distortionFlow: 0
     - m_start_emission1Options: 0
-    - m_start_emissionOptions: 1
+    - m_start_emissionOptions: 0
     - m_start_flipBook: 0
     - m_start_flipbookHueShift: 0
     - m_start_glitter: 0
