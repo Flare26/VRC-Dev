@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05ca84e725c7c764aa5ed097918d14b7, type: 3}
+  m_Name: ftLocalStorage
+  m_EditorClassIdentifier: 
+  modifiedAssetPathList:
+  - Assets/Bakery/examples/content/sponza/sponza.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Bld_StripClub_Interior_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_StripClub_Interior_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_StripClub_Interior_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Door_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_26.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_07.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_31.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_15.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_10.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_09.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_12.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_18.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_Flat_06.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_Flat_07.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_23.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_08.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_06.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_Flat_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_11.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_09.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_22.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_Flat_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_21.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_Flat_05.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_16.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_Flat_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_20.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_08.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_BarChair_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Watercooler_01.fbx
+  modifiedAssetPaddingHash: aaf8cc2e4b800ada333fd3d9323fd3d98c67e2a8d2c124917e4dfff009a3dddecedb894b19c2a6937e4dfff0465031ee7e4dfff0cedb894b7e4dfff01628c11556f23a06b35634b79550cf357e4dfff0534ffff0cf318883a768e2a87e4dfff07e4dfff0695031eebb4608c8ecc12491bb4608c8d25634b72bf43a067e4dfff0e937ed0419c2a693717f9363da7d93638acd6a5c
