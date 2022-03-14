@@ -2262,3 +2262,696 @@ Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_
 Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA1_dir.tga" 
 Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA2_final.hdr" 1024
 Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA2_dir.tga" 
+2022-3-12
+Rendering UV GBuffer for Cyber Bar_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Cyber Bar_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Cyber Bar_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LM0.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LMA2.lz4" 2 0 2 0
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_ao" 8 16 0
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_ao" 8 16 1
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_ao" 8 16 2
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_-29216568_0" 68 0 0 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_0" 68 0 0 lights1.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_0" 68 0 0 lights2.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0" 4 0 0 comp_0.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_lights_Dir.lz4" 64 0 0 dircomp_0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_-29216568_1" 68 0 1 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_1" 68 0 1 lights1.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_1" 68 0 1 lights2.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1" 4 0 1 comp_1.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_lights_Dir.lz4" 64 0 1 dircomp_1.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_-29216568_2" 68 0 2 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_2" 68 0 2 lights1.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_2" 68 0 2 lights2.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2" 4 0 2 comp_2.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_lights_Dir.lz4" 64 0 2 dircomp_2.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM00.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA10.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA20.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM01.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA11.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA21.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM02.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA12.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA22.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM03.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA13.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA23.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_final" 68 16 0 "gi_Cyber Bar_LM04.bin" "Cyber Bar_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_final" 68 16 1 "gi_Cyber Bar_LMA14.bin" "Cyber Bar_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_final" 68 16 2 "gi_Cyber Bar_LMA24.bin" "Cyber Bar_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" 2048 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_final_HDR.lz4" 4 0 0 addao_0.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "0" "Cyber Bar_LM0_final_HDR.lz4" "Cyber Bar_LM0_final_Dir.lz4
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" 2048 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_final_HDR.lz4" 4 0 1 addao_1.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "1" "Cyber Bar_LMA1_final_HDR.lz4" "Cyber Bar_LMA1_final_Dir.lz4
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" 1024 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_final_HDR.lz4" 4 0 2 addao_2.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "2" "Cyber Bar_LMA2_final_HDR.lz4" "Cyber Bar_LMA2_final_Dir.lz4
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LM0_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LM0_dir.tga" 
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA1_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA1_dir.tga" 
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA2_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA2_dir.tga" 
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for Cyber Bar_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Cyber Bar_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Cyber Bar_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LM0.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LMA2.lz4" 2 0 2 0
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_ao" 8 16 0
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_ao" 8 16 1
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_ao" 8 16 2
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_0" 68 0 0 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_-29216568_0" 68 0 0 lights1.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_0" 68 0 0 lights2.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0" 4 0 0 comp_0.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_lights_Dir.lz4" 64 0 0 dircomp_0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_1" 68 0 1 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_-29216568_1" 68 0 1 lights1.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_1" 68 0 1 lights2.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1" 4 0 1 comp_1.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_lights_Dir.lz4" 64 0 1 dircomp_1.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_2" 68 0 2 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_-29216568_2" 68 0 2 lights1.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_2" 68 0 2 lights2.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2" 4 0 2 comp_2.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_lights_Dir.lz4" 64 0 2 dircomp_2.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM00.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA10.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA20.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM01.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA11.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA21.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM02.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA12.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA22.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM03.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA13.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA23.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_final" 68 16 0 "gi_Cyber Bar_LM04.bin" "Cyber Bar_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_final" 68 16 1 "gi_Cyber Bar_LMA14.bin" "Cyber Bar_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_final" 68 16 2 "gi_Cyber Bar_LMA24.bin" "Cyber Bar_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" 2048 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_final_HDR.lz4" 4 0 0 addao_0.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "0" "Cyber Bar_LM0_final_HDR.lz4" "Cyber Bar_LM0_final_Dir.lz4
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" 2048 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_final_HDR.lz4" 4 0 1 addao_1.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "1" "Cyber Bar_LMA1_final_HDR.lz4" "Cyber Bar_LMA1_final_Dir.lz4
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" 1024 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_final_HDR.lz4" 4 0 2 addao_2.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "2" "Cyber Bar_LMA2_final_HDR.lz4" "Cyber Bar_LMA2_final_Dir.lz4
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LM0_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LM0_dir.tga" 
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA1_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA1_dir.tga" 
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA2_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA2_dir.tga" 
+2022-3-13
+Rendering UV GBuffer for Cyber Bar_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Cyber Bar_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Cyber Bar_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LM0.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LMA2.lz4" 2 0 2 0
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_ao" 8 16 0
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_ao" 8 16 1
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_ao" 8 16 2
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_0" 68 0 0 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_0" 68 0 0 lights1.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0" 4 0 0 comp_0.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_lights_Dir.lz4" 64 0 0 dircomp_0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_1" 68 0 1 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_1" 68 0 1 lights1.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1" 4 0 1 comp_1.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_lights_Dir.lz4" 64 0 1 dircomp_1.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_2" 68 0 2 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_2" 68 0 2 lights1.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2" 4 0 2 comp_2.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_lights_Dir.lz4" 64 0 2 dircomp_2.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM00.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA10.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA20.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM01.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA11.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA21.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM02.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA12.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA22.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM03.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA13.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA23.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_final" 68 16 0 "gi_Cyber Bar_LM04.bin" "Cyber Bar_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_final" 68 16 1 "gi_Cyber Bar_LMA14.bin" "Cyber Bar_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_final" 68 16 2 "gi_Cyber Bar_LMA24.bin" "Cyber Bar_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" 2048 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_final_HDR.lz4" 4 0 0 addao_0.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "0" "Cyber Bar_LM0_final_HDR.lz4" "Cyber Bar_LM0_final_Dir.lz4
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" 2048 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_final_HDR.lz4" 4 0 1 addao_1.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "1" "Cyber Bar_LMA1_final_HDR.lz4" "Cyber Bar_LMA1_final_Dir.lz4
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" 1024 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_final_HDR.lz4" 4 0 2 addao_2.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "2" "Cyber Bar_LMA2_final_HDR.lz4" "Cyber Bar_LMA2_final_Dir.lz4
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LM0_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LM0_dir.tga" 
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA1_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA1_dir.tga" 
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA2_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA2_dir.tga" 
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for Cyber Bar_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Cyber Bar_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Cyber Bar_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LM0.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LMA2.lz4" 2 0 2 0
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_ao" 8 16 0
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_ao" 8 16 1
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_ao" 8 16 2
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_0" 68 0 0 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_0" 68 0 0 lights1.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0" 4 0 0 comp_0.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_lights_Dir.lz4" 64 0 0 dircomp_0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_1" 68 0 1 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_1" 68 0 1 lights1.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1" 4 0 1 comp_1.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_lights_Dir.lz4" 64 0 1 dircomp_1.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_2" 68 0 2 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_2" 68 0 2 lights1.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2" 4 0 2 comp_2.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_lights_Dir.lz4" 64 0 2 dircomp_2.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM00.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA10.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA20.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM01.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA11.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA21.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM02.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA12.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA22.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM03.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA13.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA23.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_final" 68 16 0 "gi_Cyber Bar_LM04.bin" "Cyber Bar_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_final" 68 16 1 "gi_Cyber Bar_LMA14.bin" "Cyber Bar_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_final" 68 16 2 "gi_Cyber Bar_LMA24.bin" "Cyber Bar_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" 2048 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_final_HDR.lz4" 4 0 0 addao_0.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "0" "Cyber Bar_LM0_final_HDR.lz4" "Cyber Bar_LM0_final_Dir.lz4
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" 2048 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_final_HDR.lz4" 4 0 1 addao_1.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "1" "Cyber Bar_LMA1_final_HDR.lz4" "Cyber Bar_LMA1_final_Dir.lz4
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" 1024 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_final_HDR.lz4" 4 0 2 addao_2.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "2" "Cyber Bar_LMA2_final_HDR.lz4" "Cyber Bar_LMA2_final_Dir.lz4
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LM0_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LM0_dir.tga" 
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA1_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA1_dir.tga" 
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA2_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA2_dir.tga" 
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for Cyber Bar_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Cyber Bar_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Cyber Bar_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LM0.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LMA2.lz4" 2 0 2 0
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_ao" 8 16 0
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_ao" 8 16 1
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_ao" 8 16 2
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_0" 68 0 0 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_0" 68 0 0 lights1.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0" 4 0 0 comp_0.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_lights_Dir.lz4" 64 0 0 dircomp_0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_1" 68 0 1 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_1" 68 0 1 lights1.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1" 4 0 1 comp_1.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_lights_Dir.lz4" 64 0 1 dircomp_1.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_2" 68 0 2 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_2" 68 0 2 lights1.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2" 4 0 2 comp_2.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_lights_Dir.lz4" 64 0 2 dircomp_2.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM00.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA10.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA20.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM01.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA11.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA21.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM02.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA12.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA22.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM03.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA13.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA23.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_final" 68 16 0 "gi_Cyber Bar_LM04.bin" "Cyber Bar_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_final" 68 16 1 "gi_Cyber Bar_LMA14.bin" "Cyber Bar_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_final" 68 16 2 "gi_Cyber Bar_LMA24.bin" "Cyber Bar_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" 2048 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_final_HDR.lz4" 4 0 0 addao_0.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "0" "Cyber Bar_LM0_final_HDR.lz4" "Cyber Bar_LM0_final_Dir.lz4
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" 2048 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_final_HDR.lz4" 4 0 1 addao_1.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "1" "Cyber Bar_LMA1_final_HDR.lz4" "Cyber Bar_LMA1_final_Dir.lz4
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" 1024 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_final_HDR.lz4" 4 0 2 addao_2.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "2" "Cyber Bar_LMA2_final_HDR.lz4" "Cyber Bar_LMA2_final_Dir.lz4
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LM0_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LM0_dir.tga" 
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA1_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA1_dir.tga" 
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA2_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA2_dir.tga" 
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for Cyber Bar_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Cyber Bar_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Cyber Bar_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LM0.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LMA2.lz4" 2 0 2 0
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_ao" 8 16 0
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_ao" 8 16 1
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_ao" 8 16 2
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_0" 68 0 0 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_0" 68 0 0 lights1.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0" 4 0 0 comp_0.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_lights_Dir.lz4" 64 0 0 dircomp_0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_1" 68 0 1 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_1" 68 0 1 lights1.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1" 4 0 1 comp_1.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_lights_Dir.lz4" 64 0 1 dircomp_1.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_2" 68 0 2 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_2" 68 0 2 lights1.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2" 4 0 2 comp_2.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_lights_Dir.lz4" 64 0 2 dircomp_2.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM00.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA10.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA20.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM01.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA11.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA21.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM02.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA12.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA22.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM03.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA13.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA23.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_final" 68 16 0 "gi_Cyber Bar_LM04.bin" "Cyber Bar_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_final" 68 16 1 "gi_Cyber Bar_LMA14.bin" "Cyber Bar_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_final" 68 16 2 "gi_Cyber Bar_LMA24.bin" "Cyber Bar_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" 2048 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_final_HDR.lz4" 4 0 0 addao_0.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "0" "Cyber Bar_LM0_final_HDR.lz4" "Cyber Bar_LM0_final_Dir.lz4
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" 2048 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_final_HDR.lz4" 4 0 1 addao_1.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "1" "Cyber Bar_LMA1_final_HDR.lz4" "Cyber Bar_LMA1_final_Dir.lz4
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" 1024 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_final_HDR.lz4" 4 0 2 addao_2.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "2" "Cyber Bar_LMA2_final_HDR.lz4" "Cyber Bar_LMA2_final_Dir.lz4
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LM0_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LM0_dir.tga" 
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA1_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA1_dir.tga" 
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA2_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA2_dir.tga" 
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for Cyber Bar_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Cyber Bar_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Cyber Bar_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LM0.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LMA2.lz4" 2 0 2 0
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_ao" 8 16 0
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_ao" 8 16 1
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_ao" 8 16 2
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_0" 68 0 0 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_0" 68 0 0 lights1.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0" 4 0 0 comp_0.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_lights_Dir.lz4" 64 0 0 dircomp_0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_1" 68 0 1 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_1" 68 0 1 lights1.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1" 4 0 1 comp_1.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_lights_Dir.lz4" 64 0 1 dircomp_1.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_2" 68 0 2 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_2" 68 0 2 lights1.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2" 4 0 2 comp_2.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_lights_Dir.lz4" 64 0 2 dircomp_2.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM00.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA10.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA20.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM01.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA11.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA21.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM02.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA12.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA22.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM03.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA13.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA23.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_final" 68 16 0 "gi_Cyber Bar_LM04.bin" "Cyber Bar_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_final" 68 16 1 "gi_Cyber Bar_LMA14.bin" "Cyber Bar_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_final" 68 16 2 "gi_Cyber Bar_LMA24.bin" "Cyber Bar_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" 2048 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_final_HDR.lz4" 4 0 0 addao_0.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "0" "Cyber Bar_LM0_final_HDR.lz4" "Cyber Bar_LM0_final_Dir.lz4
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" 2048 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_final_HDR.lz4" 4 0 1 addao_1.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "1" "Cyber Bar_LMA1_final_HDR.lz4" "Cyber Bar_LMA1_final_Dir.lz4
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" 1024 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_final_HDR.lz4" 4 0 2 addao_2.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "2" "Cyber Bar_LMA2_final_HDR.lz4" "Cyber Bar_LMA2_final_Dir.lz4
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LM0_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LM0_dir.tga" 
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA1_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA1_dir.tga" 
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA2_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA2_dir.tga" 
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for Cyber Bar_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Cyber Bar_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Cyber Bar_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LM0.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LMA2.lz4" 2 0 2 0
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_ao" 8 16 0
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_ao" 8 16 1
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_ao" 8 16 2
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_0" 68 0 0 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_0" 68 0 0 lights1.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0" 4 0 0 comp_0.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_lights_Dir.lz4" 64 0 0 dircomp_0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_1" 68 0 1 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_1" 68 0 1 lights1.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1" 4 0 1 comp_1.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_lights_Dir.lz4" 64 0 1 dircomp_1.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_2" 68 0 2 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_2" 68 0 2 lights1.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2" 4 0 2 comp_2.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_lights_Dir.lz4" 64 0 2 dircomp_2.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM00.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA10.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA20.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM01.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA11.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA21.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM02.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA12.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA22.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM03.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA13.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA23.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_final" 68 16 0 "gi_Cyber Bar_LM04.bin" "Cyber Bar_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_final" 68 16 1 "gi_Cyber Bar_LMA14.bin" "Cyber Bar_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_final" 68 16 2 "gi_Cyber Bar_LMA24.bin" "Cyber Bar_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" 2048 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_final_HDR.lz4" 4 0 0 addao_0.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "0" "Cyber Bar_LM0_final_HDR.lz4" "Cyber Bar_LM0_final_Dir.lz4
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" 2048 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_final_HDR.lz4" 4 0 1 addao_1.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "1" "Cyber Bar_LMA1_final_HDR.lz4" "Cyber Bar_LMA1_final_Dir.lz4
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" 1024 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_final_HDR.lz4" 4 0 2 addao_2.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "2" "Cyber Bar_LMA2_final_HDR.lz4" "Cyber Bar_LMA2_final_Dir.lz4
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LM0_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LM0_dir.tga" 
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA1_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA1_dir.tga" 
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA2_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA2_dir.tga" 
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for Cyber Bar_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Cyber Bar_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Cyber Bar_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LM0.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_Cyber Bar_LMA2.lz4" 2 0 2 0
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_ao" 8 16 0
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_ao" 8 16 1
+Running ftrace ao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_ao" 8 16 2
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_0" 68 0 0 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_0" 68 0 0 lights1.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0" 4 0 0 comp_0.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_lights_Dir.lz4" 64 0 0 dircomp_0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_1" 68 0 1 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_1" 68 0 1 lights1.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1" 4 0 1 comp_1.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_lights_Dir.lz4" 64 0 1 dircomp_1.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_122621661_2" 68 0 2 lights0.bin
+Running ftrace arealightdir "C:\Users\natha\AppData\Local\Temp\frender" "light_749346448_2" 68 0 2 lights1.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2" 4 0 2 comp_2.bin
+Running ftrace diradd "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_lights_Dir.lz4" 64 0 2 dircomp_2.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM00.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA10.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA20.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM01.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA11.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA21.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_diffuse" 4 16 0 "gi_Cyber Bar_LM02.bin" "Cyber Bar_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_diffuse" 4 16 1 "gi_Cyber Bar_LMA12.bin" "Cyber Bar_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_diffuse" 4 16 2 "gi_Cyber Bar_LMA22.bin" "Cyber Bar_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_final" 68 16 0 "gi_Cyber Bar_LM03.bin" "Cyber Bar_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_final" 68 16 1 "gi_Cyber Bar_LMA13.bin" "Cyber Bar_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgidir "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_final" 68 16 2 "gi_Cyber Bar_LMA23.bin" "Cyber Bar_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" 2048 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LM0_final_HDR.lz4" 4 0 0 addao_0.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "0" "Cyber Bar_LM0_final_HDR.lz4" "Cyber Bar_LM0_final_Dir.lz4
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" 2048 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA1_final_HDR.lz4" 4 0 1 addao_1.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" 2048 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "1" "Cyber Bar_LMA1_final_HDR.lz4" "Cyber Bar_LMA1_final_Dir.lz4
+Running denoiser72 D "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" 1024 0
+Running ftrace addao "C:\Users\natha\AppData\Local\Temp\frender" "Cyber Bar_LMA2_final_HDR.lz4" 4 0 2 addao_2.bin
+Running denoiser72 c "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "2" "Cyber Bar_LMA2_final_HDR.lz4" "Cyber Bar_LMA2_final_Dir.lz4
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LM0_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LM0_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LM0_dir.tga" 
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA1_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA1_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA1_dir.tga" 
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA2_final.hdr" 1024
+Running rgba2tga "C:\Users\natha\AppData\Local\Temp\frender/Cyber Bar_LMA2_final_Dir.lz4" "C:/Users/natha/Documents/GitHub/VRC-DEV/CyberBar - VRC/Assets/BakeryLightmaps/Cyber Bar_LMA2_dir.tga" 
+Compressing using quality level 255
+Compressing using quality level 255
+Compressing using quality level 255
+Compressing using quality level 255
+Compressing using quality level 255
+Compressing using quality level 255
+Compressing using quality level 255
