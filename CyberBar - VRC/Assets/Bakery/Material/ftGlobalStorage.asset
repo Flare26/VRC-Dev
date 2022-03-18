@@ -13,251 +13,1389 @@ MonoBehaviour:
   m_Name: ftGlobalStorage
   m_EditorClassIdentifier: 
   modifiedAssetPathList:
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_26.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Prop_BarChair_01.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_07.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Prop_Watercooler_01.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Bld_StripClub_Interior_03.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_31.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_01.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_15.fbx
   - Assets/PolygonSciFiCity/Models/SM_Prop_BenchSeat_01.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_10.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Prop_Door_01.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Prop_Stool_01.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Whiskey Glass.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Wine Glass.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Beer Glass.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Bottle.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Disco Ball.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Fridge.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Bar Mat.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Bar Counter Top.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Bar Counter  Corner Top.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Bar Counter Sink.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Bar Stool.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Bar Shelf.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Booth Table.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Booth Seat Invert Corner.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Booth Seat End.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Booth Seat End Half.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Booth Seat.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Dance Floor.fbx
+  - Assets/Arcade Machines/AurynSky/Arcade Pack 01/Models/ControlButtonFbx.fbx
+  - Assets/Arcade Machines/AurynSky/Arcade Pack 01/Models/ControlStickfbx.fbx
+  - Assets/Arcade Machines/AurynSky/Arcade Pack 01/Models/ControlButtonHolder.fbx
+  - Assets/Arcade Machines/AurynSky/Arcade Pack 01/Models/ControlStickBasefbx.fbx
+  - Assets/Arcade Machines/AurynSky/Arcade Pack 01/Models/ArcadeStandardFBX.fbx
+  - Assets/Arcade Machines/AurynSky/Arcades Pack 02/Models/HolderFBX.fbx
+  - Assets/Arcade Machines/AurynSky/Arcades Pack 02/Models/ControlButtonFbx.fbx
+  - Assets/Arcade Machines/AurynSky/Arcades Pack 02/Models/ControlButtonHolder.fbx
+  - Assets/Arcade Machines/AurynSky/Arcades Pack 02/Models/GunCadeFBX.fbx
+  - Assets/Arcade Machines/AurynSky/Arcades Pack 02/Models/GunFBX.fbx
+  - Assets/Arcade Machines/AurynSky/Arcades Pack 02/Models/CarWheel.fbx
+  - Assets/Arcade Machines/AurynSky/Arcades Pack 02/Models/DriverFBX.fbx
+  - Assets/Arcade Machines/Alstra Infinite/Arcade Machines - PolyPack/Models/PinballMachineV1.fbx
+  - Assets/Arcade Machines/Alstra Infinite/Arcade Machines - PolyPack/Models/ArcadeMachineV1.fbx
+  - Assets/Arcade Machines/Alstra Infinite/Arcade Machines - PolyPack/Models/ArcadeMachineV4.fbx
+  - Assets/Arcade Machines/Alstra Infinite/Arcade Machines - PolyPack/Models/ArcadeMachineV2.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Plant_Vase_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_08.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_StripClub_Interior_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_20.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Watercooler_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_Flat_01.fbx
   - Assets/PolygonSciFiCity/Models/SM_Prop_Wall_Table_01.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_09.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_12.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_02.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_18.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_Flat_06.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_01.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_Flat_07.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_23.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_08.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_16.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_Flat_05.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_21.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_BarChair_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Props_StripClub_Table_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_Flat_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_22.fbx
   - Assets/PolygonSciFiCity/Models/SM_Sign_06.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_Flat_04.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_02.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_11.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_09.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_03.fbx
   - Assets/PolygonSciFiCity/Models/SM_Bld_StripClub_Interior_01.fbx
   - Assets/PolygonSciFiCity/Models/SM_Bld_StripClub_Interior_02.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_22.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_Flat_03.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_21.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_Flat_05.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_16.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_03.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_Flat_01.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_20.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_08.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Props_StripClub_Table_01.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Basic Wall.fbx
   - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_30.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Flags_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_09.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Stool_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_11.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_Flat_04.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Stage Light.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/CDJ.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Turn Table.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Record.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Nightclub Light 1.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Pillar 1.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Basic Floor Cube.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Staircase Straight.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Stage Block.fbx
+  - Assets/Pyralix/Skee-Ball/Models/Skee-Ball.fbx
+  - Assets/Props/Arcade Machines/AurynSky/Arcade Pack 01/Models/ControlButtonFbx.fbx
+  - Assets/Props/Arcade Machines/AurynSky/Arcade Pack 01/Models/ControlStickfbx.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Nightclub Background LED.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/DJ Booth.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Light Bar.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Ceiling.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Speaker.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/DJ Booth LED Display.fbx
+  - Assets/Props/Arcade Machines/AurynSky/Arcades Pack 02/Models/GunFBX.fbx
+  - Assets/Props/Arcade Machines/AurynSky/Arcades Pack 02/Models/ControlButtonHolder.fbx
+  - Assets/Props/Arcade Machines/AurynSky/Arcades Pack 02/Models/HolderFBX.fbx
+  - Assets/Props/Arcade Machines/AurynSky/Arcades Pack 02/Models/ControlButtonFbx.fbx
+  - Assets/Props/Arcade Machines/AurynSky/Arcades Pack 02/Models/GunCadeFBX.fbx
+  - Assets/Props/Arcade Machines/AurynSky/Arcades Pack 02/Models/CarWheel.fbx
+  - Assets/Props/Arcade Machines/AurynSky/Arcade Pack 01/Models/ControlButtonHolder.fbx
+  - Assets/Props/Arcade Machines/AurynSky/Arcade Pack 01/Models/ControlStickBasefbx.fbx
+  - Assets/Props/Arcade Machines/Alstra Infinite/Arcade Machines - PolyPack/Models/ArcadeMachineV2.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Basic Floor.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Pillar 2.fbx
+  - Assets/Props/Arcade Machines/Alstra Infinite/Arcade Machines - PolyPack/Models/ArcadeMachineV1.fbx
+  - Assets/Props/Arcade Machines/Alstra Infinite/Arcade Machines - PolyPack/Models/ArcadeMachineV4.fbx
+  - Assets/Props/Arcade Machines/Alstra Infinite/Arcade Machines - PolyPack/Models/PinballMachineV1.fbx
+  - Assets/Props/Arcade Machines/AurynSky/Arcades Pack 02/Models/DriverFBX.fbx
+  - Assets/Props/Arcade Machines/AurynSky/Arcade Pack 01/Models/ArcadeStandardFBX.fbx
+  - Assets/Thry/BeerPong/3dmodels/table.dae
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_08.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_23.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_Flat_07.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_Flat_06.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_18.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_31.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_12.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Bar Tap Pipes.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Neon_09.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Door_01.fbx
   - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_05.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_10.fbx
   - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_04.fbx
-  - Assets/PolygonSciFiCity/Models/SM_Prop_Plant_Vase_01.fbx
   - Assets/PolygonSciFiCity/Models/SM_Prop_Couch_01.fbx
-  modifiedAssetPaddingHash: ba4608c8df4dfff075f23a06a32b850a383fd3d9bd4608c81c7e936375f23a06d2f23a0675f23a064adc894b8cdb894b567e93633367e2a875f23a061c7e93635bc2a693ccc12491fd7d9363f727c115b15634b775f23a06465031eeb95634b756f23a0675f23a0675f23a061c7e9363448d3399333fd3d9907f93631928c115907f9363c3d150801067e2a85bc2a693133b803375f23a0656f23a06d9398033bd4608c875f23a069d4dfff06209ecc0f1f23a06
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_15.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_07.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_26.fbx
+  modifiedAssetPaddingHash: d2f23a06ec274e97ec274e97fe2f60f4964b20d4fd7d93630acb84e72bf43a06bd46cafd4a812e23bb4c904897c6d890e4c54eb7b7f23a06f839803308dc894beddb894bb4c2a6931b3a8033ecc12491ecc12491ecc12491ecc1249108dc894becc12491ecc12491ecc12491d93980331528c115d05634b7567e93639c09ecc0c25031eef8398033c25031eed7c2a693f8398033363fd3d98c67e2a85f083ca83ec5d8903f3fd3d98c67e2a88c67e2a8da7d9363d2f23a06e55031eede09ecc0f166e2a8d2f23a065dc5d8902ed5fb9d363fd3d9797e9363b7f23a061b3a8033f83980338c67e2a8c25031ee8c67e2a8f83980337ac2a6939b513356d5047cb9a6682c089f39803327dc894b343fd3d980c5d8901b3a8033343fd3d97c332301ecc12491ffb209ce383fd3d9353fd3d9d7c2a693323fd3d9797e93633f3fd3d95267e2a8ecc12491cfc12491ecc12491343fd3d9df4dfff0ecc12491d1318883343fd3d9323fd3d93c4efff0343fd3d9343fd3d9343fd3d9333fd3d9343fd3d9317791f68c67e2a8eddb894b08dc894bd7c2a6939f3980338c67e2a8b7f23a061b3a80338c67e2a8be1531313c4efff0323fd3d98c67e2a88c67e2a85dc5d890343fd3d98c67e2a81b3a80338c67e2a88109ecc0
   modifiedMeshList: []
   modifiedMeshPaddingList: 
   modifiedAssets:
-  - meshName:
-    - SM_Sign_Ad_26
-    padding: 75000000
-    unwrapper: 00000000
-  - meshName:
-    - SM_Prop_BarChair_01
-    padding: 30000000
-    unwrapper: 00000000
-  - meshName:
-    - SM_Sign_Ad_07
-    padding: 3c000000
-    unwrapper: 00000000
-  - meshName:
-    - SM_Prop_Watercooler_01
-    - SM_Prop_Watercooler_01_Glass
-    padding: 2600000042000000
-    unwrapper: 0000000000000000
-  - meshName:
-    - SM_Bld_StripClub_Interior_03
-    padding: 03000000
-    unwrapper: 00000000
-  - meshName:
-    - SM_Sign_Ad_31
-    padding: 70000000
-    unwrapper: 00000000
-  - meshName:
-    - SM_Sign_Ad_01
-    padding: 2b000000
-    unwrapper: 00000000
-  - meshName:
-    - SM_Sign_Ad_15
-    padding: 3c000000
-    unwrapper: 00000000
   - meshName:
     - SM_Prop_BenchSeat_01
     padding: 1e000000
     unwrapper: 00000000
   - meshName:
-    - SM_Sign_Ad_10
-    padding: 3c000000
-    unwrapper: 00000000
+    - Whiskey Liquid 1
+    - Whiskey Glass
+    - Whiskey Liquid 4
+    - Whiskey Liquid 2
+    - Whiskey Liquid 3
+    padding: 0001000000010000000100000001000000010000
+    unwrapper: 0000000000000000000000000000000000000000
   - meshName:
-    - SM_Prop_Door_01
-    padding: 10000000
-    unwrapper: 00000000
+    - Wine Liquid 1
+    - Wine Glass
+    - Wine Liquid 3
+    - Wine Liquid 4
+    - Wine Liquid 2
+    padding: 0001000000010000000100000001000000010000
+    unwrapper: 0000000000000000000000000000000000000000
   - meshName:
-    - SM_Prop_Stool_01
-    padding: 4c000000
-    unwrapper: 00000000
+    - Beer Liquid 5
+    - Beer Glass
+    - Beer Liquid 2
+    - Beer Liquid 1
+    - Beer Liquid 4
+    - Beer Liquid 3
+    padding: 000100000001000000010000000100000001000000010000
+    unwrapper: 000000000000000000000000000000000000000000000000
   - meshName:
-    - SM_Prop_Wall_Table_01
-    padding: 17000000
-    unwrapper: 00000000
+    - Bottle Liquid 2
+    - Bottle Lid
+    - Bottle
+    - Bottle Liquid 1
+    - Bottle Liquid 5
+    - Bottle Liquid 4
+    - Bottle Liquid 3
+    padding: 0001000000010000c100000000010000000100000001000000010000
+    unwrapper: 00000000000000000000000000000000000000000000000000000000
   - meshName:
-    - SM_Sign_Neon_09
-    padding: 33000000
-    unwrapper: 00000000
-  - meshName:
-    - SM_Sign_Ad_12
-    padding: 3c000000
-    unwrapper: 00000000
-  - meshName:
-    - SM_Sign_Ad_02
-    padding: 2b000000
-    unwrapper: 00000000
-  - meshName:
-    - SM_Sign_Ad_18
-    padding: 3b000000
-    unwrapper: 00000000
-  - meshName:
-    - SM_Sign_Neon_Flat_06
-    padding: 9b000000
-    unwrapper: 00000000
-  - meshName:
-    - SM_Sign_01
+    - Disco Ball
     padding: 35000000
     unwrapper: 00000000
   - meshName:
-    - SM_Sign_Neon_Flat_07
-    padding: 65000000
+    - Glass.001
+    - Right Door
+    - Glass
+    - Left Door
+    - Fridge
+    padding: 270000003b000000270000003b00000010000000
+    unwrapper: 0000000000000000000000000000000000000000
+  - meshName:
+    - Bar Mat
+    padding: 50000000
     unwrapper: 00000000
   - meshName:
-    - SM_Sign_Ad_23
-    padding: 82000000
+    - Bar Counter Pole
+    - Bar Counter Top
+    padding: 5400000017000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Bar Counter Corner Pole
+    - Bar Counter  Corner Top
+    padding: 510000001e000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Hot Tap
+    - Cold Tap
+    - Bar Counter Sink
+    padding: 000100000001000016000000
+    unwrapper: 000000000000000000000000
+  - meshName:
+    - Bar Stool
+    padding: 54000000
     unwrapper: 00000000
   - meshName:
-    - SM_Sign_Ad_08
-    padding: 3c000000
+    - Glass
+    - Bar Shelf
+    padding: 3700000025000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Booth Table
+    padding: 28000000
     unwrapper: 00000000
   - meshName:
-    - SM_Sign_06
-    padding: 43000000
+    - Booth Seat Invert Corner
+    padding: 19000000
     unwrapper: 00000000
   - meshName:
-    - SM_Sign_Neon_Flat_04
-    padding: 8a000000
+    - Booth Seat End
+    padding: 24000000
     unwrapper: 00000000
   - meshName:
-    - SM_Sign_Neon_02
-    padding: 46000000
+    - Booth Seat End Half
+    padding: 2e000000
     unwrapper: 00000000
   - meshName:
-    - SM_Sign_Ad_11
-    padding: 3c000000
+    - Booth Seat
+    padding: 1d000000
     unwrapper: 00000000
   - meshName:
-    - SM_Sign_Ad_09
-    padding: 3c000000
+    - Dance Floor
+    padding: 0f000000
     unwrapper: 00000000
   - meshName:
-    - SM_Sign_Ad_03
-    padding: 2b000000
+    - Cube.003
+    padding: 00010000
     unwrapper: 00000000
   - meshName:
-    - SM_Glass
-    - SM_HologramPods_01
-    - SM_Prop_Door_01
-    - SM_Prop_Door_02
-    - SM_Prop_Door_03
-    - SM_Prop_Door_04
-    - SM_Prop_Door_05
-    - SM_Bld_StripClub_Interior_01
-    padding: 210000000c000000190000001900000019000000190000001900000002000000
-    unwrapper: 0000000000000000000000000000000000000000000000000000000000000000
-  - meshName:
-    - SM_Bld_StripClub_Interior_02
-    padding: 04000000
+    - Cube.001
+    padding: 00010000
     unwrapper: 00000000
   - meshName:
-    - SM_Sign_Ad_22
-    padding: 53000000
+    - Cube.004
+    padding: 00010000
     unwrapper: 00000000
   - meshName:
-    - SM_Sign_Neon_Flat_03
-    padding: c8000000
+    - Cube.002
+    padding: 00010000
     unwrapper: 00000000
   - meshName:
-    - SM_Sign_Ad_21
-    padding: 53000000
+    - Cube
+    padding: 24000000
     unwrapper: 00000000
   - meshName:
-    - SM_Sign_Neon_Flat_05
-    padding: b0000000
+    - Cube.007
+    padding: 00010000
     unwrapper: 00000000
   - meshName:
-    - SM_Sign_Ad_16
-    padding: 3d000000
+    - Cube.003
+    padding: 00010000
     unwrapper: 00000000
   - meshName:
-    - SM_Sign_03
-    padding: 3b000000
+    - Cube.004
+    padding: 00010000
     unwrapper: 00000000
   - meshName:
-    - SM_Sign_Neon_Flat_01
-    padding: 5f000000
-    unwrapper: 00000000
-  - meshName:
-    - SM_Sign_Ad_20
-    padding: 3c000000
-    unwrapper: 00000000
-  - meshName:
-    - SM_Sign_Neon_08
-    padding: 46000000
-    unwrapper: 00000000
-  - meshName:
-    - SM_Props_StripClub_Table_01
+    - Cube.011
     padding: 23000000
     unwrapper: 00000000
   - meshName:
-    - SM_Sign_Ad_30
-    padding: 70000000
+    - Cube.010
+    padding: cc000000
     unwrapper: 00000000
   - meshName:
-    - SM_Sign_Ad_05
-    padding: 3c000000
+    - Torus.001
+    padding: ea000000
     unwrapper: 00000000
   - meshName:
-    - SM_Sign_Ad_04
-    padding: 44000000
+    - Cube.013
+    padding: 17000000
+    unwrapper: 00000000
+  - meshName:
+    - PinballMachineV1
+    padding: 20000000
+    unwrapper: 00000000
+  - meshName:
+    - ArcadeMachineV1
+    padding: 1b000000
+    unwrapper: 00000000
+  - meshName:
+    - ArcadeMachineV4
+    padding: 19000000
+    unwrapper: 00000000
+  - meshName:
+    - ArcadeMachineV2
+    padding: 1b000000
     unwrapper: 00000000
   - meshName:
     - SM_Prop_Plant_Vase_01
-    padding: 34000000
-    unwrapper: 00000000
+    padding: 13000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Neon_08
+    padding: 19000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Bld_StripClub_Interior_03
+    padding: 01000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Ad_20
+    padding: 15000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Prop_Watercooler_01
+    - SM_Prop_Watercooler_01_Glass
+    padding: 0d00000017000000
+    unwrapper: 0100000001000000
+  - meshName:
+    - SM_Sign_Neon_Flat_01
+    padding: 22000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Prop_Wall_Table_01
+    padding: 08000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_03
+    padding: 15000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Ad_16
+    padding: 15000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Neon_Flat_05
+    padding: 3f000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Ad_21
+    padding: 1e000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Prop_BarChair_01
+    padding: 11000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Props_StripClub_Table_01
+    padding: 0c000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Neon_Flat_03
+    padding: 47000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Ad_22
+    padding: 1e000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_06
+    padding: 18000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_HologramPods_01
+    - SM_Prop_Door_01
+    - SM_Prop_Door_02
+    - SM_Prop_Door_04
+    - SM_Bld_StripClub_Interior_01
+    - SM_Glass
+    - SM_Prop_Door_03
+    - SM_Prop_Door_05
+    padding: 04000000090000000900000009000000010000000b0000000900000009000000
+    unwrapper: 0100000001000000010000000100000001000000010000000100000001000000
+  - meshName:
+    - SM_Bld_StripClub_Interior_02
+    padding: 01000000
+    unwrapper: 01000000
+  - meshName:
+    - Basic Wall
+    padding: 0d000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Ad_30
+    padding: 28000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Ad_03
+    padding: 0f000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Prop_Flags_01
+    padding: 19000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Ad_09
+    padding: 15000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Prop_Stool_01
+    padding: 1b000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Ad_11
+    padding: 15000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Neon_02
+    padding: 19000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Neon_Flat_04
+    padding: 31000000
+    unwrapper: 01000000
+  - meshName:
+    - Stage Light
+    - Swivel
+    - Holder
+    padding: 270000004100000062000000
+    unwrapper: 010000000100000001000000
+  - meshName:
+    - Track Select Dial
+    - Tempo Dial
+    - Turn Table
+    - Track Fade Dial
+    - CDJ
+    padding: 000100000001000044000000000100001b000000
+    unwrapper: 0100000001000000010000000100000001000000
+  - meshName:
+    - Needle
+    - Record Holder
+    - Tempo
+    - Turn Table
+    padding: 7d00000033000000000100001b000000
+    unwrapper: 01000000010000000100000001000000
+  - meshName:
+    - Record
+    padding: 37000000
+    unwrapper: 01000000
+  - meshName:
+    - Nightclub Light 1
+    padding: 1a000000
+    unwrapper: 01000000
+  - meshName:
+    - Pillar 1
+    padding: 07000000
+    unwrapper: 01000000
+  - meshName:
+    - Basic Floor Cube
+    padding: 0e000000
+    unwrapper: 01000000
+  - meshName:
+    - Staircase Straight
+    padding: 0f000000
+    unwrapper: 01000000
+  - meshName:
+    - Stage Block
+    padding: 07000000
+    unwrapper: 01000000
+  - meshName:
+    - Mesh4
+    - Mesh2
+    - Mesh1
+    padding: 03000000160000009c000000
+    unwrapper: 010000000100000001000000
+  - meshName:
+    - Cube.003
+    padding: 00010000
+    unwrapper: 01000000
+  - meshName:
+    - Cube.001
+    padding: a7000000
+    unwrapper: 01000000
+  - meshName:
+    - Nightclub Background LED
+    padding: 03000000
+    unwrapper: 01000000
+  - meshName:
+    - DJ Booth
+    padding: 06000000
+    unwrapper: 01000000
+  - meshName:
+    - Light Bar
+    padding: 13000000
+    unwrapper: 01000000
+  - meshName:
+    - Ceiling
+    padding: 05000000
+    unwrapper: 01000000
+  - meshName:
+    - Speaker
+    padding: 0d000000
+    unwrapper: 01000000
+  - meshName:
+    - DJ Booth LED Display
+    padding: 08000000
+    unwrapper: 01000000
+  - meshName:
+    - Cube.010
+    padding: 29000000
+    unwrapper: 01000000
+  - meshName:
+    - Cube.004
+    padding: 00010000
+    unwrapper: 01000000
+  - meshName:
+    - Cube.007
+    padding: 96000000
+    unwrapper: 01000000
+  - meshName:
+    - Cube.003
+    padding: 00010000
+    unwrapper: 01000000
+  - meshName:
+    - Cube.011
+    padding: 07000000
+    unwrapper: 01000000
+  - meshName:
+    - Torus.001
+    padding: 30000000
+    unwrapper: 01000000
+  - meshName:
+    - Cube.004
+    padding: 00010000
+    unwrapper: 01000000
+  - meshName:
+    - Cube.002
+    padding: b7000000
+    unwrapper: 01000000
+  - meshName:
+    - ArcadeMachineV2
+    padding: 07000000
+    unwrapper: 01000000
+  - meshName:
+    - Basic Floor
+    padding: 05000000
+    unwrapper: 01000000
+  - meshName:
+    - Pillar 2
+    padding: 12000000
+    unwrapper: 01000000
+  - meshName:
+    - ArcadeMachineV1
+    padding: 07000000
+    unwrapper: 01000000
+  - meshName:
+    - ArcadeMachineV4
+    padding: 07000000
+    unwrapper: 01000000
+  - meshName:
+    - PinballMachineV1
+    padding: 07000000
+    unwrapper: 01000000
+  - meshName:
+    - Cube.013
+    padding: 04000000
+    unwrapper: 01000000
+  - meshName:
+    - Cube
+    padding: 07000000
+    unwrapper: 01000000
+  - meshName:
+    - 2Divider.001
+    - 2Players
+    - 2Divider
+    padding: 17000000060000003f000000
+    unwrapper: 010000000100000001000000
+  - meshName:
+    - SM_Sign_Ad_08
+    padding: 15000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Ad_23
+    padding: 2e000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Neon_Flat_07
+    padding: 24000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_01
+    padding: 13000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Neon_Flat_06
+    padding: 37000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Ad_18
+    padding: 15000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Ad_31
+    padding: 28000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Ad_02
+    padding: 0f000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Ad_12
+    padding: 15000000
+    unwrapper: 01000000
+  - meshName:
+    - Bar Tap 3
+    - Cube.003
+    - Cube.001
+    - Bar Tap 2
+    - Bar Tap 4
+    - Cube.005
+    - Cube.007
+    - Bar Tap 5
+    - Bar Tap 1
+    - Bar Tap Pipes
+    - Cube.009
+    padding: 6600000085000000850000006600000066000000850000008500000066000000660000002900000085000000
+    unwrapper: 0100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  - meshName:
+    - SM_Sign_Neon_09
+    padding: 12000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Prop_Door_01
+    padding: 05000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Ad_05
+    padding: 15000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Ad_10
+    padding: 15000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Ad_04
+    padding: 18000000
+    unwrapper: 01000000
   - meshName:
     - SM_Prop_Couch_01
-    padding: 14000000
-    unwrapper: 00000000
+    padding: 07000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Ad_15
+    padding: 15000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Ad_01
+    padding: 0f000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Ad_07
+    padding: 15000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Ad_26
+    padding: 2a000000
+    unwrapper: 01000000
   assetList:
   - Assets/MeshEditor/LowPolyWeapon/Models/axe.FBX
   - Assets/PolygonSciFiCity/Models/Collision/SM_Bld_StripClub_Interior_02_Collision_MODIFIED.fbx
   - Assets/Scenes/Stonette_FBX/New Club Fbx.FBX
   - Assets/_PoiyomiShaders/Examples/Stencil/DoubleSphere.fbx
   - Assets/_PoiyomiShaders/Shaders/Patreon/NameTag/Ring (1).fbx
-  uvOverlapAssetList: 0101000001010000010100000101000000000000
-  xatlasWarningShown: 0
+  - Assets/Icons/pumpkin.FBX
+  - Assets/Icons/egg.FBX
+  - Assets/Icons/ham.FBX
+  - Assets/Icons/candy.FBX
+  - Assets/Icons/cherry.FBX
+  - Assets/Icons/pizza.FBX
+  - Assets/Icons/acorn.FBX
+  - Assets/Icons/garlic.FBX
+  - Assets/Icons/kiwi.FBX
+  - Assets/Icons/mushroom.FBX
+  - Assets/Icons/lemon.FBX
+  - Assets/Icons/carrot.FBX
+  - Assets/Icons/orange.FBX
+  - Assets/Icons/tomato.FBX
+  - Assets/Icons/watermelon.FBX
+  - Assets/Icons/Hambuger.FBX
+  - Assets/Icons/yogurt.FBX
+  - Assets/Icons/banana.FBX
+  - Assets/Icons/waffle.FBX
+  - Assets/Icons/yam.FBX
+  - Assets/Icons/cake.FBX
+  - Assets/Icons/grape.FBX
+  - Assets/Icons/onion.FBX
+  - Assets/Icons/icecream.FBX
+  - Assets/Icons/apple.FBX
+  - Assets/Icons/pea.FBX
+  - Assets/01_3D/ETC/3D Bakery Object/FBX/Donuts.FBX
+  - Assets/01_3D/ETC/3D Bakery Object/FBX/Cake.FBX
+  - Assets/01_3D/ETC/3D Bakery Object/FBX/Waffle.FBX
+  - Assets/01_3D/ETC/3D Bakery Object/FBX/IceCream.FBX
+  - Assets/01_3D/ETC/3D Bakery Object/FBX/Milk.FBX
+  - Assets/01_3D/ETC/3D Bakery Object/FBX/Hambuger.FBX
+  - Assets/01_3D/ETC/3D Bakery Object/FBX/HamEgg.FBX
+  - Assets/Pyralix/Skee-Ball/Models/Skee-Ball.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Nightclub Background LED.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/CDJ.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Bottle.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Ceiling.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Wine Glass.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Booth Table.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Bar Shelf.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Basic Floor Cube.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Mixer.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/DJ Booth.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Whiskey Glass.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Record.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Bar Counter Sink.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Bar Tap Pipes.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Pillar 2.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Staircase Straight.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/DJ Booth LED Display.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Booth Seat Invert Corner.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Light Bar.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Stage Block.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Bar Counter Top.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Bar Counter  Corner Top.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Speaker.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Stage Light.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Disco Ball.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Turn Table.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Dance Floor.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Basic Wall.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Booth Seat End Half.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Booth Seat.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Fridge.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Bar Stool.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Beer Glass.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Nightclub Light 1.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Bar Mat.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Pillar 1.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Booth Seat End.fbx
+  - Assets/9t5 Low Poly Night Club/FBXs/Basic Floor.fbx
+  - Assets/Alstra Infinite/Arcade Machines - PolyPack/Models/ArcadeMachineV1.fbx
+  - Assets/Alstra Infinite/Arcade Machines - PolyPack/Models/PinballMachineV1.fbx
+  - Assets/Alstra Infinite/Arcade Machines - PolyPack/Models/ArcadeMachineV4.fbx
+  - Assets/Alstra Infinite/Arcade Machines - PolyPack/Models/PinballMachineV1_WO_Glass.fbx
+  - Assets/Alstra Infinite/Arcade Machines - PolyPack/Models/ArcadeMachineV3.fbx
+  - Assets/Alstra Infinite/Arcade Machines - PolyPack/Models/ArcadeMachineV2.fbx
+  - Assets/BarProps/Prefabs/SquareTable.dae
+  - Assets/BarProps/Prefabs/WoodenSwivelStoolBacked.dae
+  - Assets/BarProps/Prefabs/TallSquareTable.dae
+  - Assets/BarProps/Prefabs/WoodenSwivelStoolNoBack.dae
+  - Assets/BarProps/Prefabs/TallRoundTable.dae
+  - Assets/BarProps/Scenes/BarDemoProps/beerneonsign.dae
+  - Assets/BarProps/Prefabs/WoodenSeatBacked.dae
+  - Assets/BarProps/Prefabs/WoodenStoolBacked.dae
+  - Assets/BarProps/Prefabs/RoundTable.dae
+  - Assets/BarProps/Prefabs/OldSchoolBarstoolBacked.dae
+  - Assets/BarProps/Prefabs/OldSchoolBarstoolNoBack.dae
+  - Assets/hazelwoodloft/Geometry/room_05_city_complete/room_05_pack_lineup_night.fbx
+  - Assets/hazelwoodloft/Geometry/room_04_terrace.fbx
+  - Assets/hazelwoodloft/Geometry/room_05_city_complete/room_05_pack_square_day.fbx
+  - Assets/hazelwoodloft/Geometry/room_04_terrace_complete/room_04_terrace_complete.fbx
+  - Assets/hazelwoodloft/Geometry/room_05_city.fbx
+  - Assets/hazelwoodloft/Geometry/room_05_city_complete/room_05_pack_environment_day.fbx
+  - Assets/hazelwoodloft/Geometry/room_05_city_complete/room_05_pack_lineup_day.fbx
+  - Assets/hazelwoodloft/Geometry/room_05_city_complete/room_05_pack_square_night.fbx
+  - Assets/hazelwoodloft/Geometry/curtians_abc.fbx
+  - Assets/hazelwoodloft/Geometry/room_05_city_complete/room_05_pack_environment_night.fbx
+  - Assets/AurynSky/Arcade Pack 01/Models/ChairTallfbx.fbx
+  - Assets/AurynSky/Arcade Pack 01/Models/ControlStickfbx.fbx
+  - Assets/AurynSky/Arcade Pack 01/Models/ControlButtonHolder.fbx
+  - Assets/AurynSky/Arcade Pack 01/Models/ChairShort.fbx
+  - Assets/AurynSky/Arcade Pack 01/Models/ControlButtonFbx.fbx
+  - Assets/AurynSky/Arcade Pack 01/Models/ControlStickBasefbx.fbx
+  - Assets/AurynSky/Arcade Pack 01/Models/ArcadeStandardFBX.fbx
+  - Assets/AurynSky/Arcade Pack 01/Models/TableTop.fbx
+  - Assets/AurynSky/Arcades Pack 02/Models/CarWheel.fbx
+  - Assets/AurynSky/Arcades Pack 02/Models/ControlButtonHolder.fbx
+  - Assets/AurynSky/Arcades Pack 02/Models/HolderFBX.fbx
+  - Assets/AurynSky/Arcades Pack 02/Models/ControlStickfbx.fbx
+  - Assets/AurynSky/Arcades Pack 02/Models/ControlStickBasefbx.fbx
+  - Assets/AurynSky/Arcades Pack 02/Models/ControlButtonFbx.fbx
+  - Assets/AurynSky/Arcades Pack 02/Models/DriverFBX.fbx
+  - Assets/AurynSky/Arcades Pack 02/Models/GunCadeFBX.fbx
+  - Assets/AurynSky/Arcades Pack 02/Models/WideStandardFBX.fbx
+  - Assets/AurynSky/Arcades Pack 02/Models/GunFBX.fbx
+  - Assets/AurynSky/Arcades Pack 02/Models/ChairTallfbx.fbx
+  - Assets/Thry/BeerPong/3dmodels/table.dae
+  - Assets/Thry/BeerPong/3dmodels/arrow.dae
+  - Assets/Thry/BeerPong/3dmodels/arrow.blend
+  - Assets/Thry/BeerPong/3dmodels/glass.blend
+  - Assets/Thry/BeerPong/3dmodels/table.blend
+  - Assets/Crazy 8 Ball/Mesh/8Ball and PodiumOptimal.fbx
+  - Assets/Crazy 8 Ball/Mesh/Crazy 8Ball and Podium.fbx
+  - Assets/Props/01_3D/ETC/3D Bakery Object/FBX/HamEgg.FBX
+  - Assets/VRCBilliardsCE/Models/balls.fbx
+  - Assets/VRCBilliardsCE/Models/icosphere.fbx
+  - Assets/VRCBilliardsCE/Models/MainTable.fbx
+  - Assets/VRCBilliardsCE/Models/balls_all.fbx
+  - Assets/VRCBilliardsCE/Models/ball_marker.fbx
+  - Assets/VRCBilliardsCE/Models/4ball_point_labels.fbx
+  - Assets/VRCBilliardsCE/Models/CottonFoxTable.fbx
+  - Assets/VRCBilliardsCE/Models/MetalTable.fbx
+  - Assets/VRCBilliardsCE/Models/desktop_parts.fbx
+  - Assets/VRCBilliardsCE/Models/cue.fbx
+  - Assets/VRCBilliardsCE/Models/MetalTableColliders.fbx
+  - Assets/VRCBilliardsCE/Models/MainTableColliders.fbx
+  - Assets/VRCBilliardsCE/Models/9ball_point_label.fbx
+  - Assets/VRCSDK/Sample Assets/Prototyping/Models/prototype_coin_01x01x01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Greeble_Cube_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Attachment_Rack_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Grenade_Stun_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Drone_Ball_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Attachment_Ironsight_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_MarketTable_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Robotic_Part_08.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Veh_Sweepo_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_MarketLights_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Bottle_03.fbx
+  - Assets/VRCSDK/Sample Assets/Prototyping/Models/prototype_join_mid_04x06x01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_JarLiquid_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Sidewalk_Panel_05.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Noodles_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Fence_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Vent_02.fbx
+  - Assets/Props/BarProps/Prefabs/SquareTable.dae
+  - Assets/VRChat Examples/SampleAssetsSet/SampleAssetsSet_V1.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_TrashBag_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Door_05.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Tree_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Road_Lines_02_SF.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Mag_Round_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Shield_Bubble_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Paper_Banner_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Cables_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Cables_Ceiling_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Wall_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Chain_03.fbx
+  - Assets/VRCSDK/Sample Assets/Prototyping/Models/prototype_steps_4x2x2.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Power_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Tile_05.fbx
+  - Assets/VRCSDK/Sample Assets/Prototyping/Models/prototype_cube_08x08x08.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Meter_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Icon_Health.fbx
+  - Assets/Props/Icons/pumpkin.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Prop_RubbishPile_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Grass_Patch_02.fbx
+  - Assets/Props/BarProps/Prefabs/WoodenSwivelStoolBacked.dae
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Pillar_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Window_02.fbx
+  - Assets/Bakery/examples/content/logolight.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Door_04.fbx
+  - Assets/Props/01_3D/ETC/3D Bakery Object/FBX/Donuts.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Env_Road_Crossing_01_SF.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Mag_Plasma_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Railing_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Advanced_02.fbx
+  - Assets/Props/Icons/egg.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Env_Sidewalk_Straight_01_SF.fbx
+  - Assets/PolygonSciFiCity/Models/SphereInverted.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Particle_Smoke_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Pillar_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_FoodTray_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Rifle_Base_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Drone_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Chopshop_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Door_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Vent_01.fbx
+  - Assets/Props/BarProps/Prefabs/TallSquareTable.dae
+  - Assets/Props/Icons/ham.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ceiling_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Jar_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Veh_Future_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Bank_Booth_01.fbx
+  - Assets/Props/Icons/candy.FBX
+  - Assets/Props/BarProps/Prefabs/WoodenSwivelStoolNoBack.dae
+  - Assets/PolygonSciFiCity/Models/SM_Prop_MarketCovcer_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_LandingPad_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Tile_Supports_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Cables_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Industrial_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Bank_Booth_Pillar_01.fbx
+  - Assets/Props/hazelwoodloft/Geometry/room_05_city_complete/room_05_pack_lineup_night.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Spanner_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Door_07.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Road_ParkingLines_01_SF.fbx
+  - Assets/Props/hazelwoodloft/Geometry/room_04_terrace.fbx
+  - Assets/VRCSDK/Dependencies/VRChat/Models/damageSphere.fbx
+  - Assets/PolygonSciFiCity/Models/Characters.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Icon_Lightning.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Sidewalk_Merger_01_SF.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_ControlPanel_01.fbx
+  - Assets/Bakery/examples/content/floor_lamp.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Large_Part_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Sidewalk_Straight_04_SF.fbx
+  - Assets/PolygonSciFiCity/Models/Collision/SM_Bld_Chopshop_Interior_01_Collision.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Security_WatchStation_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Scanner_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Cloud_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Crate_Military_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Beam_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Barrier_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_AirConditioningGrid_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Hologram_Bottle_01.fbx
+  - Assets/VRCSDK/Sample Assets/Prototyping/Models/prototype_block_04x04x04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Roof_Pagoda_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Crate_Military_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_VendingMachine_Soda_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_LightBar_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Sword_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Sidewalk_Panel_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Beam_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Overhang_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Veh_Armored_Truck_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Large_Part_05.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_VRBooth_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Sidewalk_Panel_06.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Tile_Base_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Hologram_Pizza_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Graffiti_Wall_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Corner_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Railing_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Road_Median_02_SF.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Large_Part_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Cylinder_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Props_StripClub_Curtain_01.fbx
+  - Assets/PolygonSciFiCity/Models/SkyDome.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_DeadZub_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_TrashCan_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Medical_Stool_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Tile_09.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Tile_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Knife_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Rifle_Laser_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Crate_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Attachment_Foregrip_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Door_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Wall_05.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Attachment_Silencer_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Bottle_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_StripClub_Pole_01.fbx
+  - Assets/PolygonSciFiCity/Models/FX_Circle.fbx
+  - Assets/VRCSDK/Sample Assets/Prototyping/Models/prototype_join_outer_02x06x02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Wall_03.fbx
+  - Assets/Props/BarProps/Prefabs/TallRoundTable.dae
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Door_04.fbx
+  - Assets/Props/Icons/cherry.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Env_Sidewalk_Corner_Half_01_SF.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Sidewalk_Grate_02_SF.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_MarketCover_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Door_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Attachment_Rack_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Barrier_Plastic_01.fbx
+  - Assets/Props/Icons/pizza.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Sidewalk_Pipe_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_VRHeadset_01.fbx
+  - Assets/Props/01_3D/ETC/3D Bakery Object/FBX/Cake.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Box_Supplies_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Chain_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Veh_Retro_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Props_Bottles_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_SMG_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Jar_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Wall_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Door_06.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Attachment_Handle_01.fbx
+  - Assets/Props/BarProps/Scenes/BarDemoProps/beerneonsign.dae
+  - Assets/PolygonSciFiCity/Models/SM_Veh_Classic_01.fbx
+  - Assets/Props/Icons/acorn.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Tile_Half_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_WallAttach_Vent_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Rubbish_Paper_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Rubbish_Bin_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Background_Lrg_02.fbx
+  - Assets/Props/Icons/garlic.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Env_Road_Bare_Half_01_SF.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Wall_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_WallAttach_Vent_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Meat_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Advertisement_Pillar_01.fbx
+  - Assets/Props/Icons/kiwi.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Prop_table_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Shotgun_Plasma_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Background_Med_07.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Window_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_MachinePistol_Gen1_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Window_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Industrial_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Rubbish_Paper_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Mag_01.fbx
+  - Assets/VRCSDK/Sample Assets/Prototyping/Models/prototype_join_inner_01x06x01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Road_Patch_01_SF.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Attachment_Rack_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Large_Part_08.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Large_Part_06.fbx
+  - Assets/VRCSDK/Sample Assets/Prototyping/Models/prototype_pillar_01x02x01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Robotic_Part_07.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_StripClub_Steps_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Crosshair_Sniper_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_WallAttach_Electronics_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Sidewalk_Barrier_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_TreeDead_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_RubbishPile_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Sidewalk_Panel_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Veh_Armored_Truck_Cannon_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Background_Med_08.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Background_Small_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Sidewalk_Panel_01_SF.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Attachment_Scope_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_MarketLights_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Cables_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Crosshair_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Box_Empty_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Props_StripClub_Stage_02.fbx
+  - Assets/VRCSDK/Sample Assets/Prototyping/Models/prototype_wall_8x8x1.FBX
+  - Assets/Props/Icons/mushroom.FBX
+  - Assets/Sweeper boi.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Cloud_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Veh_Future_Cop_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Large_05.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Tile_Floating_Platform_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Sidewalk_Straight_02_SF.fbx
+  - Assets/Props/BarProps/Prefabs/WoodenSeatBacked.dae
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Attachment_Bipod_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Background_Lrg_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_LightRayCube.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Jar_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Shop_Open_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Bench_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Veh_Armored_Truck_02_Hover.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Background_Small_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Sidewalk_Raised_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_FoodTray_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Medical_Chair_01.fbx
+  - Assets/VRCSDK/Sample Assets/Prototyping/Models/prototype_floor_08x01x08.fbx
+  - Assets/Bakery/examples/content/sponza/bush.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Veh_Armored_Truck_Lights_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Background_Small_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Barrier_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Mag_Round_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Vent_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Grenade_HE_01.fbx
+  - Assets/VRCSDK/Sample Assets/Prototyping/Models/prototype_pillar_02x08x02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Background_Med_09.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Small_Rocks_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Veh_Armored_Truck_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Dumpster_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Monitor_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Large_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Carpet_Mat_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Roof_Pagoda_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Sidewalk_Corner_02_SF.fbx
+  - Assets/Props/hazelwoodloft/Geometry/room_05_city_complete/room_05_pack_square_day.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Hologram_Bottle_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_WallAttach_Vent_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Grass_Patch_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Tile_Supports_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Road_YellowLines_01_SF.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Advanced_Doorway_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Grenade_Ball_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Robotic_Part_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Road_YellowLines_02_SF.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Industrial_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Office_Chair_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Props_Shelves_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Drone_Insect_01.fbx
+  - Assets/Props/01_3D/ETC/3D Bakery Object/FBX/Waffle.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Icon_Ammo.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Shelf_Wall_Preset_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_MarketTable_05.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Syringe_Gun_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Crosshair_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Overhang_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Road_Arrow_01_SF.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Dirt_Mound_Small_01.fbx
+  - Assets/Props/01_3D/ETC/3D Bakery Object/FBX/IceCream.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Prop_WallAttach_Electronics_05.fbx
+  - Assets/VRCSDK/Sample Assets/Prototyping/Models/prototype_platform_8x1x8.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Env_Sidewalk_Straight_03_SF.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Robotic_Part_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Building_Shack_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Robotic_Part_011.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Window_Bolts_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Ammo_Shotgun_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Paper_Lantern_01.fbx
+  - Assets/Props/Icons/lemon.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Tile_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Rifle_Small_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Table_Small_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Attachment_Scope_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_TrashBag_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Graffiti_Wall_05.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_MachinePistol_Gen2_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Railing_01_Pillar.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Attachment_Handle_Scope_03.fbx
+  - Assets/VRCSDK/Sample Assets/Prototyping/Models/prototype_floor_4x1x4.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Attachment_Rack_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Mag_Plasma_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_MarketTable_03.fbx
+  - Assets/Props/Icons/carrot.FBX
+  - Assets/VRCSDK/Sample Assets/Prototyping/Models/prototype_platform_02x01x02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_SatDish_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Rifle_Plasma_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Veh_Garbage_01.fbx
+  - Assets/Props/BarProps/Prefabs/WoodenStoolBacked.dae
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Tile_Half_04.fbx
+  - Assets/PolygonSciFiCity/Models/Collision/SM_Bld_StripClub_01_Collision.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Crosshair_05.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Grass_Patch_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Rifle_Plasma_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Medical_Table_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_MarketCover_05.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Security_Scanner_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Flat_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Pipes_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_StripClub_Chair_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Shelf_Wall_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Railing_02_Pillar.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Window_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_City_Wall_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Bank_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Robotic_Part_06.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_AirConditioningUnit_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Large_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Veh_Garbage_01_Hover.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_MarketTable_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Rubbish_Paper_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Small_Rocks_02.fbx
+  - Assets/Props/Icons/orange.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Attachment_Handle_Scope_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Graffiti_Wall_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Props_StripClub_Stage_01.fbx
+  - Assets/Props/Icons/tomato.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Antenna.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Power_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Hologram_Noodles_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Veh_Hoverboard_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Large_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Sidewalk_Straight_Half_01_SF.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Door_Chopshop_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Supplies_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Hedge_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Hedge_Empty_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Shelf_Wall_Preset_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_VendingMachine_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Door_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Cog_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Rubbish_Paper_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_AirConditioningUnit_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Sidewalk_Raised_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Veh_Retro_01_Hover.fbx
+  - Assets/Props/hazelwoodloft/Geometry/room_05_city.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Wall_Generic_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Cylinder_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Shelf_Preset_01.fbx
+  - Assets/Props/01_3D/ETC/3D Bakery Object/FBX/Milk.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Env_Hedge_01.fbx
+  - Assets/Props/hazelwoodloft/Geometry/room_05_city_complete/room_05_pack_environment_day.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Pistol_01.fbx
+  - Assets/VRCSDK/Sample Assets/Prototyping/Models/prototype_ramp_04x02x02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Sidewalk_Merger_02_SF.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Background_Lrg_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_JarLiquid_01.fbx
+  - Assets/Props/Icons/watermelon.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Prop_MarketCover_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Meat_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Mag_Plasma_02.fbx
+  - Assets/Props/hazelwoodloft/Geometry/room_05_city_complete/room_05_pack_lineup_day.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Shelf_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Attachment_Silencer_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Plant_Vase_02.fbx
+  - Assets/Props/Icons/Hambuger.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Icon_Gun.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Graffiti_Wall_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Cloud_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Tile_Base_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Paper_Lantern_02.fbx
+  - Assets/Props/Icons/yogurt.FBX
+  - Assets/Props/BarProps/Prefabs/RoundTable.dae
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Attachment_Redot_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Tile_Half_02.fbx
+  - Assets/Props/Icons/banana.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Raised_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Graffiti_Ground_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Large_Part_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Sniper_01.fbx
+  - Assets/Props/Icons/waffle.FBX
+  - Assets/PolygonSciFiCity/Models/Flame_Mesh.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_MarketTable_01.fbx
+  - Assets/Props/Icons/yam.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Env_Tree_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Revolver_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Jar_Hanging_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Jar_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_DeadZub_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Industrial_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Crate_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Greeble_Cube_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_DeadZub_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Sniper_Scope_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Streetlight_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Raised_01.fbx
+  - Assets/Props/01_3D/ETC/3D Bakery Object/FBX/Hambuger.FBX
+  - Assets/VRCSDK/Sample Assets/Prototyping/Models/prototype_floor_64x01x64.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Sniper_Plasma_02.fbx
+  - Assets/Props/BarProps/Prefabs/OldSchoolBarstoolBacked.dae
+  - Assets/PolygonSciFiCity/Models/SM_Prop_ChargingStation_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Attachment_Redot_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Tile_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Barrier_Pole_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Security_Camera_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Corner_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_FoodTray_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Floor_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Food_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_TrashBag_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Wall_Prop_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Attachment_Ironsight_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Pipes_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Posters_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Background_Med_06.fbx
+  - Assets/Props/Icons/cake.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Attachment_Laser_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Attachment_Handle_Scope_02.fbx
+  - Assets/Props/Icons/grape.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Env_Sidewalk_03_SF.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Warehouse_01.fbx
+  - Assets/Props/BarProps/Prefabs/OldSchoolBarstoolNoBack.dae
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Industrial_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Monitor_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Background_Med_05.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Veh_Armored_Truck_01_Hover.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_MarketCover_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Tile_Base_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_SatDish_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Atm_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Road_Arrow_02_SF.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Robotic_Part_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ocean_Tile_Bumps_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_SciFi_Pad_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Medical_Machine_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Crosshair_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Dirt_Mound_Small_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Crosshair_04.fbx
+  - Assets/PolygonSciFiCity/Models/FixedScaleCharacters/Characters.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_WallAttach_Vent_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Crate_Large_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Robotic_Part_010.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Security_Camera_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Living_Dome_Skybox_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Cage_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Crate_Military_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Large_Part_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Robotic_Part_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_FoodHole_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Power_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Vent_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Tile_Tube_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Icon_Spanners.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Road_Lines_01_SF.fbx
+  - Assets/PolygonSciFiCity/Models/Collision/SM_Bld_Chopshop_01_Collision.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Box_RobotParts_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Tree_01.fbx
+  - Assets/VRCSDK/Sample Assets/Prototyping/Models/prototype_platform_04x01x04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Barrier_Plastic_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Large_06.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Posters_03.fbx
+  - Assets/Props/Icons/onion.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Prop_MarketCover_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Window_Shutter_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Powerpoll_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Cable_Crossing_Pillar_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Background_Med_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Background_Med_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_ControlPanel_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Barrier_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Disc_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Veh_Hoverboard_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Window_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Veh_Classic_01_Hover.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Attachment_Foregrip_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Ammo_Battery_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Cable_Crossing_Rail_01.fbx
+  - Assets/Props/Icons/icecream.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Beams_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_SatDish_Base_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Drone_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_StripClub_Sofa_01.fbx
+  - Assets/Props/Icons/apple.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Background_Med_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Hologram_Bottle_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Advanced_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_SatDish_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_StripClub_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Bank_Door_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Rifle_Plasma_01.fbx
+  - Assets/Props/hazelwoodloft/Geometry/room_05_city_complete/room_05_pack_square_night.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_RubbishPile_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_DrumMag_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Hologram_Burger_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_FoodTray_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Barrier_line_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Pad_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Glass_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Glass_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Veh_Hover_Bike_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Tile_Half_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Security_Monitor_01.fbx
+  - Assets/Props/hazelwoodloft/Geometry/curtians_abc.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Hedge_Empty_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Sidewalk_01_SF.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Pillar_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_WallAttach_Electronics_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Drone_Quad_01.fbx
+  - Assets/PolygonSciFiCity/Models/FX_Plane_Simple.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Tile_Base_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Tile_06.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Power_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Sidewalk_Merger_Half_01_SF.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Shelf_Wall_Preset_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Crate_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Veh_Future_Taxi_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Meat_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_WallAttach_Electronics_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Sidewalk_Panel_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Pillar_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Graffiti_Ground_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Sidewalk_Panel_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Large_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Wall_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Large_Part_07.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Ammo_Pistol_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Graffiti_Ground_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Corner_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Cage_03.fbx
+  - Assets/Props/hazelwoodloft/Geometry/room_05_city_complete/room_05_pack_environment_night.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Graffiti_Ground_02.fbx
+  - Assets/VRCSDK/Sample Assets/Prototyping/Models/prototype_house_16x16x24.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Cog_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Sidewalk_Corner_Half_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Chain_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_City_Wall_Tower_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Graffiti_Ground_05.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Posters_02.fbx
+  - Assets/Props/Icons/pea.FBX
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Sidewalk_Rubble_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Window_04.fbx
+  - Assets/PolygonSciFiCity/Models/SphereGeo.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Pipes_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Hedge_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Bridge_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Building_Shack_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Detail_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Ammo_Rifle_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Background_Med_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_DeadZub_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Hedge_Empty_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Sidewalk_Corner_01_SF.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Robotic_Part_09.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Crate_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Monitor_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_WallAttach_Electronics_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Road_Crossing_02_SF.fbx
+  - Assets/VRCSDK/Sample Assets/Prototyping/Models/prototype_cube_04x04x04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Window_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Powerpoll_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Bottle_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Sidewalk_Pipe_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Attachment_Ironsight_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Tile_08.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Cloud_05.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Tile_Half_05.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Robotic_Part_05.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Chopshop_Interior_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Cage_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Tile_04.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Door_05.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Road_Median_01_SF.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Graffiti_Wall_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Shiv_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Cloud_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Background_Small_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Grid_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Wep_Attachment_Redot_03.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_WallAttach_Electronics_06.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_Tile_07.fbx
+  - Assets/VRCSDK/Sample Assets/Prototyping/Models/prototype_cube_02x02x02.fbx
+  - Assets/PolygonSciFiCity/Models/Collision/SM_Bld_Bank_01_Collision.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Env_Ground_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_DeadZub_05.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Barrier_Plastic_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Section_Door_02.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Cable_Crossing_Machine_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Bld_Underpass_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Books_01.fbx
+  - Assets/PolygonSciFiCity/Models/SM_Prop_WoodenPath_01.fbx
+  uvOverlapAssetList: 01010000010100000101000001010000000000000101000001010000010100000101000001010000010100000000000000000000000000000000000001010000010100000101000001010000000000000101000000000000000000000101000001010000010100000101000000000000010100000000000001010000000000000101000001010000000000000000000001010000010100000101000001010000ffffffff00000000ffffffff00000000ffffffffffffffffffffffffffffffffffffffff00000000ffffffffffffffffffffffffffffffffffffffff01010000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000ffffffffffffffffffffffffffffffffffffffff01010000010100000101000001010000010100000101000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000101000001010000010100000101000001010000000000000101000001010000000000000000000000000000010100000101000000000000010100000000000000000000000000000101000001010000010100000101000000000000010100000101000000000000000000000000000000000000010100000101000001010000010100000101000001010000010100000101000001010000000000000101000001010000000000000000000001010000010100000000000001010000010100000000000000000000010100000000000000000000000000000000000000000000000000000101000001010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001010000000000000000000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000010100000000000000000000000000000000000001010000000000000000000000000000000000000000000000000000010100000101000000000000010100000000000000000000000000000000000000000000010100000101000000000000000000000101000001010000000000000101000001010000010100000000000000000000000000000000000000000000000000000000000001010000000000000101000001010000010100000000000000000000000000000000000000000000000000000000000000000000010100000101000000000000000000000000000000000000000000000101000000000000000000000000000000000000010100000000000000000000000000000000000000000000000000000000000001010000000000000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010100000000000000000000000000000101000000000000000000000101000000000000000000000101000000000000000000000000000000000000000000000000000000000000000000000000000001010000000000000000000000000000000000000000000000000000010100000000000000000000000000000000000000000000010100000000000000000000000000000101000001010000000000000101000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001010000010100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010100000101000000000000000000000000000000000000010100000000000000000000010100000000000000000000010100000101000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000101000000000000000000000101000000000000000000000101000000000000000000000101000000000000000000000000000000000000000000000101000000000000000000000101000000000000000000000000000000000000010100000000000001010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010100000101000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010100000000000000000000000000000101000000000000000000000101000000000000000000000000000001010000000000000000000000000000000000000000000000000000000000000101000000000000010100000000000001010000000000000101000000000000000000000000000001010000000000000000000000000000010100000000000000000000000000000000000000000000000000000000000000000000000000000000000001010000000000000101000000000000000000000101000000000000000000000101000000000000000000000101000000000000000000000000000000000000000000000000000001010000000000000000000000000000000000000000000001010000000000000000000000000000010100000000000000000000000000000000000001010000000000000000000000000000000000000000000000000000000000000000000000000000010100000101000000000000010100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000010100000101000001010000000000000000000001010000000000000101000000000000000000000000000001010000000000000000000000000000000000000000000000000000010100000000000001010000010100000000000000000000000000000000000000000000000000000101000000000000000000000101000000000000000000000101000000000000000000000000000000000000000000000000000001010000010100000000000000000000000000000000000000000000000000000000000001010000000000000000000001010000010100000000000000000000000000000101000001010000000000000000000000000000000000000101000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000000000001010000000000000000000000000000000000000000000001010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000101000000000000010100000000000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000000000000000000001010000000000000101000000000000000000000000000000000000000000000000000000000000010100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000101000001010000000000000000000000000000000000000000000000000000010100000000000000000000000000000000000000000000010100000000000000000000000000000000000001010000000000000000000000000000
+  xatlasWarningShown: 1
   foundCompatibleSetup: 1
   gpuName: NVIDIA GeForce GTX 1070
   runsNonRTX: 1
@@ -342,5 +1480,5 @@ MonoBehaviour:
   renderSettingsRTPVSceneView: 0
   renderSettingsRTPVWidth: 640
   renderSettingsRTPVHeight: 360
-  modifiedMeshPaddingArray: 14000000
-  modifiedMeshUnwrapperArray: 00000000
+  modifiedMeshPaddingArray: 15000000
+  modifiedMeshUnwrapperArray: 01000000

@@ -1,0 +1,1580 @@
+fileFormatVersion: 2
+guid: 2725d8a20d51c1143a5b68c31d33cfcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 697939969840886551
+    second: canistersprites_0
+  - first:
+      213: -8953713142567679269
+    second: canistersprites_1
+  - first:
+      213: -2974806437533743534
+    second: canistersprites_2
+  - first:
+      213: -7692311201549019264
+    second: canistersprites_3
+  - first:
+      213: 4865421075275592355
+    second: canistersprites_4
+  - first:
+      213: -5454435710351253948
+    second: canistersprites_5
+  - first:
+      213: -1756562253009792821
+    second: canistersprites_6
+  - first:
+      213: 161779621227186206
+    second: canistersprites_7
+  - first:
+      213: -8148300719171856123
+    second: canistersprites_8
+  - first:
+      213: -1005919942268007320
+    second: canistersprites_9
+  - first:
+      213: 777418442446497736
+    second: canistersprites_10
+  - first:
+      213: 7392334346605557552
+    second: canistersprites_11
+  - first:
+      213: -5332094285154092937
+    second: canistersprites_12
+  - first:
+      213: 1959477099065025203
+    second: canistersprites_13
+  - first:
+      213: 2245446608793305846
+    second: canistersprites_14
+  - first:
+      213: 380346294484050212
+    second: canistersprites_15
+  - first:
+      213: 4181902380460874651
+    second: canistersprites_16
+  - first:
+      213: -6160150861136452580
+    second: canistersprites_17
+  - first:
+      213: -9190658174791919517
+    second: canistersprites_18
+  - first:
+      213: -1822868365714425257
+    second: canistersprites_19
+  - first:
+      213: -843031943287031883
+    second: canistersprites_20
+  - first:
+      213: -2218625769276729829
+    second: canistersprites_21
+  - first:
+      213: -4756801440005164517
+    second: canistersprites_22
+  - first:
+      213: 8585501534223829269
+    second: canistersprites_23
+  - first:
+      213: 1963173544472658384
+    second: canistersprites_24
+  - first:
+      213: -5224557447777270571
+    second: canistersprites_25
+  - first:
+      213: 2158748962506299453
+    second: canistersprites_26
+  - first:
+      213: -5689229998987091172
+    second: canistersprites_27
+  - first:
+      213: -1169747524336138503
+    second: canistersprites_28
+  - first:
+      213: 6219427734088793824
+    second: canistersprites_29
+  - first:
+      213: -4079392700436421683
+    second: canistersprites_30
+  - first:
+      213: 8738913655157112599
+    second: canistersprites_31
+  - first:
+      213: -2106452889164653682
+    second: canistersprites_32
+  - first:
+      213: -3061947048908070976
+    second: canistersprites_33
+  - first:
+      213: -1681946421155860458
+    second: canistersprites_34
+  - first:
+      213: 5337839948952015787
+    second: canistersprites_35
+  - first:
+      213: 9135923956029503858
+    second: canistersprites_36
+  - first:
+      213: -4068213444143980473
+    second: canistersprites_37
+  - first:
+      213: -879095983712773033
+    second: canistersprites_38
+  - first:
+      213: -2774032746663063080
+    second: canistersprites_39
+  - first:
+      213: 1033203490714753119
+    second: canistersprites_40
+  - first:
+      213: 389765200221701153
+    second: canistersprites_41
+  - first:
+      213: 636408853669428890
+    second: canistersprites_42
+  - first:
+      213: 7289537248324465894
+    second: canistersprites_43
+  - first:
+      213: 5502271965164224537
+    second: canistersprites_44
+  - first:
+      213: 5164849846378644282
+    second: canistersprites_45
+  - first:
+      213: -6772587479423016232
+    second: canistersprites_46
+  - first:
+      213: -7347651085252010019
+    second: canistersprites_47
+  - first:
+      213: 5643725307990832696
+    second: canistersprites_48
+  - first:
+      213: 6948483098380760122
+    second: canistersprites_49
+  - first:
+      213: -6737575499368848806
+    second: canistersprites_50
+  - first:
+      213: 8508124921995797532
+    second: canistersprites_51
+  - first:
+      213: -2768309257419300419
+    second: canistersprites_52
+  - first:
+      213: 1105272752189944007
+    second: canistersprites_53
+  - first:
+      213: 8704976243723135201
+    second: canistersprites_54
+  - first:
+      213: 8263171566926048731
+    second: canistersprites_55
+  - first:
+      213: -3527757015359556669
+    second: canistersprites_56
+  - first:
+      213: 8143164813026484352
+    second: canistersprites_57
+  - first:
+      213: -8359189736376777721
+    second: canistersprites_58
+  - first:
+      213: 7404726410826055171
+    second: canistersprites_59
+  - first:
+      213: 8312704811918080903
+    second: canistersprites_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: canistersprites_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 13
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713b9e864b49fa900800000000000000
+      internalID: 697939969840886551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 13
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdac18ce5550eb380800000000000000
+      internalID: -8953713142567679269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 13
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25681476e4d57b6d0800000000000000
+      internalID: -2974806437533743534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 13
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08799e1c7bb6f3590800000000000000
+      internalID: -7692311201549019264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_4
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 13
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2308a90b2758340800000000000000
+      internalID: 4865421075275592355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_5
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 13
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ede4ace93fd44b0800000000000000
+      internalID: -5454435710351253948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_6
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 13
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0dd7300ff6f97e0800000000000000
+      internalID: -1756562253009792821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_7
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 13
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18c42755b1ce3200800000000000000
+      internalID: 161779621227186206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_8
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 13
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50993bedaab6bee80800000000000000
+      internalID: -8148300719171856123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_9
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 13
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c42a064214a02f0800000000000000
+      internalID: -1005919942268007320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_10
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 13
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c76cd754f1f9ca00800000000000000
+      internalID: 777418442446497736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_11
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 13
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037f7560ce8d69660800000000000000
+      internalID: 7392334346605557552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_12
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 13
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778ff709f789006b0800000000000000
+      internalID: -5332094285154092937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_13
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 13
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2a8433a06713b10800000000000000
+      internalID: 1959477099065025203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_14
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 13
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f20b373bcd692f10800000000000000
+      internalID: 2245446608793305846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_15
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 13
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421ab5e80f2474500800000000000000
+      internalID: 380346294484050212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_16
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 13
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b1bb0fe0a190a30800000000000000
+      internalID: 4181902380460874651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_17
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 13
+        width: 96
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14252ffd6fb28aa0800000000000000
+      internalID: -6160150861136452580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_18
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 13
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368dc7f8519347080800000000000000
+      internalID: -9190658174791919517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_19
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 13
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a7b4d11eed3b6e0800000000000000
+      internalID: -1822868365714425257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_20
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 13
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7b1160ae2fc44f0800000000000000
+      internalID: -843031943287031883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_21
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 13
+        width: 93
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b169bbc1e9bd531e0800000000000000
+      internalID: -2218625769276729829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_22
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 13
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12fc6dfa427cfdb0800000000000000
+      internalID: -4756801440005164517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_23
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 13
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5198bfd4824d52770800000000000000
+      internalID: 8585501534223829269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_24
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 13
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1ccb6ffe79e3b10800000000000000
+      internalID: 1963173544472658384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_25
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 13
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d44d90aea4ae77b0800000000000000
+      internalID: -5224557447777270571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_26
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 13
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d385e6d6eba65fd10800000000000000
+      internalID: 2158748962506299453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_27
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 13
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13e0e0757bcb01b0800000000000000
+      internalID: -5689229998987091172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_28
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 13
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f64d0ff2d834cfe0800000000000000
+      internalID: -1169747524336138503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_29
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 13
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee339c7298df4650800000000000000
+      internalID: 6219427734088793824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_30
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 13
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc36a27d3f51367c0800000000000000
+      internalID: -4079392700436421683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_31
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 13
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f337a2babd64970800000000000000
+      internalID: 8738913655157112599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_32
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 13
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bde3df14064c2e0800000000000000
+      internalID: -2106452889164653682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_33
+      rect:
+        serializedVersion: 2
+        x: 3314
+        y: 13
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf57c4c167c185d0800000000000000
+      internalID: -3061947048908070976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_34
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 13
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610f3cb24a688a8e0800000000000000
+      internalID: -1681946421155860458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_35
+      rect:
+        serializedVersion: 2
+        x: 3519
+        y: 13
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba39c290721d31a40800000000000000
+      internalID: 5337839948952015787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_36
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 13
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279be1e0f6259ce70800000000000000
+      internalID: 9135923956029503858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_37
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 13
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74064574d6dca87c0800000000000000
+      internalID: -4068213444143980473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_38
+      rect:
+        serializedVersion: 2
+        x: 3826
+        y: 13
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cd3574cd2dcc3f0800000000000000
+      internalID: -879095983712773033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_39
+      rect:
+        serializedVersion: 2
+        x: 3921
+        y: 13
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1d8d31ae7a089d0800000000000000
+      internalID: -2774032746663063080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_40
+      rect:
+        serializedVersion: 2
+        x: 4017
+        y: 13
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f581fb4c91da65e00800000000000000
+      internalID: 1033203490714753119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_41
+      rect:
+        serializedVersion: 2
+        x: 4115
+        y: 13
+        width: 68
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12406017269b86500800000000000000
+      internalID: 389765200221701153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_42
+      rect:
+        serializedVersion: 2
+        x: 4213
+        y: 13
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e31e60b7af4d800800000000000000
+      internalID: 636408853669428890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_43
+      rect:
+        serializedVersion: 2
+        x: 4311
+        y: 13
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4bb577183a92560800000000000000
+      internalID: 7289537248324465894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_44
+      rect:
+        serializedVersion: 2
+        x: 4407
+        y: 13
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9104435333ffb5c40800000000000000
+      internalID: 5502271965164224537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_45
+      rect:
+        serializedVersion: 2
+        x: 4508
+        y: 13
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3341ab129b3da740800000000000000
+      internalID: 5164849846378644282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_46
+      rect:
+        serializedVersion: 2
+        x: 4606
+        y: 13
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2abb6f19fe202a0800000000000000
+      internalID: -6772587479423016232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_47
+      rect:
+        serializedVersion: 2
+        x: 4708
+        y: 13
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf5a0a7446e70a90800000000000000
+      internalID: -7347651085252010019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_48
+      rect:
+        serializedVersion: 2
+        x: 4806
+        y: 13
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836fca0144a825e40800000000000000
+      internalID: 5643725307990832696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_49
+      rect:
+        serializedVersion: 2
+        x: 4907
+        y: 13
+        width: 94
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a347ac63098fd6060800000000000000
+      internalID: 6948483098380760122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_50
+      rect:
+        serializedVersion: 2
+        x: 5008
+        y: 13
+        width: 93
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52aeb0d7c25f72a0800000000000000
+      internalID: -6737575499368848806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_51
+      rect:
+        serializedVersion: 2
+        x: 5107
+        y: 13
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c142530e98ee21670800000000000000
+      internalID: 8508124921995797532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_52
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 13
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1e813c56df499d0800000000000000
+      internalID: -2768309257419300419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_53
+      rect:
+        serializedVersion: 2
+        x: 5309
+        y: 13
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0333e46b7b65f00800000000000000
+      internalID: 1105272752189944007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_54
+      rect:
+        serializedVersion: 2
+        x: 5408
+        y: 13
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8e451d5c94ec870800000000000000
+      internalID: 8704976243723135201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_55
+      rect:
+        serializedVersion: 2
+        x: 5506
+        y: 13
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd2cbc82ceaca270800000000000000
+      internalID: 8263171566926048731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_56
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 13
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3f9957fa3ea0fc0800000000000000
+      internalID: -3527757015359556669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_57
+      rect:
+        serializedVersion: 2
+        x: 5705
+        y: 13
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08067ebc045520170800000000000000
+      internalID: 8143164813026484352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_58
+      rect:
+        serializedVersion: 2
+        x: 5807
+        y: 13
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704cb2149313efb80800000000000000
+      internalID: -8359189736376777721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_59
+      rect:
+        serializedVersion: 2
+        x: 5906
+        y: 13
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e7d30507fd2c660800000000000000
+      internalID: 7404726410826055171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canistersprites_60
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 13
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bbe0ddbf8ac5370800000000000000
+      internalID: 8312704811918080903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 865f4f69cf7bec8408c72f48df539168
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

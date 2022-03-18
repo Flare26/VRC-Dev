@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 6a818b12f68bef24daf124b3386aa5d6
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Needle
+  - first:
+      1: 100002
+    second: Record Holder
+  - first:
+      1: 100004
+    second: Tempo
+  - first:
+      1: 100006
+    second: //RootNode
+  - first:
+      4: 400000
+    second: Needle
+  - first:
+      4: 400002
+    second: Record Holder
+  - first:
+      4: 400004
+    second: Tempo
+  - first:
+      4: 400006
+    second: //RootNode
+  - first:
+      21: 2100000
+    second: Turn Table 1
+  - first:
+      21: 2100002
+    second: Turn Table 2
+  - first:
+      21: 2100004
+    second: Turn Table 3
+  - first:
+      21: 2100006
+    second: Turn Table 4
+  - first:
+      21: 2100008
+    second: Turn Table 5
+  - first:
+      21: 2100010
+    second: Turn Table 6
+  - first:
+      21: 2100012
+    second: Turn Table 9
+  - first:
+      21: 2100014
+    second: Turn Table 7
+  - first:
+      21: 2100016
+    second: Turn Table 8
+  - first:
+      23: 2300000
+    second: Needle
+  - first:
+      23: 2300002
+    second: Record Holder
+  - first:
+      23: 2300004
+    second: Tempo
+  - first:
+      23: 2300006
+    second: //RootNode
+  - first:
+      33: 3300000
+    second: Needle
+  - first:
+      33: 3300002
+    second: Record Holder
+  - first:
+      33: 3300004
+    second: Tempo
+  - first:
+      33: 3300006
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: Turn Table
+  - first:
+      43: 4300002
+    second: Needle
+  - first:
+      43: 4300004
+    second: Record Holder
+  - first:
+      43: 4300006
+    second: Tempo
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turn Table 1
+    second: {fileID: 2100000, guid: b2c48f8419ee56d4794694ae1c37f499, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turn Table 2
+    second: {fileID: 2100000, guid: 168348cf5f6942f4185ba0f46fee89e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turn Table 3
+    second: {fileID: 2100000, guid: 4c1cc6700930abf46b003c4d2d5d13e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turn Table 4
+    second: {fileID: 2100000, guid: dc01dc164e9aabd409fbc00a7be0dce3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turn Table 5
+    second: {fileID: 2100000, guid: 6530ea6961d9b3946a03849a873d40b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turn Table 6
+    second: {fileID: 2100000, guid: 753380a85928f914dae600220cd0ef15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turn Table 7
+    second: {fileID: 2100000, guid: 407db2250c923af4cafa2cc01df0846a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turn Table 8
+    second: {fileID: 2100000, guid: d0f5de317d1429b468ceaceb2fd077e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turn Table 9
+    second: {fileID: 2100000, guid: 5c8758f7527518f4fa9c75df6621e70a, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["Needle","Record Holder","Tempo","Turn Table"],"padding":[125,51,256,27],"unwrapper":[1,1,1,1]}'
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 1
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
