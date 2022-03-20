@@ -900,15 +900,15 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties:
-    - '#BAKERY{"meshName":["Mono/Stereo","Mic On/Off","Mic Low","Mic Level 2","Mic
-      Level 1","Mic High","Master Level Dial","Heaphones Dial 1","Headphones Dial
-      2","EQ Curve","Effects List Dial","Crossfade","Cross Fader","Channel Fader","Channel
-      Dial","Booth Monitor Dial","Balance Dial","4C Volume","4C Trim","4C Thru","4C
-      Mid","4C Low","4C Line Switch","4C High","4C Effect","3C Volume","3C Trim","3C
-      Thru","3C Mid","3C Low","3C Line Switch","3C High","3C Effect","2C Volume","2C
-      Trim","2C Thru","2C Mid","2C Low","2C Line Switch","2C High","2C Effect","1C
-      Volume","1C Trim","1C Thru","1C Mid","1C Low","1C Line Switch","1C High","1C
-      Effect","Mixer"],"padding":[256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,15],"unwrapper":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]}'
+    - '#BAKERY{"meshName":["Booth Monitor Dial","1C Mid","3C Line Switch","Balance
+      Dial","Headphones Dial 2","Crossfade","Channel Fader","4C Volume","4C Mid","3C
+      Trim","1C High","Cross Fader","2C Volume","Mic Level 1","1C Low","Mono/Stereo","2C
+      Thru","Master Level Dial","4C Low","2C Mid","2C High","1C Effect","3C Thru","2C
+      Effect","4C Line Switch","3C Volume","Mic On/Off","4C Thru","1C Thru","Heaphones
+      Dial 1","Channel Dial","2C Line Switch","4C Trim","4C Effect","2C Low","2C
+      Trim","1C Line Switch","Mic Low","1C Trim","4C High","EQ Curve","3C Mid","3C
+      High","Effects List Dial","3C Effect","3C Low","Mic Level 2","1C Volume","Mic
+      High","Mixer"],"padding":[256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,256,21],"unwrapper":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]}'
     clipAnimations: []
     isReadable: 0
   meshes:

@@ -130,7 +130,8 @@ MonoBehaviour:
   - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_01.fbx
   - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_07.fbx
   - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_26.fbx
-  modifiedAssetPaddingHash: d2f23a06ec274e97ec274e97fe2f60f4964b20d4fd7d93630acb84e72bf43a06bd46cafd4a812e23bb4c904897c6d890e4c54eb7b7f23a06f839803308dc894beddb894bb4c2a6931b3a8033ecc12491ecc12491ecc12491ecc1249108dc894becc12491ecc12491ecc12491d93980331528c115d05634b7567e93639c09ecc0c25031eef8398033c25031eed7c2a693f8398033363fd3d98c67e2a85f083ca83ec5d8903f3fd3d98c67e2a88c67e2a8da7d9363d2f23a06e55031eede09ecc0f166e2a8d2f23a065dc5d8902ed5fb9d363fd3d9797e9363b7f23a061b3a8033f83980338c67e2a8c25031ee8c67e2a8f83980337ac2a6939b513356d5047cb9a6682c089f39803327dc894b343fd3d980c5d8901b3a8033343fd3d97c332301ecc12491ffb209ce383fd3d9353fd3d9d7c2a693323fd3d9797e93633f3fd3d95267e2a8ecc12491cfc12491ecc12491343fd3d9df4dfff0ecc12491d1318883343fd3d9323fd3d93c4efff0343fd3d9343fd3d9343fd3d9333fd3d9343fd3d9317791f68c67e2a8eddb894b08dc894bd7c2a6939f3980338c67e2a8b7f23a061b3a80338c67e2a8be1531313c4efff0323fd3d98c67e2a88c67e2a85dc5d890343fd3d98c67e2a81b3a80338c67e2a88109ecc0
+  - Assets/9t5 Low Poly Night Club/FBXs/Mixer.fbx
+  modifiedAssetPaddingHash: d2f23a06ec274e97ec274e97fe2f60f4964b20d4fd7d93630acb84e72bf43a06bd46cafd4a812e23bb4c904897c6d890e4c54eb7b7f23a06f839803308dc894beddb894bb4c2a6931b3a8033ecc12491ecc12491ecc12491ecc1249108dc894becc12491ecc12491ecc12491d93980331528c115d05634b7567e93639c09ecc0c25031eef8398033c25031ee80c5d890d7c2a693363fd3d94adc894bfab8c42c27dc894b353fd3d94adc894be55031ee7ac2a693567e9363797e9363797e9363cedb894b567e93633c4efff0c2a17193363fd3d914f33a066d67e2a8de09ecc0f1f23a064adc894b8c67e2a84adc894bd7c2a693fa4dfff0b92c722e2f3e049b4cc2c0df1c7e9363f1f23a06323fd3d9af67e2a8af67e2a8353fd3d986564b57ecc12491b15634b7393fd3d9333fd3d91b3a8033333fd3d914f33a06353fd3d99c09ecc0ecc12491ba4608c8ecc12491323fd3d9a35031eeecc124910da3ddde353fd3d9333fd3d980c5d890353fd3d9323fd3d9353fd3d9383fd3d9323fd3d9dcbff8d64adc894b08dc894b194efff080c5d8901c7e93634adc894b6d67e2a8de09ecc04adc894bd8bd9fff80c5d890333fd3d94adc894b4adc894bd7c2a693323fd3d94adc894bde09ecc04adc894b9c09ecc04210007d
   modifiedMeshList: []
   modifiedMeshPaddingList: 
   modifiedAssets:
@@ -304,11 +305,11 @@ MonoBehaviour:
     unwrapper: 00000000
   - meshName:
     - SM_Prop_Plant_Vase_01
-    padding: 13000000
+    padding: 0e000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Neon_08
-    padding: 19000000
+    padding: 13000000
     unwrapper: 01000000
   - meshName:
     - SM_Bld_StripClub_Interior_03
@@ -316,56 +317,56 @@ MonoBehaviour:
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_20
-    padding: 15000000
+    padding: 10000000
     unwrapper: 01000000
   - meshName:
     - SM_Prop_Watercooler_01
     - SM_Prop_Watercooler_01_Glass
-    padding: 0d00000017000000
+    padding: 0a00000012000000
     unwrapper: 0100000001000000
   - meshName:
     - SM_Sign_Neon_Flat_01
-    padding: 22000000
+    padding: 1a000000
     unwrapper: 01000000
   - meshName:
     - SM_Prop_Wall_Table_01
-    padding: 08000000
+    padding: 06000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_03
-    padding: 15000000
+    padding: 10000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_16
-    padding: 15000000
-    unwrapper: 01000000
-  - meshName:
-    - SM_Sign_Neon_Flat_05
-    padding: 3f000000
-    unwrapper: 01000000
-  - meshName:
-    - SM_Sign_Ad_21
-    padding: 1e000000
-    unwrapper: 01000000
-  - meshName:
-    - SM_Prop_BarChair_01
     padding: 11000000
     unwrapper: 01000000
   - meshName:
+    - SM_Sign_Neon_Flat_05
+    padding: 31000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Ad_21
+    padding: 17000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Prop_BarChair_01
+    padding: 0d000000
+    unwrapper: 01000000
+  - meshName:
     - SM_Props_StripClub_Table_01
-    padding: 0c000000
+    padding: 0d000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Neon_Flat_03
-    padding: 47000000
+    padding: 38000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_22
-    padding: 1e000000
+    padding: 17000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_06
-    padding: 18000000
+    padding: 12000000
     unwrapper: 01000000
   - meshName:
     - SM_HologramPods_01
@@ -376,7 +377,7 @@ MonoBehaviour:
     - SM_Glass
     - SM_Prop_Door_03
     - SM_Prop_Door_05
-    padding: 04000000090000000900000009000000010000000b0000000900000009000000
+    padding: 0300000007000000070000000700000001000000090000000700000007000000
     unwrapper: 0100000001000000010000000100000001000000010000000100000001000000
   - meshName:
     - SM_Bld_StripClub_Interior_02
@@ -384,45 +385,45 @@ MonoBehaviour:
     unwrapper: 01000000
   - meshName:
     - Basic Wall
-    padding: 0d000000
+    padding: 0a000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_30
-    padding: 28000000
+    padding: 1f000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_03
-    padding: 0f000000
+    padding: 0c000000
     unwrapper: 01000000
   - meshName:
     - SM_Prop_Flags_01
-    padding: 19000000
+    padding: 14000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_09
-    padding: 15000000
+    padding: 10000000
     unwrapper: 01000000
   - meshName:
     - SM_Prop_Stool_01
-    padding: 1b000000
-    unwrapper: 01000000
-  - meshName:
-    - SM_Sign_Ad_11
     padding: 15000000
     unwrapper: 01000000
   - meshName:
+    - SM_Sign_Ad_11
+    padding: 10000000
+    unwrapper: 01000000
+  - meshName:
     - SM_Sign_Neon_02
-    padding: 19000000
+    padding: 13000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Neon_Flat_04
-    padding: 31000000
+    padding: 26000000
     unwrapper: 01000000
   - meshName:
     - Stage Light
     - Swivel
     - Holder
-    padding: 270000004100000062000000
+    padding: 1e000000320000004d000000
     unwrapper: 010000000100000001000000
   - meshName:
     - Track Select Dial
@@ -430,44 +431,44 @@ MonoBehaviour:
     - Turn Table
     - Track Fade Dial
     - CDJ
-    padding: 000100000001000044000000000100001b000000
+    padding: 0001000000010000350000000001000015000000
     unwrapper: 0100000001000000010000000100000001000000
   - meshName:
     - Needle
     - Record Holder
     - Tempo
     - Turn Table
-    padding: 7d00000033000000000100001b000000
+    padding: 61000000270000000001000015000000
     unwrapper: 01000000010000000100000001000000
   - meshName:
     - Record
-    padding: 37000000
+    padding: 2b000000
     unwrapper: 01000000
   - meshName:
     - Nightclub Light 1
-    padding: 1a000000
+    padding: 14000000
     unwrapper: 01000000
   - meshName:
     - Pillar 1
-    padding: 07000000
+    padding: 05000000
     unwrapper: 01000000
   - meshName:
     - Basic Floor Cube
-    padding: 0e000000
+    padding: 0b000000
     unwrapper: 01000000
   - meshName:
     - Staircase Straight
-    padding: 0f000000
+    padding: 0b000000
     unwrapper: 01000000
   - meshName:
     - Stage Block
-    padding: 07000000
+    padding: 06000000
     unwrapper: 01000000
   - meshName:
     - Mesh4
     - Mesh2
     - Mesh1
-    padding: 03000000160000009c000000
+    padding: 02000000110000007e000000
     unwrapper: 010000000100000001000000
   - meshName:
     - Cube.003
@@ -475,35 +476,35 @@ MonoBehaviour:
     unwrapper: 01000000
   - meshName:
     - Cube.001
-    padding: a7000000
+    padding: 82000000
     unwrapper: 01000000
   - meshName:
     - Nightclub Background LED
-    padding: 03000000
+    padding: 02000000
     unwrapper: 01000000
   - meshName:
     - DJ Booth
-    padding: 06000000
+    padding: 04000000
     unwrapper: 01000000
   - meshName:
     - Light Bar
-    padding: 13000000
+    padding: 0f000000
     unwrapper: 01000000
   - meshName:
     - Ceiling
-    padding: 05000000
+    padding: 04000000
     unwrapper: 01000000
   - meshName:
     - Speaker
-    padding: 0d000000
+    padding: 0a000000
     unwrapper: 01000000
   - meshName:
     - DJ Booth LED Display
-    padding: 08000000
+    padding: 06000000
     unwrapper: 01000000
   - meshName:
     - Cube.010
-    padding: 29000000
+    padding: 20000000
     unwrapper: 01000000
   - meshName:
     - Cube.004
@@ -511,7 +512,7 @@ MonoBehaviour:
     unwrapper: 01000000
   - meshName:
     - Cube.007
-    padding: 96000000
+    padding: 75000000
     unwrapper: 01000000
   - meshName:
     - Cube.003
@@ -519,11 +520,11 @@ MonoBehaviour:
     unwrapper: 01000000
   - meshName:
     - Cube.011
-    padding: 07000000
+    padding: 05000000
     unwrapper: 01000000
   - meshName:
     - Torus.001
-    padding: 30000000
+    padding: 25000000
     unwrapper: 01000000
   - meshName:
     - Cube.004
@@ -531,81 +532,81 @@ MonoBehaviour:
     unwrapper: 01000000
   - meshName:
     - Cube.002
-    padding: b7000000
+    padding: 8f000000
     unwrapper: 01000000
   - meshName:
     - ArcadeMachineV2
-    padding: 07000000
+    padding: 06000000
     unwrapper: 01000000
   - meshName:
     - Basic Floor
-    padding: 05000000
-    unwrapper: 01000000
-  - meshName:
-    - Pillar 2
-    padding: 12000000
-    unwrapper: 01000000
-  - meshName:
-    - ArcadeMachineV1
-    padding: 07000000
-    unwrapper: 01000000
-  - meshName:
-    - ArcadeMachineV4
-    padding: 07000000
-    unwrapper: 01000000
-  - meshName:
-    - PinballMachineV1
-    padding: 07000000
-    unwrapper: 01000000
-  - meshName:
-    - Cube.013
     padding: 04000000
     unwrapper: 01000000
   - meshName:
+    - Pillar 2
+    padding: 0e000000
+    unwrapper: 01000000
+  - meshName:
+    - ArcadeMachineV1
+    padding: 06000000
+    unwrapper: 01000000
+  - meshName:
+    - ArcadeMachineV4
+    padding: 05000000
+    unwrapper: 01000000
+  - meshName:
+    - PinballMachineV1
+    padding: 06000000
+    unwrapper: 01000000
+  - meshName:
+    - Cube.013
+    padding: 03000000
+    unwrapper: 01000000
+  - meshName:
     - Cube
-    padding: 07000000
+    padding: 05000000
     unwrapper: 01000000
   - meshName:
     - 2Divider.001
     - 2Players
     - 2Divider
-    padding: 17000000060000003f000000
+    padding: 120000000500000031000000
     unwrapper: 010000000100000001000000
   - meshName:
     - SM_Sign_Ad_08
-    padding: 15000000
+    padding: 10000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_23
-    padding: 2e000000
-    unwrapper: 01000000
-  - meshName:
-    - SM_Sign_Neon_Flat_07
     padding: 24000000
     unwrapper: 01000000
   - meshName:
+    - SM_Sign_Neon_Flat_07
+    padding: 1c000000
+    unwrapper: 01000000
+  - meshName:
     - SM_Sign_01
-    padding: 13000000
+    padding: 0e000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Neon_Flat_06
-    padding: 37000000
+    padding: 2b000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_18
-    padding: 15000000
+    padding: 10000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_31
-    padding: 28000000
+    padding: 1f000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_02
-    padding: 0f000000
+    padding: 0c000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_12
-    padding: 15000000
+    padding: 10000000
     unwrapper: 01000000
   - meshName:
     - Bar Tap 3
@@ -619,48 +620,101 @@ MonoBehaviour:
     - Bar Tap 1
     - Bar Tap Pipes
     - Cube.009
-    padding: 6600000085000000850000006600000066000000850000008500000066000000660000002900000085000000
+    padding: 4f00000067000000670000004f0000004f00000067000000670000004f0000004f0000002000000067000000
     unwrapper: 0100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
   - meshName:
     - SM_Sign_Neon_09
-    padding: 12000000
+    padding: 0e000000
     unwrapper: 01000000
   - meshName:
     - SM_Prop_Door_01
-    padding: 05000000
+    padding: 04000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_05
-    padding: 15000000
+    padding: 10000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_10
-    padding: 15000000
+    padding: 10000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_04
-    padding: 18000000
+    padding: 13000000
     unwrapper: 01000000
   - meshName:
     - SM_Prop_Couch_01
-    padding: 07000000
+    padding: 05000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_15
-    padding: 15000000
+    padding: 10000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_01
-    padding: 0f000000
+    padding: 0c000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_07
-    padding: 15000000
+    padding: 10000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_26
-    padding: 2a000000
+    padding: 20000000
     unwrapper: 01000000
+  - meshName:
+    - Booth Monitor Dial
+    - 1C Mid
+    - 3C Line Switch
+    - Balance Dial
+    - Headphones Dial 2
+    - Crossfade
+    - Channel Fader
+    - 4C Volume
+    - 4C Mid
+    - 3C Trim
+    - 1C High
+    - Cross Fader
+    - 2C Volume
+    - Mic Level 1
+    - 1C Low
+    - Mono/Stereo
+    - 2C Thru
+    - Master Level Dial
+    - 4C Low
+    - 2C Mid
+    - 2C High
+    - 1C Effect
+    - 3C Thru
+    - 2C Effect
+    - 4C Line Switch
+    - 3C Volume
+    - Mic On/Off
+    - 4C Thru
+    - 1C Thru
+    - Heaphones Dial 1
+    - Channel Dial
+    - 2C Line Switch
+    - 4C Trim
+    - 4C Effect
+    - 2C Low
+    - 2C Trim
+    - 1C Line Switch
+    - Mic Low
+    - 1C Trim
+    - 4C High
+    - EQ Curve
+    - 3C Mid
+    - 3C High
+    - Effects List Dial
+    - 3C Effect
+    - 3C Low
+    - Mic Level 2
+    - 1C Volume
+    - Mic High
+    - Mixer
+    padding: 0001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000015000000
+    unwrapper: 0100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
   assetList:
   - Assets/MeshEditor/LowPolyWeapon/Models/axe.FBX
   - Assets/PolygonSciFiCity/Models/Collision/SM_Bld_StripClub_Interior_02_Collision_MODIFIED.fbx
@@ -1480,5 +1534,5 @@ MonoBehaviour:
   renderSettingsRTPVSceneView: 0
   renderSettingsRTPVWidth: 640
   renderSettingsRTPVHeight: 360
-  modifiedMeshPaddingArray: 15000000
+  modifiedMeshPaddingArray: 05000000
   modifiedMeshUnwrapperArray: 01000000

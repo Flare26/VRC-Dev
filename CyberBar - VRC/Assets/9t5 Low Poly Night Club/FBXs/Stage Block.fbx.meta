@@ -61,13 +61,13 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties:
-    - '#BAKERY{"meshName":["Stage Block"],"padding":[7],"unwrapper":[1]}'
+    - '#BAKERY{"meshName":["Stage Block"],"padding":[6],"unwrapper":[1]}'
     clipAnimations: []
     isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 1
+    meshCompression: 3
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
