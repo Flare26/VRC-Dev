@@ -457,7 +457,7 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties:
-    - '#BAKERY{"meshName":["2Divider.001","2Players","2Divider"],"padding":[18,5,49],"unwrapper":[1,1,1]}'
+    - '#BAKERY{"meshName":["2Divider.001","2Players","2Divider"],"padding":[23,6,63],"unwrapper":[1,1,1]}'
     clipAnimations: []
     isReadable: 1
   meshes:

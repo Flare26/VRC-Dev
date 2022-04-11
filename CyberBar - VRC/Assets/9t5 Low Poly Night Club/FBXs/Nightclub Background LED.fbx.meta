@@ -61,7 +61,7 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties:
-    - '#BAKERY{"meshName":["Nightclub Background LED"],"padding":[2],"unwrapper":[1]}'
+    - '#BAKERY{"meshName":["Nightclub Background LED"],"padding":[3],"unwrapper":[1]}'
     clipAnimations: []
     isReadable: 1
   meshes:

@@ -268,7 +268,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties:
     - '#BAKERY{"meshName":["Bar Tap 3","Cube.003","Cube.001","Bar Tap 2","Bar Tap
-      4","Cube.005","Cube.007","Bar Tap 5","Bar Tap 1","Bar Tap Pipes","Cube.009"],"padding":[79,103,103,79,79,103,103,79,79,32,103],"unwrapper":[1,1,1,1,1,1,1,1,1,1,1]}'
+      4","Cube.005","Cube.007","Bar Tap 5","Bar Tap 1","Bar Tap Pipes","Cube.009"],"padding":[256,256,256,256,256,256,256,256,256,241,256],"unwrapper":[1,1,1,1,1,1,1,1,1,1,1]}'
     clipAnimations: []
     isReadable: 1
   meshes:

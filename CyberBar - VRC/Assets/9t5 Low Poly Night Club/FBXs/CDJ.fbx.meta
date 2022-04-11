@@ -202,7 +202,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties:
     - '#BAKERY{"meshName":["Track Select Dial","Tempo Dial","Turn Table","Track Fade
-      Dial","CDJ"],"padding":[256,256,53,256,21],"unwrapper":[1,1,1,1,1]}'
+      Dial","CDJ"],"padding":[256,256,68,256,27],"unwrapper":[1,1,1,1,1]}'
     clipAnimations: []
     isReadable: 1
   meshes:

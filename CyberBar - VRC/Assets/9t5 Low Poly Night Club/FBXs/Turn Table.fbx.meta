@@ -162,7 +162,7 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties:
-    - '#BAKERY{"meshName":["Needle","Record Holder","Tempo","Turn Table"],"padding":[97,39,256,21],"unwrapper":[1,1,1,1]}'
+    - '#BAKERY{"meshName":["Needle","Record Holder","Tempo","Turn Table"],"padding":[125,51,256,27],"unwrapper":[1,1,1,1]}'
     clipAnimations: []
     isReadable: 1
   meshes:

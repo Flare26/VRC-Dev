@@ -61,7 +61,7 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties:
-    - '#BAKERY{"meshName":["DJ Booth"],"padding":[4],"unwrapper":[1]}'
+    - '#BAKERY{"meshName":["DJ Booth"],"padding":[6],"unwrapper":[1]}'
     clipAnimations: []
     isReadable: 1
   meshes:

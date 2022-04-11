@@ -53,7 +53,7 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties:
-    - '#BAKERY{"meshName":["Basic Floor Cube"],"padding":[11],"unwrapper":[1]}'
+    - '#BAKERY{"meshName":["Basic Floor Cube"],"padding":[14],"unwrapper":[1]}'
     clipAnimations: []
     isReadable: 1
   meshes:

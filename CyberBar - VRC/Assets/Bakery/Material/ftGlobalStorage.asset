@@ -131,7 +131,179 @@ MonoBehaviour:
   - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_07.fbx
   - Assets/PolygonSciFiCity/Models/SM_Sign_Ad_26.fbx
   - Assets/9t5 Low Poly Night Club/FBXs/Mixer.fbx
-  modifiedAssetPaddingHash: d2f23a06ec274e97ec274e97fe2f60f4964b20d4fd7d93630acb84e72bf43a06bd46cafd4a812e23bb4c904897c6d890e4c54eb7b7f23a06f839803308dc894beddb894bb4c2a6931b3a8033ecc12491ecc12491ecc12491ecc1249108dc894becc12491ecc12491ecc12491d93980331528c115d05634b7567e93639c09ecc0c25031eef8398033c25031ee80c5d890d7c2a693363fd3d94adc894bfab8c42c27dc894b353fd3d94adc894be55031ee7ac2a693567e9363797e9363797e9363cedb894b567e93633c4efff0c2a17193363fd3d914f33a066d67e2a8de09ecc0f1f23a064adc894b8c67e2a84adc894bd7c2a693fa4dfff0b92c722e2f3e049b4cc2c0df1c7e9363f1f23a06323fd3d9af67e2a8af67e2a8353fd3d986564b57ecc12491b15634b7393fd3d9333fd3d91b3a8033333fd3d914f33a06353fd3d99c09ecc0ecc12491ba4608c8ecc12491323fd3d9a35031eeecc124910da3ddde353fd3d9333fd3d980c5d890353fd3d9323fd3d9353fd3d9383fd3d9323fd3d9dcbff8d64adc894b08dc894b194efff080c5d8901c7e93634adc894b6d67e2a8de09ecc04adc894bd8bd9fff80c5d890333fd3d94adc894b4adc894bd7c2a693323fd3d94adc894bde09ecc04adc894b9c09ecc04210007d
+  - Assets/PolygonSciFiCity/Models/SM_Prop_Jar_Hanging_01.fbx
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling04_45Deg700x700x175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall45DegFrame700x300cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor1400x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium01_1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrame500x300x400cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor700xR175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Column04.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallNiche01_1_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700x50xRout175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrameRound700x300x200cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/CeilingCenter01_1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700cmFrame300x300cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/StripPole01_300cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling04_1400x350x175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallColumn01_1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_6_350x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/CeilingCenter01_3.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight02_12.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700cmFrameRound500cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DanceFloor01Stairs01.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium01_3.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrame300x300x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Column05.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor45Degree700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight02_11.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrameRound500x300x100cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall1400x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall350x350xRout87cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallNiche01_5_700x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Barrier01_7.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrame700x300x200cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium01_2.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_3_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_12_700x700xR175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_12_700x700xR350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700x350xR175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_Angle1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallNiche02_5_700x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet01_700xR175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrameEnd700x300cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_1400x1400cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Stairs04_45Deg265x950x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet01_350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Barrier01_2.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_2_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor350x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/GoGo01.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor1400x1400cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DanceFloor01Parapet02.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_Angle1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Column08.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_700xR175.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Stairs04_45Deg265x950cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_5_700x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_4_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallNiche01_6_700x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_11_700x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrameRound500x300x200cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/GoGo02.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall1400cmFrameRound700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor1400x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_15_45Degree700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor45Degree350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Barrier01_3.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_45Deg700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor700x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet01_350cmAngle6.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_9_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700x25x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_50x350.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_4_700x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_700x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrame150x250x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet02_350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_4_700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Curtain01_300cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_5_1400x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_1400x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium03_500x400x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium03_350x250x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet02_45Deg2_350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium03_700x350x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/StairsMetalSpiral01.FBX
+  - Assets/TirgamesAssets/NightClub/Models/StripPole01_275cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall1400x75cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700x50xRout350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet01_350cmAngle1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_3_700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet02_700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight05_1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Barrier01_8.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_6_700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/CeilingCenter02_1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_17_45Deg.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium02_1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet02_1400cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium03_700x250x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet02_350cmAngle3.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_8_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight01_1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_6_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/CeilingCenter02_3.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700x350xR350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700cmFrame500x300cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet01_1400cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Curtain01_500cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrameEnd500x300cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700cmDoor150cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DanceFloor01_1_21x21m.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling04_700x350x175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallNiche01_3_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_4_350x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrameRound700x300x600cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Stairs03_265x900cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet02_45Deg_700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_1400x50cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_14_45Deg350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall350x350cmDoor300cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_45Deg350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor1400x50.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallNiche01_4_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium02_5.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700cmDoor300cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet02_350cmAngle2.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallNiche01_2_700x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/CeilingCenter01_2.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DanceFloor01Parapet01.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall45DegFrame700x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall350x25x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_9_700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall150x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_13_50x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_2_700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_12_700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700x175xRout350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_350xR87cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_1_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Stairs02_500x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium02_6.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Barrier01_6.FBX
+  - Assets/TirgamesAssets/NightClub/Models/CeilingCenter01_4.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_14_45Degree700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet01_700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_350x175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrame300x250x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight02_1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/CeilingCenter02_5.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium03_250x250x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight01_3.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_1400x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet01_350cmAngle2.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor350x50cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_350x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight02_3.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium02_4.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight04_1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallNiche02_2_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet01_350cmAngle3.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Stairs03_350x900cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallNiche02_4_200x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_350x350cm.FBX
+  - Assets/Props/Arcade Machines/AurynSky/Arcades Pack 02/Models/ControlStickBasefbx.fbx
+  - Assets/Props/Arcade Machines/AurynSky/Arcades Pack 02/Models/ControlStickfbx.fbx
+  - Assets/Props/Arcade Machines/AurynSky/Arcades Pack 02/Models/WideStandardFBX.fbx
+  - Assets/TirgamesAssets/NightClub/Models/Column01.FBX
+  modifiedAssetPaddingHash: d2f23a06ec274e97ec274e97fe2f60f4964b20d4fd7d93630acb84e72bf43a06bd46cafd4a812e23bb4c904897c6d890e4c54eb7b7f23a06f839803308dc894beddb894bb4c2a6931b3a8033ecc12491ecc12491ecc12491ecc1249108dc894becc12491ecc12491ecc12491d93980331528c115d05634b7567e93639c09ecc0c25031eef8398033c25031eebc4608c812a3ddde353fd3d9eb37ed04b24bc37a9c50cf357ac2a693e937ed04f437ed04ecc12491c3d15080f727c115cfc3a693ecc12491c3d150800ba3ddde9b8261233e3fd3d9797e9363cf5634b7a768e2a8c1d15080ea37ed0401b309ceea37ed0409a3dddeecc124919b513356d5047cb9a6682c089f39803327dc894b343fd3d980c5d8901b3a8033343fd3d99a63b773ecc12491ffb209ce383fd3d9353fd3d9d7c2a693323fd3d9797e93633f3fd3d9ecc12491ecc12491ecc12491ecc1249123c5d890df4dfff0ecc12491d1318883343fd3d9323fd3d93c4efff0343fd3d9343fd3d9343fd3d9333fd3d9343fd3d9317791f6ea37ed04ecc12491dc4608c8bd4608c8ecc12491e937ed04cf5634b70cf43a06ea37ed04be153131fe27c1153ec5d890ea37ed04ea37ed040da3ddde1c7e9363eb37ed040cf43a06ea37ed0428a3dddee4cbec4c4a47fa7cc25031ee3f3fd3d94adc894b33fe6ada333fd3d9eddb894bb4c2a6933f3fd3d93e3fd3d956f23a06323fd3d981f0acbf3f3fd3d9af5634b73c4efff0e55031eed4bf787b7e9459df5dc5d89014f33a06353fd3d924162dc13c4efff014f33a06b4c2a69327dc894b3f3fd3d9f1f23a06b7f23a06353fd3d95a76f7ba323fd3d93dee3eeb6fd3b91ed2cbd7b62f6cedfa27dc894b0ab96841fe69188b194efff0343fd3d914f33a063c901ac2885031ee13a56a5c41f3fc9a353fd3d93f3fd3d9393fd3d93e3fd3d95267e2a8f6bbaf7a3e3fd3d9eddb894b3c901ac2527793fcdcefdd4b353fd3d9beb84863323fd3d914f33a06353fd3d9f1f23a06f58126fc797e936313a56a5cb4c2a693b4c2a693885031ee44f16c6980c5d8905dc5d890333fd3d9d4bf787bb4c2a693bb09ecc03e3fd3d96c677541353fd3d95267e2a8333fd3d948901ac280c5d890353fd3d914f33a063f3fd3d9353fd3d9323fd3d995c2a69323c5d8901067e2a8343fd3d9367e26fc353fd3d93f3fd3d983b0c42c01911ac277b37ae0777c5c3c08911ac2333fd3d9343fd3d93e3fd3d9a9737541fa4dfff0fdddb9b3f971ae82567e936314f33a06333fd3d9353fd3d93f3fd3d9343fd3d9363fd3d927dc894b3e3fd3d986bd5623393fd3d93c901ac2323fd3d9de09ecc09bc92f2980c5d890c04dfff0de09ecc03e3fd3d903628293d93980333e3fd3d9353fd3d9f80223583f3fd3d9be398033d7c2a69394e6552580c5d890367ab8add1f2cd9ea00f7181377e9363f227c1155a5f50961f47bc1224243014fae8b5e86b03a04648b48871343fd3d9c04dfff0fc5131ee14f33a06828f1ac2af67e2a8de09ecc0333fd3d9be3980335dc5d890b4c2a6931b3a803335a3ad34e55031eeed978aa514f33a065dc5d8908e61d67c32aaa9693e3fd3d9ecc12491ecc1249195c2a6939f398033
   modifiedMeshList: []
   modifiedMeshPaddingList: 
   modifiedAssets:
@@ -305,68 +477,68 @@ MonoBehaviour:
     unwrapper: 00000000
   - meshName:
     - SM_Prop_Plant_Vase_01
-    padding: 0e000000
+    padding: 6f000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Neon_08
-    padding: 13000000
+    padding: 94000000
     unwrapper: 01000000
   - meshName:
     - SM_Bld_StripClub_Interior_03
-    padding: 01000000
+    padding: 06000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_20
-    padding: 10000000
+    padding: 7f000000
     unwrapper: 01000000
   - meshName:
     - SM_Prop_Watercooler_01
     - SM_Prop_Watercooler_01_Glass
-    padding: 0a00000012000000
+    padding: 510000008c000000
     unwrapper: 0100000001000000
   - meshName:
     - SM_Sign_Neon_Flat_01
-    padding: 1a000000
+    padding: c7000000
     unwrapper: 01000000
   - meshName:
     - SM_Prop_Wall_Table_01
-    padding: 06000000
-    unwrapper: 01000000
-  - meshName:
-    - SM_Sign_03
-    padding: 10000000
-    unwrapper: 01000000
-  - meshName:
-    - SM_Sign_Ad_16
-    padding: 11000000
-    unwrapper: 01000000
-  - meshName:
-    - SM_Sign_Neon_Flat_05
     padding: 31000000
     unwrapper: 01000000
   - meshName:
+    - SM_Sign_03
+    padding: 7d000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Ad_16
+    padding: 80000000
+    unwrapper: 01000000
+  - meshName:
+    - SM_Sign_Neon_Flat_05
+    padding: 00010000
+    unwrapper: 01000000
+  - meshName:
     - SM_Sign_Ad_21
-    padding: 17000000
+    padding: b0000000
     unwrapper: 01000000
   - meshName:
     - SM_Prop_BarChair_01
-    padding: 0d000000
+    padding: 65000000
     unwrapper: 01000000
   - meshName:
     - SM_Props_StripClub_Table_01
-    padding: 0d000000
+    padding: 63000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Neon_Flat_03
-    padding: 38000000
+    padding: 00010000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_22
-    padding: 17000000
+    padding: b0000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_06
-    padding: 12000000
+    padding: 8d000000
     unwrapper: 01000000
   - meshName:
     - SM_HologramPods_01
@@ -377,53 +549,53 @@ MonoBehaviour:
     - SM_Glass
     - SM_Prop_Door_03
     - SM_Prop_Door_05
-    padding: 0300000007000000070000000700000001000000090000000700000007000000
+    padding: 1a00000036000000360000003500000005000000460000003600000035000000
     unwrapper: 0100000001000000010000000100000001000000010000000100000001000000
   - meshName:
     - SM_Bld_StripClub_Interior_02
-    padding: 01000000
+    padding: 09000000
     unwrapper: 01000000
   - meshName:
     - Basic Wall
-    padding: 0a000000
+    padding: 0d000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_30
-    padding: 1f000000
+    padding: eb000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_03
-    padding: 0c000000
+    padding: 5b000000
     unwrapper: 01000000
   - meshName:
     - SM_Prop_Flags_01
-    padding: 14000000
+    padding: ae000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_09
-    padding: 10000000
+    padding: 7e000000
     unwrapper: 01000000
   - meshName:
     - SM_Prop_Stool_01
-    padding: 15000000
+    padding: a1000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_11
-    padding: 10000000
+    padding: 7e000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Neon_02
-    padding: 13000000
+    padding: 93000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Neon_Flat_04
-    padding: 26000000
+    padding: 00010000
     unwrapper: 01000000
   - meshName:
     - Stage Light
     - Swivel
     - Holder
-    padding: 1e000000320000004d000000
+    padding: 270000004100000062000000
     unwrapper: 010000000100000001000000
   - meshName:
     - Track Select Dial
@@ -431,44 +603,44 @@ MonoBehaviour:
     - Turn Table
     - Track Fade Dial
     - CDJ
-    padding: 0001000000010000350000000001000015000000
+    padding: 000100000001000044000000000100001b000000
     unwrapper: 0100000001000000010000000100000001000000
   - meshName:
     - Needle
     - Record Holder
     - Tempo
     - Turn Table
-    padding: 61000000270000000001000015000000
+    padding: 7d00000033000000000100001b000000
     unwrapper: 01000000010000000100000001000000
   - meshName:
     - Record
-    padding: 2b000000
+    padding: 37000000
     unwrapper: 01000000
   - meshName:
     - Nightclub Light 1
-    padding: 14000000
+    padding: 1a000000
     unwrapper: 01000000
   - meshName:
     - Pillar 1
-    padding: 05000000
+    padding: 07000000
     unwrapper: 01000000
   - meshName:
     - Basic Floor Cube
-    padding: 0b000000
+    padding: 0e000000
     unwrapper: 01000000
   - meshName:
     - Staircase Straight
-    padding: 0b000000
+    padding: 0f000000
     unwrapper: 01000000
   - meshName:
     - Stage Block
-    padding: 06000000
+    padding: 07000000
     unwrapper: 01000000
   - meshName:
     - Mesh4
     - Mesh2
     - Mesh1
-    padding: 02000000110000007e000000
+    padding: 0300000016000000a1000000
     unwrapper: 010000000100000001000000
   - meshName:
     - Cube.003
@@ -476,35 +648,35 @@ MonoBehaviour:
     unwrapper: 01000000
   - meshName:
     - Cube.001
-    padding: 82000000
+    padding: a7000000
     unwrapper: 01000000
   - meshName:
     - Nightclub Background LED
-    padding: 02000000
+    padding: 03000000
     unwrapper: 01000000
   - meshName:
     - DJ Booth
-    padding: 04000000
-    unwrapper: 01000000
-  - meshName:
-    - Light Bar
-    padding: 0f000000
-    unwrapper: 01000000
-  - meshName:
-    - Ceiling
-    padding: 04000000
-    unwrapper: 01000000
-  - meshName:
-    - Speaker
-    padding: 0a000000
-    unwrapper: 01000000
-  - meshName:
-    - DJ Booth LED Display
     padding: 06000000
     unwrapper: 01000000
   - meshName:
+    - Light Bar
+    padding: 13000000
+    unwrapper: 01000000
+  - meshName:
+    - Ceiling
+    padding: 05000000
+    unwrapper: 01000000
+  - meshName:
+    - Speaker
+    padding: 0d000000
+    unwrapper: 01000000
+  - meshName:
+    - DJ Booth LED Display
+    padding: 08000000
+    unwrapper: 01000000
+  - meshName:
     - Cube.010
-    padding: 20000000
+    padding: 00010000
     unwrapper: 01000000
   - meshName:
     - Cube.004
@@ -512,7 +684,7 @@ MonoBehaviour:
     unwrapper: 01000000
   - meshName:
     - Cube.007
-    padding: 75000000
+    padding: 00010000
     unwrapper: 01000000
   - meshName:
     - Cube.003
@@ -520,11 +692,11 @@ MonoBehaviour:
     unwrapper: 01000000
   - meshName:
     - Cube.011
-    padding: 05000000
+    padding: 2c000000
     unwrapper: 01000000
   - meshName:
     - Torus.001
-    padding: 25000000
+    padding: 30000000
     unwrapper: 01000000
   - meshName:
     - Cube.004
@@ -532,81 +704,81 @@ MonoBehaviour:
     unwrapper: 01000000
   - meshName:
     - Cube.002
-    padding: 8f000000
+    padding: b7000000
     unwrapper: 01000000
   - meshName:
     - ArcadeMachineV2
-    padding: 06000000
+    padding: 07000000
     unwrapper: 01000000
   - meshName:
     - Basic Floor
-    padding: 04000000
+    padding: 05000000
     unwrapper: 01000000
   - meshName:
     - Pillar 2
-    padding: 0e000000
+    padding: 12000000
     unwrapper: 01000000
   - meshName:
     - ArcadeMachineV1
-    padding: 06000000
+    padding: 07000000
     unwrapper: 01000000
   - meshName:
     - ArcadeMachineV4
-    padding: 05000000
+    padding: 07000000
     unwrapper: 01000000
   - meshName:
     - PinballMachineV1
-    padding: 06000000
+    padding: 07000000
     unwrapper: 01000000
   - meshName:
     - Cube.013
-    padding: 03000000
+    padding: 04000000
     unwrapper: 01000000
   - meshName:
     - Cube
-    padding: 05000000
+    padding: 07000000
     unwrapper: 01000000
   - meshName:
     - 2Divider.001
     - 2Players
     - 2Divider
-    padding: 120000000500000031000000
+    padding: 17000000060000003f000000
     unwrapper: 010000000100000001000000
   - meshName:
     - SM_Sign_Ad_08
-    padding: 10000000
+    padding: 7e000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_23
-    padding: 24000000
+    padding: 00010000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Neon_Flat_07
-    padding: 1c000000
+    padding: d4000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_01
-    padding: 0e000000
+    padding: 70000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Neon_Flat_06
-    padding: 2b000000
+    padding: 00010000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_18
-    padding: 10000000
+    padding: 7d000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_31
-    padding: 1f000000
+    padding: eb000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_02
-    padding: 0c000000
+    padding: 5a000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_12
-    padding: 10000000
+    padding: 7e000000
     unwrapper: 01000000
   - meshName:
     - Bar Tap 3
@@ -620,47 +792,47 @@ MonoBehaviour:
     - Bar Tap 1
     - Bar Tap Pipes
     - Cube.009
-    padding: 4f00000067000000670000004f0000004f00000067000000670000004f0000004f0000002000000067000000
+    padding: 6600000085000000850000006600000066000000850000008500000066000000660000002900000085000000
     unwrapper: 0100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
   - meshName:
     - SM_Sign_Neon_09
-    padding: 0e000000
+    padding: 6c000000
     unwrapper: 01000000
   - meshName:
     - SM_Prop_Door_01
-    padding: 04000000
+    padding: 22000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_05
-    padding: 10000000
+    padding: 7e000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_10
-    padding: 10000000
+    padding: 7e000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_04
-    padding: 13000000
+    padding: 8f000000
     unwrapper: 01000000
   - meshName:
     - SM_Prop_Couch_01
-    padding: 05000000
+    padding: 2b000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_15
-    padding: 10000000
+    padding: 7f000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_01
-    padding: 0c000000
+    padding: 5a000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_07
-    padding: 10000000
+    padding: 7e000000
     unwrapper: 01000000
   - meshName:
     - SM_Sign_Ad_26
-    padding: 20000000
+    padding: f5000000
     unwrapper: 01000000
   - meshName:
     - Booth Monitor Dial
@@ -713,8 +885,767 @@ MonoBehaviour:
     - 1C Volume
     - Mic High
     - Mixer
-    padding: 0001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000015000000
+    padding: 000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100001b000000
     unwrapper: 0100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  - meshName:
+    - SM_Prop_Jar_Hanging_01_Glass
+    - SM_Prop_Jar_Hanging_01
+    padding: 8e000000c3000000
+    unwrapper: 0100000001000000
+  - meshName:
+    - Ceiling04_45Deg700x700x175cm
+    padding: 1b000000
+    unwrapper: 01000000
+  - meshName:
+    - Wall45DegFrame700x300cm
+    padding: 08000000
+    unwrapper: 00000000
+  - meshName:
+    - Floor1400x700
+    padding: 10000000
+    unwrapper: 01000000
+  - meshName:
+    - Backlight
+    - Podium
+    padding: 1400000009000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - WallFrame500x300x400cm
+    padding: 04000000
+    unwrapper: 00000000
+  - meshName:
+    - Floor700xR175
+    padding: 2e000000
+    unwrapper: 01000000
+  - meshName:
+    - Wall700cm01
+    padding: 1d000000
+    unwrapper: 01000000
+  - meshName:
+    - Column04
+    padding: 08000000
+    unwrapper: 00000000
+  - meshName:
+    - WallNiche01_1_350x350cm
+    padding: 09000000
+    unwrapper: 00000000
+  - meshName:
+    - Wall700x50xRout175cm
+    padding: 46000000
+    unwrapper: 01000000
+  - meshName:
+    - WallFrameRound700x300x200cm
+    padding: 05000000
+    unwrapper: 00000000
+  - meshName:
+    - Ceiling
+    - Backlight
+    - Light
+    padding: 0b000000100000003a000000
+    unwrapper: 000000000000000000000000
+  - meshName:
+    - Wall700cmFrame300x300cm
+    padding: 08000000
+    unwrapper: 00000000
+  - meshName:
+    - StripPole01_300cm
+    padding: 88000000
+    unwrapper: 01000000
+  - meshName:
+    - Ceiling04_1400x350x175cm
+    padding: 12000000
+    unwrapper: 01000000
+  - meshName:
+    - WallColumn01_1
+    padding: 11000000
+    unwrapper: 00000000
+  - meshName:
+    - Backlight
+    - Ceiling
+    padding: 0d00000006000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Ceiling
+    - Backlight
+    - Light
+    padding: 0b0000001500000042000000
+    unwrapper: 000000000000000000000000
+  - meshName:
+    - DoorFrameLight02_12
+    padding: 18000000
+    unwrapper: 00000000
+  - meshName:
+    - Wall700cmFrameRound500cm
+    padding: 0a000000
+    unwrapper: 00000000
+  - meshName:
+    - DanceFloor01Stairs01
+    padding: 06000000
+    unwrapper: 00000000
+  - meshName:
+    - Backlight
+    - Podium
+    padding: 1900000009000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - WallFrame300x300x25cm
+    padding: 12000000
+    unwrapper: 00000000
+  - meshName:
+    - Column05
+    padding: 0a000000
+    unwrapper: 00000000
+  - meshName:
+    - FloorAngle700x700cm
+    padding: 1d000000
+    unwrapper: 01000000
+  - meshName:
+    - DoorFrameLight02_11
+    padding: 1a000000
+    unwrapper: 00000000
+  - meshName:
+    - WallFrameRound500x300x100cm
+    padding: 08000000
+    unwrapper: 00000000
+  - meshName:
+    - Wall1400cm01
+    padding: 14000000
+    unwrapper: 01000000
+  - meshName:
+    - Wall350x350xRout87cm
+    padding: 28000000
+    unwrapper: 01000000
+  - meshName:
+    - WallNiche01_5_700x350cm
+    padding: 06000000
+    unwrapper: 00000000
+  - meshName:
+    - Glass
+    - Metal
+    padding: 1b0000002d000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - WallFrame700x300x200cm
+    padding: 05000000
+    unwrapper: 00000000
+  - meshName:
+    - Backlight
+    - Podium
+    padding: 1600000009000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Backlight
+    - Ceiling
+    - Light
+    padding: 10000000080000003d000000
+    unwrapper: 000000000000000000000000
+  - meshName:
+    - Backlight
+    - Ceiling
+    padding: 090000001b000000
+    unwrapper: 0100000001000000
+  - meshName:
+    - Ceiling
+    - Backlight
+    padding: 1300000022000000
+    unwrapper: 0100000001000000
+  - meshName:
+    - Wall700x350xR175cm
+    padding: 1a000000
+    unwrapper: 01000000
+  - meshName:
+    - Ceiling
+    - Backlight
+    padding: 1200000015000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Backlight
+    - Wall
+    padding: 0c00000005000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Parapet01_700xR175cm
+    padding: 1c000000
+    unwrapper: 01000000
+  - meshName:
+    - WallFrameEnd700x300cm
+    padding: 07000000
+    unwrapper: 00000000
+  - meshName:
+    - Ceiling01_1400x1400
+    padding: 0a000000
+    unwrapper: 01000000
+  - meshName:
+    - Parapet
+    - Stairs
+    padding: 0300000005000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Parapet01_350cm
+    padding: 2f000000
+    unwrapper: 01000000
+  - meshName:
+    - Glass
+    - Metal
+    padding: 1b00000035000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Backlight
+    - Ceiling
+    padding: 3e00000024000000
+    unwrapper: 0100000001000000
+  - meshName:
+    - Floor350x700
+    padding: 06000000
+    unwrapper: 00000000
+  - meshName:
+    - GoGo1
+    padding: 08000000
+    unwrapper: 00000000
+  - meshName:
+    - Floor1400x1400
+    padding: 02000000
+    unwrapper: 00000000
+  - meshName:
+    - DanceFloor01Parapet02
+    padding: 09000000
+    unwrapper: 00000000
+  - meshName:
+    - Wall350cm01
+    padding: 29000000
+    unwrapper: 01000000
+  - meshName:
+    - Light
+    - Backlight
+    - Ceiling
+    padding: a3000000230000002f000000
+    unwrapper: 000000000000000000000000
+  - meshName:
+    - Column08
+    padding: 09000000
+    unwrapper: 00000000
+  - meshName:
+    - Ceiling01_700xR175
+    padding: 2e000000
+    unwrapper: 01000000
+  - meshName:
+    - Parapet
+    - Stairs
+    padding: 0300000005000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Backlight
+    - Ceiling
+    - Light
+    padding: 0d0000000600000036000000
+    unwrapper: 000000000000000000000000
+  - meshName:
+    - Ceiling
+    - Backlight
+    - Light
+    padding: 08000000130000004c000000
+    unwrapper: 000000000000000000000000
+  - meshName:
+    - WallNiche01_6_700x350cm
+    padding: 06000000
+    unwrapper: 00000000
+  - meshName:
+    - Light
+    - Ceiling
+    - Backlight
+    padding: 260000000500000009000000
+    unwrapper: 000000000000000000000000
+  - meshName:
+    - WallFrameRound500x300x200cm
+    padding: 05000000
+    unwrapper: 00000000
+  - meshName:
+    - GoGo02
+    padding: 0a000000
+    unwrapper: 00000000
+  - meshName:
+    - Wall1400cmFrameRound700cm
+    padding: 06000000
+    unwrapper: 00000000
+  - meshName:
+    - Floor1400x350
+    padding: 14000000
+    unwrapper: 01000000
+  - meshName:
+    - Ceiling
+    - Backlight
+    padding: 050000000b000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - FloorAngle350x350cm
+    padding: 0d000000
+    unwrapper: 00000000
+  - meshName:
+    - Glass
+    - Metal
+    padding: 1b00000035000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Ceiling01_45Deg700cm
+    padding: 1d000000
+    unwrapper: 01000000
+  - meshName:
+    - Floor700x350
+    padding: 1d000000
+    unwrapper: 01000000
+  - meshName:
+    - Parapet01_350cmAngle6
+    padding: 2f000000
+    unwrapper: 01000000
+  - meshName:
+    - Ceiling
+    - Backlight
+    - Light
+    padding: 080000000f0000003a000000
+    unwrapper: 000000000000000000000000
+  - meshName:
+    - Wall700x25x25cm
+    padding: 0e000000
+    unwrapper: 00000000
+  - meshName:
+    - Ceiling01_50x350
+    padding: 18000000
+    unwrapper: 00000000
+  - meshName:
+    - Ceiling01_700x700
+    padding: 04000000
+    unwrapper: 00000000
+  - meshName:
+    - Backlight
+    - Ceiling
+    padding: 0d00000006000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Ceiling01_700x350
+    padding: 1d000000
+    unwrapper: 01000000
+  - meshName:
+    - WallFrame150x250x25cm
+    padding: 16000000
+    unwrapper: 00000000
+  - meshName:
+    - Parapet02_350cm
+    padding: 09000000
+    unwrapper: 00000000
+  - meshName:
+    - Ceiling
+    - Backlight
+    padding: 040000000d000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Curtain01_300cm
+    padding: 06000000
+    unwrapper: 00000000
+  - meshName:
+    - Floor350x350
+    padding: 29000000
+    unwrapper: 01000000
+  - meshName:
+    - Floor700x700
+    padding: 04000000
+    unwrapper: 01000000
+  - meshName:
+    - Ceiling
+    - Backlight
+    padding: 0300000009000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Ceiling01_1400x700
+    padding: 0e000000
+    unwrapper: 01000000
+  - meshName:
+    - Podium03_500x400x25cm
+    padding: 06000000
+    unwrapper: 00000000
+  - meshName:
+    - Podium03_350x250x25cm
+    padding: 0a000000
+    unwrapper: 00000000
+  - meshName:
+    - Parapet02_45Deg2_350cm
+    padding: 08000000
+    unwrapper: 00000000
+  - meshName:
+    - Podium03_700x350x25cm
+    padding: 06000000
+    unwrapper: 00000000
+  - meshName:
+    - StairsSpiral01
+    padding: 05000000
+    unwrapper: 00000000
+  - meshName:
+    - StripPole01_275cm
+    padding: 27000000
+    unwrapper: 00000000
+  - meshName:
+    - Wall1400x75cm
+    padding: 2c000000
+    unwrapper: 01000000
+  - meshName:
+    - Wall700x50xRout350cm
+    padding: 3d000000
+    unwrapper: 01000000
+  - meshName:
+    - Parapet01_350cmAngle1
+    padding: 07000000
+    unwrapper: 00000000
+  - meshName:
+    - Ceiling
+    - Backlight
+    padding: 040000000b000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Parapet02_700cm
+    padding: 06000000
+    unwrapper: 00000000
+  - meshName:
+    - DoorFrameLight05
+    padding: 08000000
+    unwrapper: 00000000
+  - meshName:
+    - Metal
+    - Glass
+    padding: 1e0000000f000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Backlight
+    - Ceiling
+    padding: 0900000004000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Backlight
+    - Ceiling
+    - Light
+    padding: 0c000000080000002f000000
+    unwrapper: 000000000000000000000000
+  - meshName:
+    - Backlight
+    - Ceiling
+    padding: 1b00000018000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Backlight
+    - Podium
+    padding: 0900000003000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Parapet02_1400cm
+    padding: 04000000
+    unwrapper: 00000000
+  - meshName:
+    - Podium03_700x250x25cm
+    padding: 07000000
+    unwrapper: 00000000
+  - meshName:
+    - Parapet02_350cmAngle3
+    padding: 09000000
+    unwrapper: 00000000
+  - meshName:
+    - Ceiling
+    - Backlight
+    padding: 070000000d000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Doorway01
+    padding: 26000000
+    unwrapper: 01000000
+  - meshName:
+    - Ceiling
+    - Backlight
+    padding: 240000003e000000
+    unwrapper: 0100000001000000
+  - meshName:
+    - Backlight
+    - Ceiling
+    padding: 0b00000005000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Wall700x350xR350cm
+    padding: 17000000
+    unwrapper: 01000000
+  - meshName:
+    - Wall700cmFrame500x300cm
+    padding: 0a000000
+    unwrapper: 00000000
+  - meshName:
+    - Parapet01_1400cm
+    padding: 04000000
+    unwrapper: 00000000
+  - meshName:
+    - Curtain01_500cm
+    padding: 06000000
+    unwrapper: 00000000
+  - meshName:
+    - WallFrameEnd500x300cm
+    padding: 08000000
+    unwrapper: 00000000
+  - meshName:
+    - Wall700cmdoor150cm01
+    padding: 07000000
+    unwrapper: 00000000
+  - meshName:
+    - DanceFloor01_1_21x21m
+    padding: 01000000
+    unwrapper: 00000000
+  - meshName:
+    - Ceiling04_700x350x175cm
+    padding: 1a000000
+    unwrapper: 01000000
+  - meshName:
+    - WallNiche01_3_350x350cm
+    padding: 09000000
+    unwrapper: 00000000
+  - meshName:
+    - Backlight
+    - Ceiling
+    padding: 1300000006000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - WallFrameRound700x300x600cm
+    padding: 02000000
+    unwrapper: 00000000
+  - meshName:
+    - Parapet
+    - Stairs
+    padding: 0300000005000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Parapet02_45Deg_700cm
+    padding: 05000000
+    unwrapper: 00000000
+  - meshName:
+    - Ceiling01_1400x50
+    padding: 0c000000
+    unwrapper: 00000000
+  - meshName:
+    - Ceiling
+    - Backlight
+    padding: 0b00000019000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Wall350cmDoor300cm01
+    padding: 0e000000
+    unwrapper: 00000000
+  - meshName:
+    - Ceiling01_45Deg350cm
+    padding: 3a000000
+    unwrapper: 01000000
+  - meshName:
+    - Floor1400x50
+    padding: 0c000000
+    unwrapper: 00000000
+  - meshName:
+    - WallNiche01_4_350x350cm
+    padding: 09000000
+    unwrapper: 00000000
+  - meshName:
+    - Backlight
+    - Podium
+    padding: 0d00000005000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Wall700cmDoor300cm01
+    padding: 23000000
+    unwrapper: 01000000
+  - meshName:
+    - Parapet02_350cmAngle2
+    padding: 09000000
+    unwrapper: 00000000
+  - meshName:
+    - WallNiche01_2_700x350cm
+    padding: 06000000
+    unwrapper: 00000000
+  - meshName:
+    - Light
+    - Ceiling
+    - Backlight
+    padding: 3e0000000b00000012000000
+    unwrapper: 000000000000000000000000
+  - meshName:
+    - DanceFloor01Parapet01
+    padding: 08000000
+    unwrapper: 00000000
+  - meshName:
+    - Wall45DegFrame700x350cm
+    padding: 2d000000
+    unwrapper: 01000000
+  - meshName:
+    - Wall350x25x25cm
+    padding: 13000000
+    unwrapper: 00000000
+  - meshName:
+    - Backlight
+    - Ceiling
+    padding: 0b00000004000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Wall150x350cm
+    padding: 0e000000
+    unwrapper: 00000000
+  - meshName:
+    - Ceiling
+    - Backlight
+    padding: 1000000034000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Ceiling
+    - Backlight
+    padding: 040000000a000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Backlight
+    - Ceiling
+    - Light
+    padding: 070000000400000018000000
+    unwrapper: 000000000000000000000000
+  - meshName:
+    - Wall700x175xRout350cm
+    padding: 21000000
+    unwrapper: 01000000
+  - meshName:
+    - Ceiling01_350xR87cm
+    padding: 68000000
+    unwrapper: 01000000
+  - meshName:
+    - Backlight
+    - Ceiling
+    padding: 0d00000008000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Stairs
+    - Reilings
+    - Walls
+    - Backlight
+    - Ceiling
+    padding: 0300000010000000020000000500000003000000
+    unwrapper: 0000000000000000000000000000000000000000
+  - meshName:
+    - Podium
+    - Backlight
+    padding: 050000000e000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Glass
+    - Metal
+    padding: 0c00000017000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Ceiling
+    - Light
+    - Backlight
+    padding: 0a000000330000000e000000
+    unwrapper: 000000000000000000000000
+  - meshName:
+    - Ceiling
+    - Backlight
+    padding: 060000000f000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Parapet01_700cm
+    padding: 07000000
+    unwrapper: 00000000
+  - meshName:
+    - Ceiling01_350x175
+    padding: 3a000000
+    unwrapper: 01000000
+  - meshName:
+    - WallFrame300x250x25cm
+    padding: 57000000
+    unwrapper: 01000000
+  - meshName:
+    - Light02_1
+    padding: 0a000000
+    unwrapper: 00000000
+  - meshName:
+    - Ceiling
+    - Backlight
+    padding: 0500000009000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Podium03_250x250x25cm
+    padding: 0b000000
+    unwrapper: 00000000
+  - meshName:
+    - Doorway01
+    padding: 0c000000
+    unwrapper: 00000000
+  - meshName:
+    - Ceiling01_1400x350
+    padding: 04000000
+    unwrapper: 00000000
+  - meshName:
+    - Parapet01_350cmAngle2
+    padding: 2d000000
+    unwrapper: 01000000
+  - meshName:
+    - Floor350x50
+    padding: 18000000
+    unwrapper: 00000000
+  - meshName:
+    - Ceiling01_350x700
+    padding: 1d000000
+    unwrapper: 01000000
+  - meshName:
+    - Light02_1
+    padding: 0f000000
+    unwrapper: 00000000
+  - meshName:
+    - Podium
+    - Backlight
+    padding: 1800000041000000
+    unwrapper: 0100000001000000
+  - meshName:
+    - Light04_1
+    padding: 11000000
+    unwrapper: 00000000
+  - meshName:
+    - Backlight
+    - Wall
+    padding: 1200000008000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Parapet01_350cmAngle3
+    padding: 0a000000
+    unwrapper: 00000000
+  - meshName:
+    - Wall700x25cm
+    padding: 18000000
+    unwrapper: 00000000
+  - meshName:
+    - Parapet
+    - Stairs
+    padding: 1000000017000000
+    unwrapper: 0100000001000000
+  - meshName:
+    - Wall
+    - Backlight
+    padding: 0a00000015000000
+    unwrapper: 0000000000000000
+  - meshName:
+    - Ceiling01_350x350
+    padding: 09000000
+    unwrapper: 00000000
+  - meshName:
+    - Cube.002
+    padding: 00010000
+    unwrapper: 01000000
+  - meshName:
+    - Cube.001
+    padding: 00010000
+    unwrapper: 01000000
+  - meshName:
+    - Cube.009
+    padding: 27000000
+    unwrapper: 01000000
+  - meshName:
+    - Column01
+    padding: 37000000
+    unwrapper: 01000000
   assetList:
   - Assets/MeshEditor/LowPolyWeapon/Models/axe.FBX
   - Assets/PolygonSciFiCity/Models/Collision/SM_Bld_StripClub_Interior_02_Collision_MODIFIED.fbx
@@ -1448,7 +2379,308 @@ MonoBehaviour:
   - Assets/PolygonSciFiCity/Models/SM_Bld_Underpass_01.fbx
   - Assets/PolygonSciFiCity/Models/SM_Prop_Books_01.fbx
   - Assets/PolygonSciFiCity/Models/SM_Prop_WoodenPath_01.fbx
-  uvOverlapAssetList: 01010000010100000101000001010000000000000101000001010000010100000101000001010000010100000000000000000000000000000000000001010000010100000101000001010000000000000101000000000000000000000101000001010000010100000101000000000000010100000000000001010000000000000101000001010000000000000000000001010000010100000101000001010000ffffffff00000000ffffffff00000000ffffffffffffffffffffffffffffffffffffffff00000000ffffffffffffffffffffffffffffffffffffffff01010000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000ffffffffffffffffffffffffffffffffffffffff01010000010100000101000001010000010100000101000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000101000001010000010100000101000001010000000000000101000001010000000000000000000000000000010100000101000000000000010100000000000000000000000000000101000001010000010100000101000000000000010100000101000000000000000000000000000000000000010100000101000001010000010100000101000001010000010100000101000001010000000000000101000001010000000000000000000001010000010100000000000001010000010100000000000000000000010100000000000000000000000000000000000000000000000000000101000001010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001010000000000000000000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000010100000000000000000000000000000000000001010000000000000000000000000000000000000000000000000000010100000101000000000000010100000000000000000000000000000000000000000000010100000101000000000000000000000101000001010000000000000101000001010000010100000000000000000000000000000000000000000000000000000000000001010000000000000101000001010000010100000000000000000000000000000000000000000000000000000000000000000000010100000101000000000000000000000000000000000000000000000101000000000000000000000000000000000000010100000000000000000000000000000000000000000000000000000000000001010000000000000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010100000000000000000000000000000101000000000000000000000101000000000000000000000101000000000000000000000000000000000000000000000000000000000000000000000000000001010000000000000000000000000000000000000000000000000000010100000000000000000000000000000000000000000000010100000000000000000000000000000101000001010000000000000101000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001010000010100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010100000101000000000000000000000000000000000000010100000000000000000000010100000000000000000000010100000101000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000101000000000000000000000101000000000000000000000101000000000000000000000101000000000000000000000000000000000000000000000101000000000000000000000101000000000000000000000000000000000000010100000000000001010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010100000101000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010100000000000000000000000000000101000000000000000000000101000000000000000000000000000001010000000000000000000000000000000000000000000000000000000000000101000000000000010100000000000001010000000000000101000000000000000000000000000001010000000000000000000000000000010100000000000000000000000000000000000000000000000000000000000000000000000000000000000001010000000000000101000000000000000000000101000000000000000000000101000000000000000000000101000000000000000000000000000000000000000000000000000001010000000000000000000000000000000000000000000001010000000000000000000000000000010100000000000000000000000000000000000001010000000000000000000000000000000000000000000000000000000000000000000000000000010100000101000000000000010100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000010100000101000001010000000000000000000001010000000000000101000000000000000000000000000001010000000000000000000000000000000000000000000000000000010100000000000001010000010100000000000000000000000000000000000000000000000000000101000000000000000000000101000000000000000000000101000000000000000000000000000000000000000000000000000001010000010100000000000000000000000000000000000000000000000000000000000001010000000000000000000001010000010100000000000000000000000000000101000001010000000000000000000000000000000000000101000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000000000001010000000000000000000000000000000000000000000001010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000101000000000000010100000000000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000000000000000000001010000000000000101000000000000000000000000000000000000000000000000000000000000010100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000101000001010000000000000000000000000000000000000000000000000000010100000000000000000000000000000000000000000000010100000000000000000000000000000000000001010000000000000000000000000000
+  - Assets/TirgamesAssets/NightClub/Models/Column04.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall200x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium02_3.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight02_11.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_1_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight04_2.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Column01.FBX
+  - Assets/TirgamesAssets/NightClub/Models/GoGo02.FBX
+  - Assets/TirgamesAssets/NightClub/Models/CeilingCenter02_5.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium02_2.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Stairs03_265x900x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Stairs03_265x650cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrame700x300x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall150x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium01_3.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Steps450x50cm01.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_5_700x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_10_700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_350x175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Stairs04_45Deg265x950x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_5_1400x700cm.FBX
+  - Assets/TirgamesAssets/PBRDoors/Models/WC2Male.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium03_500x400x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight01_4.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall350x350xR175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor350x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall45Degree700x350.FBX
+  - Assets/TirgamesAssets/NightClub/Models/CeilingCenter01_1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_3_700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrame700x300x200cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_16_45Deg.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Column07.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling04_1400x350x175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrameEnd500x300xR250cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallRound350x350x20cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Stairs02_300x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Barrier01_2.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Steps450x100cm02.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_4_350x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/StripPole01_275cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor700xR350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrameEnd700x300xR350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/GoGo01.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Barrier01_5.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet02_350cmAngle4.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallColumn01_1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/BarrierCrowd01.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall350x350cmDoor150cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_9_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_4_700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_700x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet02_350cmAngle1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_4_700x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_11_700x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet01_700xR175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_13_50x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_12_700x700xR175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium01_4.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_1400x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet01_700xR350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet02_350cmAngle2.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Column06.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall1400x50cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700x350xRout175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_3_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall350x75cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet02_350cm.FBX
+  - Assets/TirgamesAssets/PBRDoors/Models/DoorDouble01.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_Angle1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Barrier01_6.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor700xR175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700x50xR350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700cmFrameRound300cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium03_700x600x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight04_1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet01_1400cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium03_350x350x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700x25x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor1400x50.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor350xR87cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet02_1400cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Barrier01_3.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrameRound700x300x600cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/CeilingCenter02_1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Stairs03_350x900cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium01_5.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium02_5.FBX
+  - Assets/TirgamesAssets/PBRDoors/Models/WC2Female.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall350x50xRout87cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrame700x300x100cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor45Degree350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DanceFloor01Parapet02.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_2_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrameEnd700x300cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Column08.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DanceFloor01Parapet01.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall350x350cmDoor300cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_8_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet01_700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet01_350cmAngle2.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_9_700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_17_45Deg.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall350x50cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet01_45Deg2_350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall350cmFrameRound300cm.FBX
+  - Assets/TirgamesAssets/PBRDoors/Models/WC1Male.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet01_350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/StripPole01_300cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet02_45Deg2_350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrame300x250x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Stairs04_265x950cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_350xR175.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Stairs03_45Deg265x900cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight01_2.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor45Degree700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700x75cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Curtain01_300cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium02_1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_50x350.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight02_6.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight02_2.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_8_700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall175x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrame300x300x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrame500x300x100cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DanceFloor01_1_21x21m.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall1400x75cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrameRound700x300x100cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Barrier01_7.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_45Deg350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight03_1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_350x700cm.FBX
+  - Assets/TirgamesAssets/PBRDoors/Models/DoorSingle01.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700x50xR175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallNiche01_2_700x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall100x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall1400cmFrame700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium03_700x350x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_Angle1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallNiche02_5_700x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Column02.FBX
+  - Assets/TirgamesAssets/NightClub/Models/CeilingCenter01_2.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet02_45Deg_700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight02_12.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_1400x1400cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Stairs01_500x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_1400x1400cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight05_1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet01_350cmAngle4.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium02_4.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrameRound700x300x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium03_700x250x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall25x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet01_350cmAngle3.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Barrier01_1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/StairsMetalStraight01.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight02_5.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrameEnd300x300cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/CeilingCenter02_4.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium01_1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_45Deg700cm.FBX
+  - Assets/TirgamesAssets/PBRDoors/Models/WC2.FBX
+  - Assets/TirgamesAssets/NightClub/Models/CeilingCenter01_5.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallNiche01_1_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_10_50x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_11_700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_14_45Deg350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700x350xR175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_4_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_12_700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/CeilingCenter02_2.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet01_45Deg_700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall1400cmFrameRound700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight05_2.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_2_700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium01_2.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall350x50xRout175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/CeilingCenter01_3.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall50x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/StairsMetalSpiral01.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallNiche01_4_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_1_700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling04_45Deg700x700x175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallNiche01_6_700x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet01_350cmAngle6.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_350xR87cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight02_1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet02_350cmAngle3.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Stairs03_265x900cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium03_350x250x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700cmDoor300cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_1400x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight02_7.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrameRound300x300x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight02_4.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Stairs04_45Deg265x950cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_7_700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Column03.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight01_3.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling04_700x350x175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700x50cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium03_250x250x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Stairs04_265x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallNiche01_3_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700x50xRout350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700cmDoor150cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor45Degree1400x1400cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium01_6.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700x350xR350cm.FBX
+  - Assets/TirgamesAssets/PBRDoors/Models/DoorSingle04.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet02_700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet01_350cmAngle5.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall350x350xRout87cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700x350xRout350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall1400x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling04_350x350x175cm.FBX
+  - Assets/TirgamesAssets/PBRDoors/Models/DoorDouble04.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Steps450x100cm03.FBX
+  - Assets/TirgamesAssets/PBRDoors/Models/WC1Female.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_1400x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrameRound500x300x200cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrameRound500x300x100cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall350x350xRout175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall175x75cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall350x350xR87cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight02_9.FBX
+  - Assets/TirgamesAssets/PBRDoors/Models/DoorSingle02.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet01_350cmAngle1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_6_350x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall350cmFrame300x300cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor700x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrameRound300x300x100cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet01_45Deg_350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_6_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_14_45Degree700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor350xR175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallNiche02_4_200x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Stairs02_500x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Barrier01_8.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700cmFrame300x300cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight01_1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrame500x300x400cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Parapet02_350cmAngle5.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall1400x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/CeilingCenter01_4.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrameRound500x300x300cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700cmFrame500x300cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrame300x300x100cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall350x25x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_700xR175.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor350x50cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Steps450x100cm01.FBX
+  - Assets/TirgamesAssets/PBRDoors/Models/WC1.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700x50xRout175cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700cmFrameRound500cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_12_700x700xR350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrame150x250x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_1400x50cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_4_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium03_700x400x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall700x175xRout350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Curtain01_500cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrame500x300x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling02_7_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall45DegFrame700x300cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallNiche02_2_350x350cm.FBX
+  - Assets/TirgamesAssets/PBRDoors/Models/DoorDouble02.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight02_3.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DanceFloor01Stairs01.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallNiche01_5_700x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight03_2.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_1400x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrameRound700x300x200cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallNiche02_1_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Podium02_6.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling01_700xR350.FBX
+  - Assets/TirgamesAssets/PBRDoors/Models/DoorDouble03.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrameEnd500x300cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_15_45Degree700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallNiche02_3_350x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor1400x1400cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight02_8.FBX
+  - Assets/TirgamesAssets/NightClub/Models/DoorFrameLight02_10.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallFrameRound500x300x25cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Wall45DegFrame700x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Ceiling03_6_700x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/WallRound700x350x20cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor1400x700cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Column05.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Barrier01_4.FBX
+  - Assets/TirgamesAssets/NightClub/Models/CeilingCenter02_3.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Floor1400x350cm.FBX
+  - Assets/TirgamesAssets/NightClub/Models/Stairs01_350x700cm.FBX
+  uvOverlapAssetList: 01010000010100000101000001010000000000000101000001010000010100000101000001010000010100000000000000000000000000000000000001010000010100000101000001010000000000000101000000000000000000000101000001010000010100000101000000000000010100000000000001010000000000000101000001010000000000000000000001010000010100000101000001010000ffffffff00000000ffffffff00000000ffffffffffffffffffffffffffffffffffffffff00000000ffffffffffffffffffffffffffffffffffffffff01010000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000ffffffffffffffffffffffffffffffffffffffff0101000001010000010100000101000001010000010100000000000000000000000000000000000000000000010100000000000000000000000000000000000000000000010100000101000001010000010100000101000000000000010100000101000000000000000000000000000001010000010100000000000001010000000000000000000000000000010100000101000001010000010100000000000001010000010100000000000000000000000000000000000001010000010100000101000001010000010100000101000001010000010100000101000000000000010100000101000000000000000000000101000001010000000000000101000001010000000000000000000001010000000000000000000000000000000000000000000000000000010100000101000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000010100000000000000000000000000000000000000000000000000000000000001010000000000000000000000000000000000000101000000000000000000000000000000000000000000000000000001010000010100000000000001010000000000000000000000000000000000000000000001010000010100000000000000000000010100000101000000000000010100000101000001010000000000000000000000000000000000000000000000000000000000000101000000000000010100000101000001010000000000000000000000000000000000000000000000000000000000000000000001010000010100000000000000000000000000000000000000000000010100000000000000000000000000000000000001010000000000000000000000000000000000000000000000000000000000000101000000000000000000000000000000000000010100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001010000000000000000000000000000010100000000000000000000010100000000000000000000010100000000000000000000000000000000000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000000000001010000000000000000000000000000000000000000000001010000000000000000000000000000010100000101000000000000010100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000101000001010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001010000010100000000000000000000000000000000000001010000000000000000000001010000000000000000000001010000010100000000000000000000000000000000000000000000010100000000000000000000000000000000000000000000010100000000000000000000010100000000000000000000010100000000000000000000010100000000000000000000000000000000000000000000010100000000000000000000010100000000000000000000000000000000000001010000000000000101000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001010000010100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001010000000000000000000000000000010100000000000000000000010100000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000010100000000000001010000000000000101000000000000010100000000000000000000000000000101000000000000000000000000000001010000000000000000000000000000000000000000000000000000000000000000000000000000000000000101000000000000010100000000000000000000010100000000000000000000010100000000000000000000010100000000000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000101000000000000000000000000000001010000000000000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000000000000000000001010000010100000000000001010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010100000000000000000000000000000000000000000000000000000000000000000000010100000000000000000000000000000000000000000000000000000000000001010000010100000101000000000000000000000101000000000000010100000000000000000000000000000101000000000000000000000000000000000000000000000000000001010000000000000101000001010000000000000000000000000000000000000000000000000000010100000000000000000000010100000000000000000000010100000000000000000000000000000000000000000000000000000101000001010000000000000000000000000000000000000000000000000000000000000101000000000000000000000101000001010000000000000000000000000000010100000101000000000000000000000000000000000000010100000000000000000000000000000000000000000000010100000000000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010100000000000001010000000000000000000000000000000000000000000000000000010100000000000000000000000000000000000000000000010100000000000000000000000000000000000000000000000000000000000000000000000000000101000000000000010100000000000000000000000000000000000000000000000000000000000001010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010100000101000000000000000000000000000000000000000000000000000001010000000000000000000000000000000000000000000001010000000000000000000000000000000000000101000000000000000000000000000000000000000000000101000000000000000000000101000000000000010100000101000001010000010100000101000001010000000000000000000000000000000000000101000000000000010100000101000000000000010100000101000000000000000000000000000000000000000000000000000001010000010100000000000001010000010100000000000000000000000000000101000001010000010100000101000000000000000000000000000000000000000000000101000000000000000000000000000000000000010100000101000000000000000000000101000001010000000000000101000001010000010100000000000000000000000000000000000000000000000000000101000000000000000000000101000001010000010100000000000000000000000000000000000000000000010100000000000000000000000000000000000000000000010100000000000001010000010100000101000001010000000000000000000000000000000000000000000001010000000000000000000000000000000000000101000000000000000000000000000001010000010100000000000000000000000000000000000000000000000000000000000000000000010100000000000001010000000000000000000000000000000000000101000000000000000000000000000001010000000000000000000000000000000000000000000000000000010100000000000000000000000000000101000000000000000000000000000000000000000000000101000001010000000000000101000000000000000000000000000001010000000000000000000000000000010100000000000000000000000000000000000001010000010100000000000000000000010100000101000000000000000000000101000000000000010100000101000001010000000000000101000001010000010100000000000000000000000000000101000001010000000000000101000000000000010100000000000000000000010100000000000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000000000001010000010100000000000000000000000000000000000000000000010100000000000000000000000000000000000000000000010100000000000001010000000000000000000000000000000000000000000000000000010100000101000000000000000000000000000000000000000000000000000000000000000000000101000000000000010100000000000000000000000000000000000001010000010100000000000001010000010100000101000000000000000000000000000000000000000000000101000000000000000000000000000000000000000000000000000000000000000000000000000000000000010100000000000000000000010100000000000000000000000000000000000001010000000000000101000001010000000000000000000000000000000000000000000000000000010100000000000001010000000000000101000000000000010100000101000000000000000000000000000000000000000000000101000000000000000000000000000001010000010100000000000001010000
   xatlasWarningShown: 1
   foundCompatibleSetup: 1
   gpuName: NVIDIA GeForce GTX 1070
@@ -1534,5 +2766,5 @@ MonoBehaviour:
   renderSettingsRTPVSceneView: 0
   renderSettingsRTPVWidth: 640
   renderSettingsRTPVHeight: 360
-  modifiedMeshPaddingArray: 05000000
+  modifiedMeshPaddingArray: 57000000
   modifiedMeshUnwrapperArray: 01000000
